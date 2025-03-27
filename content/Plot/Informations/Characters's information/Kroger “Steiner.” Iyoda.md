@@ -32,15 +32,15 @@ Người thân:
 - Yukiko Iyoda. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Torsten “Steiner.” Iyoda (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - 22. Đội Tác Chiến Đặc Biệt 'Nanh Sắt')*
+Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
 
-Mô tả ngoại hình: Chiều cao trung bình, Vai hơi to, Mũi Nubian, Mắt một mí, Lông mày rậm ở cuối, Tóc đen.
+Mô tả ngoại hình: Chiều cao trung bình, Vai hơi to, Mũi Nubian, Mắt một mí, Lông mày rậm ở cuối, Tóc mái đen ngắn, dáng người cực kì lực lưỡng.
 
 Độc chất: Hút thuốc
 
 Tính cách: ?
 
-Bí danh đã biết:
+Bí danh đã biết: ?
 
 Thích: ?
 

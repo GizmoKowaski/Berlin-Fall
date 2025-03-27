@@ -31,15 +31,15 @@ Người thân:
 - Anna Chiu “Wong.” Chuen (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Peter “Kruefer.” König (Ở Đức); Lee “Hung.” Tak (Ở Hồng Kông) (Lê Hồng Đức) (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - 22. Đội Tác Chiến Đặc Biệt 'Nanh Sắt')*
+Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
 
-Mô tả ngoại hình: Cao trung bình, Tóc dài màu đen, Mũi hếch, Mắt một mí, Lông mày dài mỏng trung bình, Vai to, Mắt đen.
+Mô tả ngoại hình: Cao trung bình, Tóc dài tới vai màu đen, Mũi hếch, Mắt một mí, Lông mày dài mỏng trung bình, Vai to, Mắt đen.
 
 Độc chất: Không
 
 Tính cách: Anh ấy thường là người rất thân thiện, Đôi khi anh ấy có thể nghiêm khắc và khó chịu, Anh ấy có xu hướng nói những câu chuyện cười đồng tính với bất kỳ ai xung quanh, Anh ấy là một người đàn ông nội trợ lý tưởng vì kỹ năng nấu ăn tuyệt vời và trí óc rất chăm chỉ của mình, (tất cả những điều đó xuất phát từ hoàn cảnh của anh ấy khi anh ấy rất thiếu sự kết nối với những vụ bạo hành gia đình của Cha mình, chỉ có Mẹ là người duy nhất thể hiện sự quan tâm của mình.)
 
-Bí danh được biết đến:
+Bí danh được biết đến: ?
 
 Sở thích: Nấu ăn, Làm việc nhà, Nghe nhạc, Pha chế cocktail, Động vật, đặc biệt là mèo.
 

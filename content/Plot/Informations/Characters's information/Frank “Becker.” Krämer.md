@@ -29,9 +29,9 @@ Người thân:
 - Michelle “Meyer.” Burger (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Douglas “Meyer.” Stephenson (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]],sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - 22. Đội Tác Chiến Đặc Biệt 'Nanh Sắt')*
+Đang phục vụ: [[WGB-Kämpfer]],sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
 
-Mô tả ngoại hình: Tóc xoăn,
+Mô tả ngoại hình: Chiều cao trung bình, Tóc xoăn ngắn màu nâu sẫm, Trán cao, Mắt tròn và sâu, Lông mày rậm và cong nhẹ, Mũi thẳng, Môi dày vừa, Quai hàm vuông, Vai rộng, Thân hình săn chắc.
 
 Độc chất: Hút thuốc, Nghiện rượu
 
