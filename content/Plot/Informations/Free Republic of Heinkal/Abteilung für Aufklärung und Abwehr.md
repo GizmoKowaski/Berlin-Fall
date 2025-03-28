@@ -6,6 +6,6 @@ Tên gọi chính: Phòng Trinh sát và Phản gián (Abteilung für Aufklärun
 
 I. Đặc vụ tình báo ([[Schattenabteilung - SchAbt]])
 
-- Đơn vị 17 ([[Einheit 17 - E17]])
+II. Đơn vị 17 ([[Einheit 17 - E17]])
 
-- Nhóm Phản gián ([[Abwehrgruppe - AbGr]])
+III. Nhóm Phản gián ([[Abwehrgruppe - AbGr]])
