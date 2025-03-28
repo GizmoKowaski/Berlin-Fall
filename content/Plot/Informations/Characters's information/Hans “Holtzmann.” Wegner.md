@@ -10,7 +10,7 @@ Bản chất điềm tĩnh và phân tích của Wegner càng làm tăng hiệu 
 
 Tuy nhiên, việc Wegner phụ thuộc vào khả năng thao túng băng của mình cũng có thể gây ra điểm yếu. Những đối thủ có thể chống lại hoặc phá vỡ sức mạnh đông lạnh của anh có thể giành được lợi thế đáng kể. Ngoài ra, cách tiếp cận có chủ đích và được tính toán của anh có thể kém hiệu quả hơn trước những đối thủ thích sự hung hăng áp đảo hoặc chiến thuật khó lường.
 
-Bất chấp những hạn chế tiềm ẩn này, sức mạnh của Wegner là không thể phủ nhận. Anh là một chiến thuật gia bậc thầy, người có thể bẻ cong chiến trường theo ý muốn của mình, sử dụng khả năng thao túng băng của mình để kiểm soát dòng chảy của cuộc chiến và đánh bại đối thủ. Khi đối mặt với Jonrad Wegner, người ta không chỉ chiến đấu với một người đàn ông, mà còn phải đối phó với một môi trường đã được vũ khí hóa một cách chiến lược chống lại họ.
+Bất chấp những hạn chế tiềm ẩn này, sức mạnh của Wegner là không thể phủ nhận. Anh là một chiến thuật gia bậc thầy, người có thể bẻ cong chiến trường theo ý muốn của mình, sử dụng khả năng thao túng băng của mình để kiểm soát dòng chảy của cuộc chiến và đánh bại đối thủ. Khi đối mặt với Hans Wegner, người ta không chỉ chiến đấu với một người đàn ông, mà còn phải đối phó với một môi trường đã được vũ khí hóa một cách chiến lược chống lại họ.
 
 Trang thông tin:
 
