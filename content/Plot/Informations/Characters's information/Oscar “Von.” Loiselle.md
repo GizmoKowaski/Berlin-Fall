@@ -31,9 +31,9 @@ Người thân:
 - Bùi “Sơn.” Hùng (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Madeleine Loiselle. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], *sư đoàn ([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
+Đang phục vụ: [[WGB-Kämpfer]], *sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Tóc nâu dài, Hơi rối, Mắt to, Lông mày đậm, Mí mắt lót, Mũi hơi hếch, Má đầy đặn, Miệng cong nhẹ, Cằm vuông, Da sáng.
+Mô tả ngoại hình: Tóc nâu ngắn, rẽ ngôi giữa, hơi bồng và xoăn nhẹ ở phần ngọn. Tóc hai bên ôm vào khuôn mặt nhưng không che quá nhiều. Khuôn mặt đầy tàn nhang, trải rộng từ má đến sống mũi. Xương gò má hơi cao, cằm tròn, mắt không quá to và khoảng cách giữa hai mắt hơi gần nhau một chút, mắt nâu, mắt mí lót.
 
 Độc chất: Không
 

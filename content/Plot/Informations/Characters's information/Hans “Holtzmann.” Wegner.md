@@ -34,7 +34,7 @@ Người thân:
 
 - Sarah Holtzmann. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
+Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Chiều cao trung bình, Dáng người mảnh nhưng săn chắc, Tóc nâu và ngắn, tóc vuốt ngược ra sau, Mắt xám nhạt sắc lạnh, Lông mày mỏng và nhọn, Mũi thẳng và cao, Da nhợt nhạt, Ngón tay dài.
 

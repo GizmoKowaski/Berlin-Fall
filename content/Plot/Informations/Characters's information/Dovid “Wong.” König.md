@@ -31,9 +31,9 @@ Người thân:
 - Anna Chiu “Wong.” Chuen (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Peter “Kruefer.” König (Ở Đức); Lee “Hung.” Tak (Ở Hồng Kông) (Lê Hồng Đức) (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
+Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Cao trung bình, Tóc dài tới vai màu đen, Mũi hếch, Mắt một mí, Lông mày dài mỏng trung bình, Vai to, Mắt đen.
+Mô tả ngoại hình: Tóc đen ngắn nhưng bù xù, có nhiều sợi chỉa ra tự nhiên. Phần tóc mái không đồng đều, vài lọn rủ xuống trán nhưng không che mắt hoàn toàn. Tóc hai bên hơi dài hơn bình thường, không được tỉa gọn gàng, gương mặt có đường nét góc cạnh, xương hàm rõ nhưng không quá sắc, sống mũi cao và thẳng, còn đôi mắt một mí thì nhỏ, hơi trũng nhẹ.
 
 Độc chất: Không
 

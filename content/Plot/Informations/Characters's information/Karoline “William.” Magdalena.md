@@ -26,9 +26,9 @@ Người thân:
 - Anne “William.” Frank (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Klaus Ostermann. (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
+Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Thấp hơn trung bình một chút, Lông mi dài trung bình, Nốt ruồi nhỏ dưới hốc mắt phải, Vai hơi nhỏ, Hông to, Ngực vừa, Mũi thẳng, Tóc nâu dài ngang vai, Lông mày ngắn và đậm.
+Mô tả ngoại hình: Tóc vàng dài, rất dày và xoăn tự nhiên, tạo cảm giác hơi nặng nề. Các lọn tóc rối nhẹ, không quá trau chuốt, phần mái phủ xuống nhưng không che hoàn toàn trán. Khuôn mặt khá to, xương gò má rộng, cằm vuông rõ nét, đôi mắt nâu sâu, khá to và có đường nét sắc sảo, khiến tổng thể khuôn mặt trông cứng cáp hơn.
 
 Độc chất: Hút thuốc, Nghiện rượu
 

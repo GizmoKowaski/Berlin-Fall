@@ -31,9 +31,9 @@ Người thân:
 
 - Stefan “Schaeffer.” Braun (Cha, Chức vụ đã thực hiện: Đặc vụ tình báo) (Tình trạng: Đã mất)
 
-Đang đảm nhiệm: [[WGB-Truppführer]], Chỉ huy sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
+Đang đảm nhiệm: [[WGB-Truppführer]], Chỉ huy sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Nhìn chung cao, Tóc vàng dài, Mắt xanh, Lông mày nhỏ, Mắt mí lót, Vai to, Lông mi dài, Mũi thẳng, Da sáng
+Mô tả ngoại hình: tóc vàng dài, bồng bềnh và hơi gợn sóng, che gần hết một bên mắt. Sợi tóc dày, có độ phồng tự nhiên, với vài lọn rủ xuống phía trước. Khuôn mặt có đường nét thanh thoát, cằm hơi nhọn, sống mũi cao, mắt xanh, mắt mí lót, khá nhỏ, lông mày rất ngắn.
 
 Độc chất: Nghiện rượu
 

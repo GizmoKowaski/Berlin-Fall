@@ -31,7 +31,7 @@ Người thân:
 - Austin “Brückner.” Brown (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - Jessica “Brückner.” Schmidt (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Eisenfang']] - Đơn vị Chiến đấu Đặc biệt số 22 'Nanh Sắt')*
+Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Vai to, dáng người rất cao, tóc nâu dài tỉa lớp rối tự nhiên, có râu rậm, Dáng người săn chắc, Da nhợt nhạt, gò má rõ nét.
 
