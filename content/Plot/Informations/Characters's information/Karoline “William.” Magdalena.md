@@ -28,7 +28,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Tóc vàng dài, rất dày và xoăn tự nhiên, tạo cảm giác hơi nặng nề. Các lọn tóc rối nhẹ, không quá trau chuốt, phần mái phủ xuống nhưng không che hoàn toàn trán. Khuôn mặt khá to, xương gò má rộng, cằm vuông rõ nét, đôi mắt nâu sâu, khá to và có đường nét sắc sảo, khiến tổng thể khuôn mặt trông cứng cáp hơn.
+Mô tả ngoại hình: Tóc nâu dài, rất dày và xoăn, tạo cảm giác hơi nặng nề. Các lọn tóc rối nhẹ, không quá trau chuốt, phần mái phủ xuống nhưng không che hoàn toàn trán. Khuôn mặt khá to, xương gò má rộng, cằm vuông rõ nét, đôi mắt nâu sâu, khá to và có đường nét sắc sảo, khiến tổng thể khuôn mặt trông cứng cáp hơn.
 
 Độc chất: Hút thuốc, Nghiện rượu
 
