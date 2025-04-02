@@ -18,7 +18,7 @@ Tên đầy đủ: Oscar “Von.” Loiselle
 
 Quốc tịch: Pháp
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1977 (11 tuổi)
+Ngày sinh & Tuổi: 16 tháng 4 năm 1977
 
 Giới tính: Nam
 

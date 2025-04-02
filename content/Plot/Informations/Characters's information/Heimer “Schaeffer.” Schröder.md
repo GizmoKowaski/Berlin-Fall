@@ -17,7 +17,7 @@ Tên đầy đủ: Heimer “Schaeffer.” Schröder
 
 Quốc tịch: Đế chế Đức thống nhất
 
-Ngày sinh & Tuổi: 27 tháng 9 năm 1972 (16 tuổi)
+Ngày sinh & Tuổi: 27 tháng 9 năm 1972
 
 Giới tính: Nam
 

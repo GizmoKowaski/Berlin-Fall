@@ -16,7 +16,7 @@ Tên đầy đủ: Frank “Becker.” Krämer
 
 Quốc tịch: Hoa Kỳ
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1970 (18 tuổi)
+Ngày sinh & Tuổi: 16 tháng 4 năm 1970
 
 Giới tính: Thiên chúa giáo
 

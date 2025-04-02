@@ -19,8 +19,7 @@ Tên đầy đủ: Margarete “Steiner.” Iyoda
 
 Quốc tịch: Nhật Bản
 
-Ngày sinh & Tuổi: 1 tháng 10 năm 1972 (16 tuổi)
-
+Ngày sinh & Tuổi: 1 tháng 10 năm 1972
 Giới tính: Nam
 
 Chiều cao: 5’11.65” (168cm)

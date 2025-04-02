@@ -18,7 +18,7 @@ Tên đầy đủ: Jacob “Brückner.” Schmidt
 
 Quốc tịch: Hoa Kỳ
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1967 (21 tuổi)
+Ngày sinh & Tuổi: 16 tháng 4 năm 1967
 
 Giới tính: Nam
 

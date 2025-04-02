@@ -20,7 +20,7 @@ Tên đầy đủ: Hans “Holtzmann.” Wegner
 
 Quốc tịch: Đế chế Đức thống nhất
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1972 (16 tuổi)
+Ngày sinh & Tuổi: 16 tháng 4 năm 1972
 
 Giới tính: Nam
 

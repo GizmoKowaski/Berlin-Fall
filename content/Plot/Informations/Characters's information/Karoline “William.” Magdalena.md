@@ -13,7 +13,7 @@ Họ và tên đầy đủ: Karoline “William.” Magdalena
 
 Quốc tịch: Hoa Kỳ
 
-Ngày sinh & Tuổi: 12 tháng 6 năm 1971 (17 tuổi)
+Ngày sinh & Tuổi: 12 tháng 6 năm 1971
 
 Giới tính: Nữ
 

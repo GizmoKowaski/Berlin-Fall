@@ -18,7 +18,7 @@ Tên đầy đủ: Dovid “Wong.” König
 
 Quốc tịch: Hồng Kông
 
-Ngày sinh: 19 tháng 3 năm 1972 (16 tuổi)
+Ngày sinh: 19 tháng 3 năm 1972
 
 Giới tính: Nam
 
