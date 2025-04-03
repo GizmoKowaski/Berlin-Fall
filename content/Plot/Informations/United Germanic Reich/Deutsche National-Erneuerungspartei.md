@@ -10,7 +10,7 @@ Ca đảng: "Hymne der Wiedergeburt" (Khúc ca tái sinh)
 
 Năm Thành Lập Đảng: 1961
 
-Trưởng Đảng: Thomas Dostler
+Trưởng Đảng: [[Thomas Dostler]]
 
 Phó Trưởng Đảng: [[Gerhardt “Dieter.” Löwenberg]]
 

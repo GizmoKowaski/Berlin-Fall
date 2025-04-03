@@ -12,5 +12,5 @@ Năm Thành Lập Quốc Gia: 1966
 
 Chính Quyền: [[The FEKAs]]
 
-Thủ Tướng: [[Thomas Dostler]]
+Quốc Trưởng: [[Thomas Dostler]]
 

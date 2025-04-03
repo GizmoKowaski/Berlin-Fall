@@ -14,7 +14,7 @@ Ngày sinh & Tuổi: 27 tháng 9 năm 1971
 
 Giới tính: Nữ
 
-Chiều cao: 6’2.8” (190cm)
+Chiều cao: 5’11.65” (182cm)
 
 Tôn giáo: Thiên chúa giáo
 
