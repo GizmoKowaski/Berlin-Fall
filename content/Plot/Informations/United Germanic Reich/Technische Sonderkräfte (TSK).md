@@ -1,6 +1,6 @@
 #FEKA #FEKA-Division #FEKA-Division-Rank 
 
-1. **TSK-Technomarschall** – Thống soái tối cao của TSK. Nắm quyền chỉ huy tuyệt đối đối với toàn bộ các hoạt động của TSK, chịu trách nhiệm tích hợp công nghệ tiên tiến vào các chiến lược chiến tranh.
+1. **TSK-Technomarschall** – Thống soái tối cao của TSK. Nắm quyền chỉ huy tuyệt đối đối với toàn bộ các hoạt động của TSK, chịu trách nhiệm tích hợp công nghệ tiên tiến vào các chiến lược chiến tranh, nhận mệnh lệnh từ Bereichsleiter.
 
 2. **TSK-Ingenieurmeister** – Tổng công trình sư và chiến lược gia. Phụ trách nghiên cứu, phát triển và triển khai các công nghệ tiên tiến cho các đơn vị TSK. Đồng thời phối hợp chặt chẽ với bộ chỉ huy Feuerkraft-Elite Kampf-Agentur.
  

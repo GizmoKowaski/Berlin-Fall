@@ -2,7 +2,7 @@
 
 Lữ đoàn Chó săn là lực lượng tinh nhuệ nhất trong đơn vị Bão Sói (WSK), nổi bật với khả năng truy lùng, săn đuổi và tiêu diệt các mục tiêu quan trọng trong điều kiện khắc nghiệt nhất.
 
-- BHB-Oberleutnant – Chỉ huy trưởng Lữ đoàn Chó săn. Phụ trách quản lý toàn bộ hoạt động tác chiến, điều phối các chiến dịch lớn và trực tiếp nhận lệnh từ chỉ huy cấp trên của WSK.
+- BHB-Oberleutnant – Chỉ huy trưởng Lữ đoàn Chó săn. Phụ trách quản lý toàn bộ hoạt động tác chiến, điều phối các chiến dịch lớn và trực tiếp nhận lệnh từ Bereichsleiter.
 
 - BHB-Hauptfeldwebel – Sĩ quan điều hành chính. Giám sát việc triển khai lực lượng, phân công nhiệm vụ và đảm bảo mọi kế hoạch tác chiến diễn ra theo đúng kế hoạch.
 

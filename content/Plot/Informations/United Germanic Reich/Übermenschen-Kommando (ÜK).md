@@ -1,5 +1,5 @@
 #FEKA #FEKA-Division #FEKA-Division-Rank
-- ÜK-Gottmarschall – Tổng Tư lệnh tối cao của ÜK; nắm quyền chỉ huy tuyệt đối đối với mọi hoạt động của ÜK.
+- ÜK-Gottmarschall – Tổng Tư lệnh tối cao của ÜK; nắm quyền chỉ huy tuyệt đối đối với mọi hoạt động của ÜK, nhận mệnh lệnh từ Bereichsleiter.
 
 - ÜK-Archon – Chỉ huy cấp cao, giám sát nhiều phân khu ÜK và điều phối các chiến dịch lớn.
 

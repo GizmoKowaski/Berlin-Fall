@@ -1,6 +1,22 @@
 #Heinkal #Heinkal-Division #Heinkal-Division-Ranks #AKT #Robot #Mechanics
 
-Lực lượng Robot của Quân HEINKAL (1988) hiện đang có.
+- **AKT-Automatenmarschall** – Thống soái Tự động hóa. Chỉ huy tối cao của AKT, hoạch định chiến lược tổng thể cho việc sử dụng lực lượng robot và tự động hóa của Heinkal, phối hợp với Bereichsleiter.
+- **AKT-Chefkonstrukteur** – Tổng công trình sư Chế tạo. Chịu trách nhiệm chính về thiết kế, nghiên cứu, phát triển hoặc tích hợp (có thể từ nguồn viện trợ hoặc công nghệ chiếm được) các robot chiến đấu và hệ thống tự động hóa của Heinkal.
+- **AKT-Operationskommandant** – Chỉ huy Tác chiến Tự động. Điều hành và giám sát các chiến dịch quy mô lớn sử dụng lực lượng robot của Heinkal, đảm bảo phối hợp hiệu quả với các lực lượng khác của Cộng hòa Tự do Heinkal.
+- **AKT-KI-Direktor** – Giám đốc Trí tuệ Nhân tạo (AI). Quản lý và phát triển (hoặc điều chỉnh) các thuật toán AI, hệ thống học máy và phần mềm điều khiển cốt lõi cho các đơn vị robot của Heinkal, có thể tập trung vào đối phó với công nghệ AI của đối phương.
+- **AKT-Einheitsführer** – Chỉ huy Đơn vị Robot. Chỉ huy trực tiếp một đơn vị hoặc đội hình robot cụ thể của Heinkal.
+- **AKT-Taktischer Koordinator** – Điều phối viên Chiến thuật Robot. Chuyên trách lập kế hoạch nhiệm vụ chi tiết cho các nhóm robot của Heinkal, tối ưu hóa chiến thuật trong môi trường tác chiến chống lại lực lượng FEKA/AKE.
+- **AKT-Chefoperator** – Trưởng kíp Vận hành. Chuyên gia điều khiển robot cấp cao của Heinkal, giám sát và chỉ huy các hệ thống robot trong các nhiệm vụ then chốt.
+- **AKT-System-Spezialist** – Chuyên viên Hệ thống Robot. Kỹ thuật viên cao cấp của Heinkal chuyên sâu về một lĩnh vực cụ thể của robot chiến đấu (có thể bao gồm cả phân tích và khai thác công nghệ đối phương).
+- **AKT-Operator** – Nhân viên Vận hành Robot. Người điều khiển robot trực tiếp hoặc giám sát hoạt động tự động của các đơn vị robot cơ bản thuộc Heinkal.
+
+### **Hỗ Trợ**
+
+- **AKT-Wartungstechniker** – Kỹ thuật viên Bảo trì Robot. Chịu trách nhiệm bảo trì, sửa chữa và có thể là cải tiến/nâng cấp phần cứng cho các đơn vị robot của Heinkal.
+- **AKT-Datennetz-Spezialist** – Chuyên viên Mạng Dữ liệu Tự động. Đảm bảo tính toàn vẹn, bảo mật và hiệu quả của mạng lưới liên lạc và điều khiển cho lực lượng robot Heinkal, đặc biệt chú trọng chống nhiễu và xâm nhập.
+- **AKT-Logistiker** – Sĩ quan Hậu cần Robot. Quản lý nguồn cung cấp năng lượng, đạn dược, phụ tùng và vận chuyển cho các đơn vị robot của Heinkal, có thể phối hợp chặt chẽ với nguồn viện trợ từ đồng minh.
+
+Lực lượng Robot của chính phủ HEINKAL (1988) hiện đang có.
 
 I. (Verborgene Einheit - Ẩn tự)
 

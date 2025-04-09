@@ -2,7 +2,7 @@
 
 Hoạt động dưới quyền của [[Kommando für Übermenschen und Bestien|KÜB]]
 
-**WGB-Oberführer** sẽ hoạt động dưới quyền chỉ huy tối cao của một cá nhân đứng đầu tổ chức hoặc quốc gia, mỗi người phụ trách một lĩnh vực hoặc khu vực cụ thể:
+**WGB-Oberführer** sẽ hoạt động dưới quyền Bereichsleiter, mỗi người phụ trách một lĩnh vực hoặc khu vực cụ thể:
 
 - **Oberführer der Taktik** (Chỉ huy chiến thuật) – Phụ trách chiến lược tổng thể.
 - **Oberführer der Logistik** (Chỉ huy hậu cần) – Quản lý vũ khí, nhu yếu phẩm, vận chuyển.

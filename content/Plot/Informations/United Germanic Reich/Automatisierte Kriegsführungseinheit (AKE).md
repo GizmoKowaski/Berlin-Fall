@@ -1,6 +1,22 @@
 #FEKA  #FEKA-Division  #FEKA-Division-Rank #AKE #Robot #Mechanics
 
-Lực lượng Robot của Quân FEKA (1988) hiện đang có.
+- **AKE-Automatenmarschall** – Thống soái Tự động hóa. Chỉ huy tối cao của AKE, hoạch định chiến lược tổng thể cho việc sử dụng lực lượng robot và tự động hóa trên toàn bộ chiến trường, báo cáo trực tiếp cho Bereichsleiter.
+- **AKE-Chefkonstrukteur** – Tổng công trình sư Chế tạo. Chịu trách nhiệm chính về thiết kế, nghiên cứu và phát triển các thế hệ robot chiến đấu, drone và hệ thống tự động hóa mới; giám sát các phòng thí nghiệm và cơ sở sản xuất.
+- **AKE-Operationskommandant** – Chỉ huy Tác chiến Tự động. Điều hành và giám sát các chiến dịch quy mô lớn sử dụng lực lượng robot (cấp sư đoàn hoặc quân đoàn robot), đảm bảo phối hợp hiệu quả giữa các đơn vị tự động và với các lực lượng khác (như TSK).
+- **AKE-KI-Direktor** – Giám đốc Trí tuệ Nhân tạo (AI). Quản lý và phát triển các thuật toán AI, hệ thống học máy, mạng lưới thần kinh nhân tạo và phần mềm điều khiển cốt lõi cho các đơn vị robot, đảm bảo khả năng tự율 và hiệu quả chiến đấu.
+- **AKE-Einheitsführer** – Chỉ huy Đơn vị Robot. Chỉ huy trực tiếp một đơn vị hoặc đội hình robot cụ thể (ví dụ: một tiểu đoàn robot tấn công, một phi đội drone trinh sát/tấn công, một cụm pháo tự động). Chịu trách nhiệm thực thi nhiệm vụ cấp trên giao.
+- **AKE-Taktischer Koordinator** – Điều phối viên Chiến thuật Robot. Chuyên trách lập kế hoạch nhiệm vụ chi tiết cho các nhóm robot, tối ưu hóa đội hình, đường di chuyển và chiến thuật dựa trên thông tin tình báo, địa hình và mục tiêu. Hoạt động tại sở chỉ huy cấp thấp hơn hoặc trực tiếp trên chiến trường (từ xa).
+- **AKE-Chefoperator** – Trưởng kíp Vận hành. Chuyên gia điều khiển robot cấp cao, có khả năng giám sát và chỉ huy trực tiếp (hoặc bán tự động) nhiều robot hoặc các hệ thống vũ khí tự động phức tạp cùng lúc, thường trong các nhiệm vụ quan trọng hoặc tình huống đặc biệt.
+- **AKE-System-Spezialist** – Chuyên viên Hệ thống Robot. Kỹ thuật viên cao cấp chuyên sâu về một lĩnh vực cụ thể của robot chiến đấu (ví dụ: hệ thống cảm biến, hệ thống vũ khí tích hợp, cơ khí-chuyển động, mạng lưới điều khiển, mã hóa).
+- **AKE-Operator** – Nhân viên Vận hành Robot. Người điều khiển robot trực tiếp (nếu cần), giám sát hoạt động tự động của các đơn vị robot cơ bản, thực hiện các lệnh đơn giản và báo cáo tình trạng hệ thống. Đây là cấp bậc cơ bản trong nhánh vận hành.
+
+### **Hỗ Trợ**
+
+- **AKE-Wartungstechniker** – Kỹ thuật viên Bảo trì Robot. Chịu trách nhiệm bảo trì định kỳ, sửa chữa khẩn cấp và nâng cấp phần cứng cho các đơn vị robot tại thực địa hoặc tại các cơ sở hậu cần.
+- **AKE-Datennetz-Spezialist** – Chuyên viên Mạng Dữ liệu Tự động. Đảm bảo tính toàn vẹn, bảo mật, băng thông và hiệu quả của mạng lưới liên lạc, truyền dữ liệu và điều khiển từ xa cho toàn bộ lực lượng robot.
+- **AKE-Logistiker** – Sĩ quan Hậu cần Robot. Quản lý và phân phối nguồn cung cấp năng lượng (pin, nhiên liệu), đạn dược chuyên dụng, phụ tùng thay thế, và tổ chức vận chuyển, triển khai các đơn vị robot.
+
+Lực lượng Robot của chính phủ FEKA (1988) hiện đang có.
 
 I. (Verborgene Einheit - Ẩn tự)
 - DEE. I “Diener” (Con Hầu) (Sản Xuất: 5.5k)

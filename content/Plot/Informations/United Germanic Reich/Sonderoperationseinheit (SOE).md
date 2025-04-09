@@ -1,7 +1,7 @@
 #FEKA #FEKA-Division #FEKA-Division-Rank 
 
 
-- **SOE-Kommandant** – Tổng chỉ huy toàn bộ lực lượng SOE, chịu trách nhiệm hoạch định chiến lược, tổ chức các nhiệm vụ quan trọng và trực tiếp báo cáo lên cấp chỉ huy FEKA.
+- **SOE-Kommandant** – Tổng chỉ huy toàn bộ lực lượng SOE, chịu trách nhiệm hoạch định chiến lược, tổ chức các nhiệm vụ quan trọng và trực tiếp báo cáo lên Bereichsleiter.
 
 - **SOE-Oberführer** – Chỉ huy cấp cao, quản lý các nhóm tác chiến lớn hoặc những nhiệm vụ phức tạp.
 
