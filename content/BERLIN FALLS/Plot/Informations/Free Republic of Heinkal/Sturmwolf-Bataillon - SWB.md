@@ -1,0 +1,6 @@
+#Heinkal
+
+- **Vai trò chính:** Là lực lượng chiến đấu chủ lực của [[Wolfssturm-Kommando (WSK)]], chuyên thực hiện các cuộc **tấn công trực diện**, **phá vỡ các vị trí phòng thủ kiên cố** của đối phương, và thực hiện các **chiến thuật xung kích** tốc độ cao. SWB thường là mũi nhọn trong các chiến dịch tấn công quy mô lớn của WSK, mở đường và tạo hỗn loạn cho các đơn vị khác (như BHB) tiến vào hoặc bảo vệ khu vực.
+- **Huấn luyện:** Binh sĩ SWB được huấn luyện cực kỳ khắc nghiệt về chiến thuật tấn công cường độ cao, sử dụng thành thạo vũ khí hạng nặng, chất nổ, cận chiến và tác chiến trong môi trường đô thị hoặc công sự. Mức độ tinh nhuệ cao, nhưng có thể không chuyên sâu về kỹ năng theo dõi, ẩn nấp như BHB.
+- **Trang bị:** Thường được trang bị giáp và hỏa lực mạnh hơn BHB, phù hợp với vai trò đối đầu trực diện và chịu đựng hỏa lực địch trong các cuộc đột phá. Có thể bao gồm súng máy hạng nhẹ, súng phóng lựu, vũ khí chống tăng cá nhân và các trang bị phá công sự.
+- **Phối hợp:** SWB thường hoạt động phối hợp chặt chẽ với BHB. SWB có thể là lực lượng tiên phong phá vỡ phòng tuyến, tạo điều kiện cho BHB xâm nhập và truy bắt/tiêu diệt mục tiêu giá trị cao. Ngược lại, sau khi BHB hoàn thành nhiệm vụ ám sát/săn lùng, SWB có thể tiến vào để dọn dẹp chiến trường và kiểm soát khu vực.
