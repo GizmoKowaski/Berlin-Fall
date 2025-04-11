@@ -48,3 +48,8 @@ Ghét: Thuốc lá, Tất cả các loại thuốc giảm đau và thuốc chố
 Khả năng đặc biệt: Dịch chuyển vật.
 
 Đặc điểm chiến đấu: Heimer có thể rút súng và bắn với tốc độ cực nhanh, khiến anh trở thành một trong những tay súng nhanh nhất còn sống, gợi nhớ đến một tay súng thời xưa. Một tay súng huyền thoại với khả năng sử dụng súng gần như theo bản năng. Trong khi anh vật lộn với chiến đấu tay đôi, sức mạnh thô bạo tuyệt đối của anh cho phép anh chế ngự những kẻ thù yếu hơn. Khả năng thính giác siêu nhạy của anh khiến anh trở nên nguy hiểm ngay cả trong bóng tối hoàn toàn, khi nói đến việc đánh nhau, anh ấy vẫn giữ thái độ điềm tĩnh, không bao giờ bộc lộ cảm xúc của mình chỉ để kẻ thù không thể đoán trước được động thái của anh ấy.
+
+Địa chỉ: 
+
+- (Cũ) Khu chung cư Sonnenblick, Schillerstraße 15, Tòa B, Phòng 708, 10627 Berlin, Charlottenburg.
+- (Mới/Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

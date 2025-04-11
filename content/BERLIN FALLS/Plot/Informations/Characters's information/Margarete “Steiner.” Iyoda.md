@@ -48,3 +48,9 @@ Ghét: ?
 Khả năng đặc biệt: Hỏa Động Học
 
 Đặc điểm chiến đấu: Margarete ưa chuộng chiến đấu cận chiến, nơi cô có thể kết hợp sức mạnh vật lý với khả năng nhiệt động học. Các đòn đánh của cô tập trung vào việc áp đảo đối thủ bằng sức mạnh thô bạo và gây sát thương nghiêm trọng. Phong cách chiến đấu của Margarete tập trung vào việc đẩy đối thủ vào thế phòng ngự liên tục, duy trì áp lực tối đa thông qua các đợt tấn công mạnh mẽ.
+
+Địa chỉ:
+
+- (Cũ) 2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo, Japan
+- (Cũ) Augustastraße 30, 53173 Bonn (Bad Godesberg)
+\- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

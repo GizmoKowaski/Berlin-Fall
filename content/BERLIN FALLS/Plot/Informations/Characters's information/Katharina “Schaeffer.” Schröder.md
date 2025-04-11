@@ -38,3 +38,7 @@ Sở thích: ?
 Ghét: ?
 
 Đặc điểm chiến đấu: Theo bản năng.
+
+Địa chỉ:
+
+- (Cũ) Khu chung cư Sonnenblick, Schillerstraße 15, Tòa B, Phòng 708, 10627 Berlin, Charlottenburg.

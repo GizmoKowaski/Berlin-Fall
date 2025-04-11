@@ -43,3 +43,9 @@ Ghét: ?
 Khả năng đặc biệt: Điều khiến sắt thép
 
 Đặc điểm chiến đấu: Karoline Magdalena là một chiến thuật gia kiên nhẫn, ưu tiên việc quan sát và tính toán kỹ lưỡng trước khi hành động. Phong cách chiến đấu của cô kết hợp giữa kỹ năng bắn tỉa chính xác và khả năng thao túng kim loại để tạo lợi thế chiến thuật. Magdalena luôn duy trì khoảng cách với mục tiêu, tận dụng lợi thế về tầm nhìn rộng và khả năng điều khiển đạn đạo để tấn công từ những vị trí không ngờ tới. Cô thường biến môi trường thành một công cụ chiến đấu bằng cách đặt các mảnh kim loại nhỏ trên mặt đất, trong tường hoặc trần nhà, sau đó điều khiển chúng để phục kích hoặc tạo lưới chặn kẻ thù. Tuy nhiên, Magdalena không mạnh trong các cuộc đọ sức kéo dài, tầm gần hoặc các trận chiến hỗn loạn đòi hỏi di chuyển liên tục. Thay vào đó, cô dựa vào tính toán chính xác và khai thác sai lầm của đối thủ để giành lợi thế.
+
+Địa chỉ:
+
+- (Cũ) 235 Bedford Avenue, Brooklyn, NY.
+- (Cũ) Am Weiher 14, 53604 Bad Honnef (Rhöndorf)
+- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

@@ -46,3 +46,9 @@ Ghét: ?
 Khả năng đặc biệt: Thạch Động Học
 
 Đặc điểm chiến đấu: Frank đóng vai trò như bức tường thành bất khả xâm phạm của nhóm. Anh kiên trì đứng vững, hấp thụ sát thương và bảo vệ đồng đội trong các tình huống hiểm nghèo. Thay vì lao vào tấn công, Frank tập trung vào việc chịu đựng đòn đánh và tìm kiếm cơ hội để tung ra đòn phản công mạnh mẽ nhất.
+
+Địa chỉ:
+
+- (Cũ) 1501 Congress Avenue, Austin, TX.
+- (Cũ) Kennedyallee 58, 53175 Bonn (Bad Godesberg)
+- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

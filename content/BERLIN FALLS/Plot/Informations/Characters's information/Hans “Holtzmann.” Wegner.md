@@ -51,3 +51,9 @@ Ghét: ?
 Khả năng đặc biệt: Băng, nhiệt lạnh.
 
 Đặc điểm chiến đấu: Wegner là bậc thầy trong việc biến chiến trường thành lợi thế cá nhân. Anh có thể đóng băng mặt đất để tạo ra địa hình trơn trượt, cản trở sự di chuyển của kẻ địch và buộc chúng di chuyển theo hướng anh mong muốn. Những bức tường băng sắc nhọn, cột băng chắn đường hoặc lớp sương lạnh mù mịt là công cụ quen thuộc mà anh sử dụng để chia cắt đội hình đối thủ, tạo ra khoảng trống hoặc bảo vệ đồng đội, trong giao tranh trực diện, Wegner kết hợp nhuần nhuyễn đòn tấn công vật lý với sức mạnh băng. Anh có thể bao phủ nắm đấm, khuỷu tay hoặc đầu gối bằng một lớp băng cứng, biến chúng thành vũ khí mạnh mẽ để hạ gục đối thủ. Các đòn đánh của anh không thiên về sức mạnh bạo lực mà tập trung vào việc tấn công các khớp, cơ quan trọng yếu hoặc đóng băng các chi để hạn chế chuyển động.
+
+Địa chỉ:
+
+- (Cũ) Hohenzollernstraße 45, 80801 München, Schwabing
+- (Cữ) Dollendorfer Straße 71, 53639 Königswinter (Niederdollendorf)
+- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

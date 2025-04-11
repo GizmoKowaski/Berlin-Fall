@@ -48,3 +48,9 @@ Ghét: Không thích những đồ ăn đắng, khó nuốt, Chiến tự.
 Khả năng đặc biệt: Điều khiển máu, xương và thịt.
 
 Đặc điểm chiến đấu: Oscar luôn tìm cách tiếp cận từ góc độ khó lường, đột kích bằng các đòn cận chiến hiểm hóc, sau đó rút lui trước khi đối thủ kịp phản công. Anh thường sử dụng các đòn đâm, cắt và đột phá nhằm vào các điểm yếu như khớp, cổ họng hoặc động mạch chủ.
+
+Địa chỉ:
+
+- (Cũ) 55 Rue de Bretagne, 75003 Paris.
+- (Cũ) Petersbergstraße 8, 53639 Königswinter
+- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

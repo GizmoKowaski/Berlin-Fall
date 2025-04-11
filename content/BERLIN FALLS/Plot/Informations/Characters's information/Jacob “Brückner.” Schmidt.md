@@ -48,3 +48,9 @@ Ghét: ?
 Khả năng đặc biệt: Điều Khiển Chất Lỏng
 
 Đặc điểm chiến đấu: Jacob không phải là chiến binh xông pha trực diện, thay vào đó anh chiến đấu dựa trên tính toán chiến lược và khả năng thao túng kẻ địch bằng sức mạnh của mình. Phong cách của anh tập trung vào kiểm soát môi trường và khiến đối thủ rơi vào thế bất lợi. Anh không phung phí sức mạnh vào những đợt tấn công dồn dập mà tập trung vào những cú đánh mang tính quyết định. Dòng nước của anh có thể phóng ra như một lưỡi dao, cắt xuyên qua mô mềm, khớp xương hoặc thậm chí các bộ phận cơ thể quan trọng.
+
+Địa chỉ:
+
+- (Cũ) 8500 Sunset Boulevard, Los Angeles, CA.
+- (Cũ) Rheinallee 9, 53173 Bonn (Bad Godesberg)
+- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

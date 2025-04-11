@@ -50,3 +50,9 @@ Khả năng đặc biệt: Điện Lưu.
 Đặc điểm chiến đấu: Phong cách chiến đấu của Dovid là sự kết hợp giữa các đòn tấn công nhanh, chính xác với các đòn điện giật mạnh mẽ. Anh đặc biệt xuất sắc trong cận chiến, nơi những chuyển động nhanh nhẹn và tính toán chuẩn xác của anh cho phép anh hạ gục đối thủ trước khi họ kịp phản ứng. Mặc dù khả năng bắn súng của anh không nổi trội, Dovid bù đắp điều đó bằng cách nhanh chóng áp sát đối thủ, buộc giao tranh vào phạm vi cận chiến, nơi mà kỹ năng tay đôi và đòn tấn công bằng điện của anh phát huy tối đa sức mạnh.
 
 Anh ưu tiên hành động theo bản năng hơn là các kế hoạch chiến lược phức tạp. Phong cách chiến đấu của anh nhấn mạnh vào các đòn đánh quyết đoán và dứt khoát, ưu tiên kết liễu nhanh chóng và vô hiệu hóa mối đe dọa ngay tức thì. Phương pháp này tuy không theo quy tắc thông thường nhưng luôn mang lại kết quả hiệu quả trong các tình huống chiến đấu căng thẳng và khó lường.
+
+Địa chỉ:
+
+- (Cũ) Tung Choi Street 125, Mong Kok, Kowloon
+- (Cũ) Hauptstraße 105, 53604 Bad Honnef
+\- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
