@@ -37,17 +37,17 @@ Mô tả ngoại hình: Vai to, dáng người rất cao, tóc nâu dài tỉa l
 
 Độc chất: Hút thuốc, Nghiện rượu, Nghiện ma túy.
 
-Tính cách: ?
+Tính cách: Jacob là bộ não chiến lược của đội, một người đàn ông thông minh sắc sảo, có khả năng nhìn xa trông rộng và thao túng tình huống một cách tài tình. Tuy nhiên, sự trải đời và những gì đã chứng kiến khiến anh trở nên khá cay độc (cynical), hoài nghi và có phần mệt mỏi với thế giới. Anh có xu hướng thích kiểm soát, không chỉ chiến trường mà còn cả những người xung quanh, thông qua trí tuệ và sự hiểu biết về tâm lý con người. Việc nghiện nhiều thứ (rượu, thuốc lá, ma túy) cho thấy một tâm hồn đang gặp vấn đề, có thể dùng chúng để đối phó với áp lực, sự trống rỗng hoặc những ám ảnh quá khứ. Anh có thể tỏ ra uy quyền, nhưng thường là một cách thầm lặng, đầy ẩn ý hơn là quát tháo.
 
 Bí danh đã biết: ?
 
-Thích: ?
+Thích: Lập kế hoạch, xây dựng chiến lược, quan sát và phân tích hành vi con người, kiểm soát tình hình, âm nhạc Blues hoặc Jazz (phù hợp tâm trạng trầm tư, phức tạp), sự yên tĩnh để suy nghĩ, đọc sách (lịch sử, tâm lý học, triết học), chơi bài hoặc các trò chơi trí tuệ mang tính đối kháng, chất kích thích (như một phần của sự nghiện ngập).
 
-Ghét: ?
+Ghét: Mất kiểm soát, những hành động bốc đồng, thiếu suy nghĩ, bị ra lệnh hoặc bị giới hạn bởi người khác, sự ngu ngốc, thiển cận, bị hối thúc, phải tham gia vào các hoạt động thể chất không có mục đích chiến lược rõ ràng, sự ngây thơ quá mức.
 
 Khả năng đặc biệt: Điều Khiển Chất Lỏng
 
-Đặc điểm chiến đấu: Jacob không phải là chiến binh xông pha trực diện, thay vào đó anh chiến đấu dựa trên tính toán chiến lược và khả năng thao túng kẻ địch bằng sức mạnh của mình. Phong cách của anh tập trung vào kiểm soát môi trường và khiến đối thủ rơi vào thế bất lợi. Anh không phung phí sức mạnh vào những đợt tấn công dồn dập mà tập trung vào những cú đánh mang tính quyết định. Dòng nước của anh có thể phóng ra như một lưỡi dao, cắt xuyên qua mô mềm, khớp xương hoặc thậm chí các bộ phận cơ thể quan trọng.
+Đặc điểm chiến đấu: Jacob là một người đàn ông cao lớn (205cm) với vóc dáng đồ sộ và săn chắc. Anh để tóc nâu dài, tỉa lớp và thường trông khá rối một cách tự nhiên, kết hợp với bộ râu rậm rạp bao phủ gần hết phần dưới khuôn mặt, tạo nên vẻ ngoài hoang dã và từng trải. Làn da trắng nhợt nhạt tương phản với mái tóc và bộ râu sẫm màu. Gương mặt ẩn sau lớp râu tóc có đường nét rõ ràng, gò má cao và đôi mắt sâu, thường mang ánh nhìn mãnh liệt hoặc trầm tư. Tổng thể toát lên vẻ mạnh mẽ, có phần đáng sợ và đầy bí ẩn của một người đã nếm trải nhiều sóng gió.
 
 Địa chỉ:
 

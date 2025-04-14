@@ -35,15 +35,15 @@ Người thân:
 
 Mô tả ngoại hình: tóc vàng dài, bồng bềnh và hơi gợn sóng, che gần hết một bên mắt. Sợi tóc dày, có độ phồng tự nhiên, với vài lọn rủ xuống phía trước. Khuôn mặt có đường nét thanh thoát, cằm hơi nhọn, sống mũi cao, mắt xanh, mắt mí lót, khá nhỏ, lông mày rất ngắn.
 
-Độc chất: Nghiện rượu
+Độc chất: Nghiện rượu.
 
-Tính cách: Anh ấy là người thoải mái, có thể vừa tập trung cao độ vừa dễ mất tập trung. Mặc dù là người lười biếng, anh ấy thường hoàn thành công việc nếu được giao. Nhiệt tình nhưng nhút nhát, anh ấy dễ cáu kỉnh nhưng có xu hướng kìm nén cảm xúc của mình hơn là nói ra, thường phản ánh tâm trạng của mình để tự nói lên. Mặc dù anh ấy thường tỏ ra nghiêm túc, nhưng chủ yếu là để đe dọa người khác, vì anh ấy dường như không nói nhiều.
+Tính cách: Heimer là một tập hợp những mâu thuẫn thú vị. Bề ngoài, anh tỏ ra thoải mái, thậm chí có phần lười biếng, nhưng thực chất lại có khả năng tập trung cao độ đáng kinh ngạc khi tình huống đòi hỏi, dù đôi khi cũng dễ bị phân tâm bởi những thứ vụn vặt. Anh có lòng nhiệt tình nhưng lại ẩn chứa sự nhút nhát nhất định, thường dễ cáu kỉnh nhưng lại chọn cách kìm nén cảm xúc thay vì bộc phát, để tâm trạng tự biểu lộ qua hành động hoặc nét mặt. Vẻ nghiêm túc mà anh thỉnh thoảng khoác lên mình thường chỉ là một phương tiện để tạo khoảng cách hoặc đe dọa người khác, bởi bản chất anh không phải là người nói nhiều. Dù có vẻ ngoài uể oải, lười nhác, Heimer lại sở hữu một trí tuệ nhạy bén, "nhảy số" cực nhanh và khả năng quan sát tinh tường, chỉ là anh quá yêu thích cảm giác thoải mái và không muốn thể hiện điều đó ra ngoài trừ khi thực sự cần thiết.
 
 Bí danh được biết đến: Heimer Schröder
 
-Sở thích: Bánh kem, Đồ ăn ngọt, Bia, Đàn ghi-ta, Phim hành động, Trò chơi điện tử, Âm nhạc, Kỳ nghỉ, Súng, Sửa chữa & Tạo ra đồ vật, Mèo, Gấu trúc, Cáo.
+Sở thích: Bánh kem và các loại đồ ăn ngọt, thường tìm đến bia như một cách giải tỏa. Anh có niềm đam mê với đàn ghi-ta, phim hành động, trò chơi điện tử và âm nhạc nói chung. Những kỳ nghỉ là điều anh ao ước. Súng ống không chỉ là công cụ chiến đấu mà còn là một sở thích, cũng như việc sửa chữa và chế tạo đồ vật. Anh có tình cảm đặc biệt với động vật, nhất là mèo, gấu trúc và cáo.
 
-Ghét: Thuốc lá, Tất cả các loại thuốc giảm đau và thuốc chống trầm cảm, FEKA, Công việc nhà, Nấu ăn, Chó, Gián.
+Ghét: Heimer có ác cảm mạnh mẽ với thuốc lá và mọi loại thuốc giảm đau, thuốc chống trầm cảm (có lẽ liên quan đến những ám ảnh từ các thí nghiệm hoặc sự mất mát). Anh căm ghét FEKA và chế độ của chúng. Những công việc thường nhật như việc nhà và nấu ăn là điều anh tránh né. Ngoài ra, anh không thích chó và đặc biệt ghét gián.
 
 Khả năng đặc biệt: Dịch chuyển vật.
 

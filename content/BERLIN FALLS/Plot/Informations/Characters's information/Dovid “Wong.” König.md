@@ -33,17 +33,17 @@ Người thân:
 
 Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Tóc đen ngắn nhưng bù xù, có nhiều sợi chỉa ra tự nhiên. Phần tóc mái không đồng đều, vài lọn rủ xuống trán nhưng không che mắt hoàn toàn. Tóc hai bên hơi dài hơn bình thường, không được tỉa gọn gàng, gương mặt có đường nét góc cạnh, xương hàm rõ nhưng không quá sắc, sống mũi cao và thẳng, còn đôi mắt một mí thì nhỏ, hơi trũng nhẹ.
+Mô tả ngoại hình: Dovid sở hữu mái tóc đen, ngắn nhưng luôn trong tình trạng bù xù, với nhiều sợi tóc chỉa ra các hướng một cách tự nhiên, tạo cảm giác năng động và bất cần. Phần tóc mái cắt không đều, vài lọn lòa xòa trước trán. Gương mặt anh có đường nét khá góc cạnh, đặc biệt là xương hàm rõ ràng nhưng không quá sắc. Sống mũi cao và thẳng. Đôi mắt một mí đặc trưng, nhỏ và hơi sâu, thường ánh lên vẻ nghiêm nghị hoặc thờ ơ. Dáng người cân đối (cao 170cm), không quá lực lưỡng nhưng săn chắc.
 
 Độc chất: Không
 
-Tính cách: Anh ấy thường là người rất thân thiện, Đôi khi anh ấy có thể nghiêm khắc và khó chịu, Anh ấy có xu hướng nói những câu chuyện cười đồng tính với bất kỳ ai xung quanh, Anh ấy là một người đàn ông nội trợ lý tưởng vì kỹ năng nấu ăn tuyệt vời và trí óc rất chăm chỉ của mình, (tất cả những điều đó xuất phát từ hoàn cảnh của anh ấy khi anh ấy rất thiếu sự kết nối với những vụ bạo hành gia đình của Cha mình, chỉ có Mẹ là người duy nhất thể hiện sự quan tâm của mình.)
+Tính cách: Dovid là một sự pha trộn thú vị: bên ngoài, anh thường rất thân thiện, hay cười và cực kỳ quan tâm đến đồng đội, thường xuyên pha những trò đùa (đôi khi hơi quá trớn) để khuấy động không khí. Anh là người ngăn nắp, tỉ mỉ và có đam mê với việc nội trợ (nấu ăn, dọn dẹp), gần như là một "ông bố quốc dân" của đội, điều này xuất phát từ quá khứ thiếu thốn tình cảm gia đình và người cha bạo hành. Tuy nhiên, khi cần, anh có thể trở nên rất nghiêm khắc, khó chịu và quyết đoán, đặc biệt khi kỷ luật bị phá vỡ hoặc đồng đội gặp nguy hiểm. Anh trung thành, đáng tin cậy và dù thân thiện, vẫn có một giới hạn cá nhân khó vượt qua.
 
 Bí danh được biết đến: ?
 
-Sở thích: Nấu ăn, Làm việc nhà, Nghe nhạc, Pha chế cocktail, Động vật, đặc biệt là mèo.
+Sở thích: Nấu ăn (đặc biệt là các món Á, gợi nhớ Hồng Kông), giữ mọi thứ sạch sẽ, ngăn nắp, chăm sóc người khác (theo cách riêng của anh), pha chế cocktail, âm nhạc đa dạng (từ pop Hồng Kông đến rock phương Tây), động vật (đặc biệt là mèo), sự yên tĩnh sau một ngày làm việc căng thẳng.
 
-Ghét: Lộn xộn, Nói chuyện thường xuyên khi mệt mỏi hoặc kiệt sức, Lười biếng, Thuốc lá, Bia, Bạn bè của anh ta đang đau khổ.
+Ghét: Sự bừa bộn, lộn xộn, lười biếng, thuốc lá và bia (trái ngược Heimer), phải nói chuyện nhiều khi mệt mỏi, sự bất công, những kẻ bạo hành, nhìn thấy bạn bè đau khổ hoặc gặp nguy hiểm, ký ức về người cha của mình.
 
 Khả năng đặc biệt: Điện Lưu.
 
@@ -55,4 +55,4 @@ Anh ưu tiên hành động theo bản năng hơn là các kế hoạch chiến 
 
 - (Cũ) Tung Choi Street 125, Mong Kok, Kowloon
 - (Cũ) Hauptstraße 105, 53604 Bad Honnef
-\- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.

@@ -31,17 +31,17 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]],sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Chiều cao trung bình, Tóc xoăn ngắn màu nâu sẫm, Trán cao, Mắt tròn và sâu, Lông mày rậm và cong nhẹ, Mũi thẳng, Môi dày vừa, Quai hàm vuông, Vai rộng, Thân hình săn chắc.
+Mô tả ngoại hình: Frank có vẻ ngoài khá thân thiện và vững chãi. Mái tóc nâu sẫm, xoăn tự nhiên và được cắt theo kiểu hơi ngắn (có thể là kiểu shag phổ biến), các lọn tóc ôm lấy khuôn mặt và che phủ tai. Vầng trán cao, khuôn mặt cân đối với quai hàm hơi vuông, tạo cảm giác đáng tin cậy. Đôi mắt tròn, sâu, ánh nhìn thường hiền hòa hoặc trung tính. Vai rộng và thân hình săn chắc (cao 186cm) cho thấy sức bền và sự rắn rỏi. Tổng thể, anh mang lại cảm giác về một người trầm ổn, kiên định và có phần dễ gần.
 
 Độc chất: Hút thuốc, Nghiện rượu
 
-Tính cách: ?
+Tính cách: Frank là trụ cột vững chắc và đáng tin cậy của đội. Anh là người ít nói, trầm tính nhưng cực kỳ kiên định và đáng tin cậy. Anh có tinh thần trách nhiệm cao, luôn đặt sự an toàn của đồng đội lên hàng đầu và sẵn sàng làm "lá chắn sống". Anh không tìm kiếm sự chú ý mà thể hiện sức mạnh qua hành động bền bỉ, lặng lẽ. Anh trung thành, có phần bảo thủ và coi trọng sự ổn định. Dù nghiện rượu và thuốc lá, anh vẫn giữ được sự vững vàng khi cần thiết. Anh có thể không phải là người đưa ra quyết định nhanh nhất, nhưng quyết định của anh luôn chắc chắn và dựa trên sự cân nhắc bảo vệ tập thể.
 
 Bí danh đã biết: ?
 
-Thích: ?
+Thích: Sự ổn định, an toàn, cảm giác che chở, bảo vệ người khác, thiên nhiên, không gian ngoài trời (liên quan đến năng lực đất), đồ ăn đơn giản, truyền thống, sự trung thành, âm nhạc Country hoặc Folk (nhẹ nhàng, trầm lắng), dành thời gian một mình để suy ngẫm, sưu tầm đá hoặc khoáng vật (liên quan năng lực).
 
-Ghét: ?
+Ghét: Sự thay đổi đột ngột, rủi ro không cần thiết, sự phản bội, hai mặt, nhìn thấy đồng đội bị thương hoặc gặp nguy hiểm, bị ép buộc phải hành động vội vàng, không gian chật hẹp, tù túng (trái ngược với năng lực đất), sự phô trương, khoe mẽ.
 
 Khả năng đặc biệt: Thạch Động Học
 

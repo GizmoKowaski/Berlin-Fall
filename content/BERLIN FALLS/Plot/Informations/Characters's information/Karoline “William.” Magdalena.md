@@ -28,17 +28,17 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Tóc nâu dài, rất dày và xoăn, tạo cảm giác hơi nặng nề. Các lọn tóc rối nhẹ, không quá trau chuốt, phần mái phủ xuống nhưng không che hoàn toàn trán. Khuôn mặt khá to, xương gò má rộng, cằm vuông rõ nét, đôi mắt nâu sâu, khá to và có đường nét sắc sảo, khiến tổng thể khuôn mặt trông cứng cáp hơn.
+Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên, tạo thành một khối tóc bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán và che đi một phần khuôn mặt, tăng thêm vẻ bí ẩn. Khuôn mặt cô khá lớn, với xương gò má rộng và cằm vuông rõ nét, tạo cảm giác cứng cáp, kiên định. Đôi mắt nâu, to và sâu, có đường nét sắc sảo, thường nhìn thẳng, ánh lên vẻ tập trung cao độ hoặc sự cương nghị. Vóc dáng cân đối (cao 168cm), không quá mảnh mai, toát lên sức mạnh tiềm ẩn.
 
 Độc chất: Hút thuốc, Nghiện rượu
 
-Tính cách: ?
+Tính cách: Karoline là hiện thân của sự tập trung, kiên nhẫn và chính xác. Cô cực kỳ hướng nội, ít nói, và thường giữ một vẻ mặt lạnh lùng, khó đoán. Cô suy nghĩ một cách có phương pháp, logic và ghét sự tùy hứng hay hỗn loạn. Trong chiến đấu cũng như cuộc sống, cô tin vào sự chuẩn bị kỹ lưỡng và tính toán cẩn thận. Dù nghiện rượu và thuốc lá, cô vẫn duy trì sự kiểm soát đáng kinh ngạc trong công việc. Cô không dễ dàng tin tưởng người khác và có thể khá cô độc, tìm thấy sự thoải mái trong sự tĩnh lặng và công việc của mình hơn là giao tiếp xã hội. Tuy nhiên, ẩn dưới vẻ ngoài lạnh lùng có thể là một sự quan tâm thầm lặng đối với đồng đội, thể hiện qua hành động bảo vệ từ xa hơn là lời nói.
 
 Bí danh được biết đến: ?
 
-Thích: ?
+Thích: Sự chính xác (trong bắn súng, trong mọi việc), luyện tập bắn tỉa, bảo dưỡng vũ khí của mình, sự yên tĩnh, cô độc, đọc sách (có thể là sách chiến thuật, kỹ thuật hoặc trinh thám), nhạc Jazz hoặc Blues (phù hợp không khí trầm tư), cà phê đen đặc hoặc rượu mạnh (whiskey), các trò chơi chiến thuật (cờ vua).
 
-Ghét: ?
+Ghét: Sự hỗn loạn, ồn ào, đám đông, sự cẩu thả, thiếu chính xác, những kế hoạch thay đổi vào phút chót, bị hối thúc, những người nói quá nhiều hoặc quá tình cảm, sự thất bại do thiếu chuẩn bị.
 
 Khả năng đặc biệt: Điều khiến sắt thép
 

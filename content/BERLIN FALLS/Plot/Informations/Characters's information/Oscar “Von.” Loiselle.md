@@ -33,7 +33,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], *sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Tóc nâu ngắn, rẽ ngôi giữa, hơi bồng và xoăn nhẹ ở phần ngọn. Tóc hai bên ôm vào khuôn mặt nhưng không che quá nhiều. Khuôn mặt đầy tàn nhang, trải rộng từ má đến sống mũi. Xương gò má hơi cao, cằm tròn, mắt không quá to và khoảng cách giữa hai mắt hơi gần nhau một chút, mắt nâu, mắt mí lót.
+Mô tả ngoại hình: Oscar là thành viên trẻ tuổi nhất và nhỏ con nhất đội, và cậu ta bù đắp điều đó bằng một thái độ kiêu căng, lỗ mãng và có phần tự mãn về tốc độ phi thường của mình. Cậu thường tỏ ra ồn ào, thích thể hiện và không ngại va chạm bằng lời nói, đặc biệt với những ai cậu cho là chậm chạp hoặc kém cỏi. Tuy nhiên, đằng sau vẻ ngoài xấc xược đó là một chàng trai hòa đồng và trung thành tuyệt đối với những người cậu coi là gia đình trong đội, đặc biệt là Heimer và Dovid. Sự lỗ mãng của cậu có thể xuất phát từ sự bất an về vóc dáng hoặc quá khứ (mồ côi, gốc gác Pháp-Việt). Cậu hành động nhanh chóng, đôi khi hơi bốc đồng, dựa nhiều vào tốc độ và khả năng thích ứng hơn là kế hoạch chi tiết.
 
 Độc chất: Không
 
@@ -41,9 +41,9 @@ Tính cách: Kiêu căng, lỗ mãng, bù lại thì rất hòa đồng với ng
 
 Bí danh đã biết: Pellegrini
 
-Thích: Đồ ăn mặn, ngọt
+Thích: Tốc độ (dưới mọi hình thức), thể hiện kỹ năng của mình, trêu chọc người khác (đặc biệt là những người chậm hơn), đồ ăn mặn và ngọt, có thể là một số món ăn Pháp hoặc Việt Nam gợi nhớ quê nhà, phim hoạt hình hoặc truyện tranh, âm nhạc sôi động (punk, new wave).
 
-Ghét: Không thích những đồ ăn đắng, khó nuốt, Chiến tự.
+Ghét: Bị đánh giá thấp hoặc bị coi thường vì vóc dáng/tuổi tác, sự chậm chạp, những mệnh lệnh phức tạp, dài dòng, đồ ăn đắng hoặc nhạt nhẽo, Chiến Tự của FEKA, phải chờ đợi, sự im lặng kéo dài
 
 Khả năng đặc biệt: Điều khiển máu, xương và thịt.
 

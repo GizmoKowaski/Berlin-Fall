@@ -36,17 +36,17 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Chiều cao trung bình, Dáng người mảnh nhưng săn chắc, Tóc nâu và ngắn, tóc vuốt ngược ra sau, Mắt xám nhạt sắc lạnh, Lông mày mỏng và nhọn, Mũi thẳng và cao, Da nhợt nhạt, Ngón tay dài.
+Mô tả ngoại hình: Hans có vẻ ngoài sắc sảo và lạnh lùng. Mái tóc nâu ngắn được chải chuốt gọn gàng, thường vuốt ngược ra sau, để lộ vầng trán. Khuôn mặt có cấu trúc xương góc cạnh rất rõ ràng, với gò má cao và đường hàm sắc nét. Đôi mắt màu xám nhạt đặc trưng, sắc lạnh và như xoáy sâu vào người đối diện, nằm dưới cặp lông mày mỏng và hơi nhướng lên ở đuôi. Mũi thẳng và cao. Làn da trắng nhợt nhạt càng làm tăng thêm vẻ lạnh lùng, điềm tĩnh. Dáng người mảnh khảnh nhưng săn chắc (cao 169cm), các ngón tay thon dài, thể hiện sự tinh tế và chính xác.
 
 Độc chất: Không
 
-Tính cách: ?
+Tính cách: Hans là người điềm tĩnh đến đáng sợ, gần như vô cảm trong mọi tình huống. Anh phân tích, lý trí và luôn tiếp cận vấn đề bằng một cái đầu lạnh. Sự kiểm soát là điều quan trọng nhất đối với anh, cả về cảm xúc lẫn môi trường xung quanh (thể hiện qua năng lực băng). Anh là người cầu toàn, đòi hỏi sự hoàn hảo trong mọi việc mình làm và có thể khá khắt khe với bản thân cũng như người khác. Anh ít nói, thích quan sát hơn là tham gia, và có thể tạo cảm giác xa cách, khó gần. Anh coi trọng logic và hiệu quả hơn là tình cảm hay mối quan hệ cá nhân.
 
 Bí danh đã biết: ?
 
-Thích: ?
+Thích: Sự trật tự, kỷ luật, logic, giải các câu đố phức tạp, quan sát môi trường và con người, thời tiết lạnh, băng giá, âm nhạc cổ điển (đặc biệt là Bach hoặc các nhà soạn nhạc có cấu trúc phức tạp), sự im lặng tuyệt đối, đọc các công trình khoa học hoặc triết học, kiến trúc đối xứng.
 
-Ghét: ?
+Ghét: Sự hỗn loạn, mất kiểm soát, cảm xúc bộc phát (của mình và người khác), nhiệt độ cao, thời tiết nóng nực, sự tùy hứng, không thể đoán trước, sự thất bại, sai sót, sự tiếp xúc cơ thể không cần thiết, những cuộc nói chuyện phiếm vô nghĩa.
 
 Khả năng đặc biệt: Băng, nhiệt lạnh.
 
