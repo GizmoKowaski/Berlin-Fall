@@ -159,7 +159,7 @@ I. HUY HIỆU CƠ BẢN (Tất cả học sinh)
 
 | Huy hiệu                         | Thiết kế                                                                                                                                                                                                                                                           | Chất liệu                    | Vị trí                             |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------- |
-| Huy hiệu Trường(Cổng Holstentor) | Dạng vuông hoặc chữ nhật ngang. Cổng Holstentor cách điệu màu đen với các chi tiết ánh bạc hoặc ánh thép. Phía trên khắc dòng chữ "Reichsakademie Eisenhardt" bằng phông chữ Gothic cổ. Có thể thêm biểu tượng quân đoàn hoặc lá cờ nhỏ trong các dịp lễ đặc biệt. | Vải thêu, kim loại đúc, nhựa | Ngực áo trái hoặc trên mũ (nếu có) |
+| Huy hiệu Trường(Cổng Holstentor) | Dạng vuông hoặc chữ nhật ngang. Cổng Holstentor cách điệu màu đen với các chi tiết ánh bạc hoặc ánh thép. Phía trên khắc dòng chữ "Staatsakademie Eisenhardt" bằng phông chữ Gothic cổ. Có thể thêm biểu tượng quân đoàn hoặc lá cờ nhỏ trong các dịp lễ đặc biệt. | Vải thêu, kim loại đúc, nhựa | Ngực áo trái hoặc trên mũ (nếu có) |
 
   
   

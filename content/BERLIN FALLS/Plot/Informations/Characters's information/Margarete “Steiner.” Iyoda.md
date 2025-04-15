@@ -23,7 +23,7 @@ Ngày sinh & Tuổi: 1 tháng 10 năm 1972
 
 Giới tính: Nữ.
 
-Chiều cao: 5’11.65” (168cm)
+Chiều cao: 5’6.14” (168cm)
 
 Tôn giáo: Phật giáo.
 
@@ -34,7 +34,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Chiều cao trung bình, Vai hơi to, Mũi Nubian, Mắt một mí, Lông mày rậm ở cuối, Tóc mái đen ngắn, dáng người cực kì lực lưỡng.
+Mô tả ngoại hình: Margarete Iyoda có vẻ ngoài nổi bật với sức mạnh thể chất rõ rệt dù chiều cao ở mức trung bình (168cm / 5’6.14”). Cô có bờ vai hơi rộng và vóc dáng cực kỳ lực lưỡng, săn chắc. Mái tóc đen, dày, được để dài ngang vai hoặc hơn một chút, có thể thẳng hoặc hơi gợn sóng tự nhiên. Phần tóc mái thường dày, che phủ phần lớn trán và đôi khi che cả một bên mắt (như trong hình vẽ), tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt của cô có đường nét mạnh mẽ, mắt một mí và lông mày rậm ở phần đuôi. Hình vẽ cho thấy một khuôn mặt với cấu trúc khá rõ, có thể có gò má và đường hàm tương đối rõ nét, dù không quá góc cạnh. Ánh mắt trong hình vẽ khá trực diện và có phần thách thức hoặc thờ ơ.
 
 Độc chất: Hút thuốc
 
