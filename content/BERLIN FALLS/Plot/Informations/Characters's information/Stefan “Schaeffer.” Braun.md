@@ -22,7 +22,7 @@ Người thân:
 
 - [[Heimer “Schaeffer.” Schröder]] (Con trai, Chức vụ đã thực hiện: [[WGB-Truppführer]], Chỉ huy sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')) (Tình trạng: Còn sống)
 
-Đã đảm nhiệm chức vụ: Đặc vụ tình báo
+Đã đảm nhiệm chức vụ: Đặc vụ tình báo.
 
 Mô tả ngoại hình: ?
 

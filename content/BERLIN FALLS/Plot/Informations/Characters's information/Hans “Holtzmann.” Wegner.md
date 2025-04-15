@@ -24,7 +24,7 @@ Ngày sinh & Tuổi: 16 tháng 4 năm 1972
 
 Giới tính: Nam
 
-Chiều cao: 5’6.54” (169cm)
+Chiều cao: 5’10.1” (178cm)
 
 Tôn giáo: Vô thần
 
@@ -36,7 +36,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Hans có vẻ ngoài sắc sảo và lạnh lùng. Mái tóc nâu ngắn được chải chuốt gọn gàng, thường vuốt ngược ra sau, để lộ vầng trán. Khuôn mặt có cấu trúc xương góc cạnh rất rõ ràng, với gò má cao và đường hàm sắc nét. Đôi mắt màu xám nhạt đặc trưng, sắc lạnh và như xoáy sâu vào người đối diện, nằm dưới cặp lông mày mỏng và hơi nhướng lên ở đuôi. Mũi thẳng và cao. Làn da trắng nhợt nhạt càng làm tăng thêm vẻ lạnh lùng, điềm tĩnh. Dáng người mảnh khảnh nhưng săn chắc (cao 169cm), các ngón tay thon dài, thể hiện sự tinh tế và chính xác.
+Mô tả ngoại hình: Hans có vẻ ngoài sắc sảo và lạnh lùng. Mái tóc nâu ngắn được chải chuốt gọn gàng, thường vuốt ngược ra sau, để lộ vầng trán. Khuôn mặt có cấu trúc xương góc cạnh rất rõ ràng, với gò má cao và đường hàm sắc nét. Đôi mắt màu xám nhạt đặc trưng, sắc lạnh và như xoáy sâu vào người đối diện, nằm dưới cặp lông mày mỏng và hơi nhướng lên ở đuôi. Mũi thẳng và cao. Làn da trắng nhợt nhạt càng làm tăng thêm vẻ lạnh lùng, điềm tĩnh. Dáng người mảnh khảnh nhưng săn chắc (cao 178cm), các ngón tay thon dài, thể hiện sự tinh tế và chính xác.
 
 Độc chất: Không
 

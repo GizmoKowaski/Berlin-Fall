@@ -20,7 +20,7 @@ Ngày sinh & Tuổi: 16 tháng 4 năm 1970
 
 Giới tính: Thiên chúa giáo
 
-Chiều cao: 6’1.23” (186cm)
+Chiều cao: 6’2.0” (188cm)
 
 Tôn giáo: ?
 
@@ -31,7 +31,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]],sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Frank có vẻ ngoài khá thân thiện và vững chãi. Mái tóc nâu sẫm, xoăn tự nhiên và được cắt theo kiểu hơi ngắn (có thể là kiểu shag phổ biến), các lọn tóc ôm lấy khuôn mặt và che phủ tai. Vầng trán cao, khuôn mặt cân đối với quai hàm hơi vuông, tạo cảm giác đáng tin cậy. Đôi mắt tròn, sâu, ánh nhìn thường hiền hòa hoặc trung tính. Vai rộng và thân hình săn chắc (cao 186cm) cho thấy sức bền và sự rắn rỏi. Tổng thể, anh mang lại cảm giác về một người trầm ổn, kiên định và có phần dễ gần.
+Mô tả ngoại hình: Frank có vẻ ngoài khá thân thiện và vững chãi. Mái tóc nâu sẫm, xoăn tự nhiên và được cắt theo kiểu hơi ngắn (có thể là kiểu shag phổ biến), các lọn tóc ôm lấy khuôn mặt và che phủ tai. Vầng trán cao, khuôn mặt cân đối với quai hàm hơi vuông, tạo cảm giác đáng tin cậy. Đôi mắt tròn, sâu, ánh nhìn thường hiền hòa hoặc trung tính. Vai rộng và thân hình săn chắc (cao 188cm) cho thấy sức bền và sự rắn rỏi. Tổng thể, anh mang lại cảm giác về một người trầm ổn, kiên định và có phần dễ gần.
 
 Độc chất: Hút thuốc, Nghiện rượu
 

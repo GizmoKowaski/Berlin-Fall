@@ -22,7 +22,7 @@ Ngày sinh: 19 tháng 3 năm 1972
 
 Giới tính: Nam
 
-Chiều cao 5’6.93” (170cm)
+Chiều cao 5’8.9” (175cm)
 
 Tôn giáo: Phật giáo
 
@@ -33,7 +33,7 @@ Người thân:
 
 Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Dovid sở hữu mái tóc đen, ngắn nhưng luôn trong tình trạng bù xù, với nhiều sợi tóc chỉa ra các hướng một cách tự nhiên, tạo cảm giác năng động và bất cần. Phần tóc mái cắt không đều, vài lọn lòa xòa trước trán. Gương mặt anh có đường nét khá góc cạnh, đặc biệt là xương hàm rõ ràng nhưng không quá sắc. Sống mũi cao và thẳng. Đôi mắt một mí đặc trưng, nhỏ và hơi sâu, thường ánh lên vẻ nghiêm nghị hoặc thờ ơ. Dáng người cân đối (cao 170cm), không quá lực lưỡng nhưng săn chắc.
+Mô tả ngoại hình: Dovid sở hữu mái tóc đen, ngắn nhưng luôn trong tình trạng bù xù, với nhiều sợi tóc chỉa ra các hướng một cách tự nhiên, tạo cảm giác năng động và bất cần. Phần tóc mái cắt không đều, vài lọn lòa xòa trước trán. Gương mặt anh có đường nét khá góc cạnh, đặc biệt là xương hàm rõ ràng nhưng không quá sắc. Sống mũi cao và thẳng. Đôi mắt một mí đặc trưng, nhỏ và hơi sâu, thường ánh lên vẻ nghiêm nghị hoặc thờ ơ. Dáng người cân đối (cao 175cm), không quá lực lưỡng nhưng săn chắc.
 
 Độc chất: Không
 

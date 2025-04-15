@@ -22,7 +22,7 @@ Ngày sinh & Tuổi: 16 tháng 4 năm 1977
 
 Giới tính: Nam
 
-Chiều cao: 4’10.3” (148cm)
+Chiều cao: 5’5.0” (165cm)
 
 Tôn giáo: ?
 

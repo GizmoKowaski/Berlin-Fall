@@ -17,7 +17,7 @@ Ngày sinh & Tuổi: 12 tháng 6 năm 1971
 
 Giới tính: Nữ
 
-Chiều cao: 5’6.14” (168cm)
+Chiều cao: 5’7.7” (172cm)
 
 Tôn giáo: Vô thần
 
@@ -28,7 +28,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên, tạo thành một khối tóc bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán và che đi một phần khuôn mặt, tăng thêm vẻ bí ẩn. Khuôn mặt cô khá lớn, với xương gò má rộng và cằm vuông rõ nét, tạo cảm giác cứng cáp, kiên định. Đôi mắt nâu, to và sâu, có đường nét sắc sảo, thường nhìn thẳng, ánh lên vẻ tập trung cao độ hoặc sự cương nghị. Vóc dáng cân đối (cao 168cm), không quá mảnh mai, toát lên sức mạnh tiềm ẩn.
+Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên, tạo thành một khối tóc bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán và che đi một phần khuôn mặt, tăng thêm vẻ bí ẩn. Khuôn mặt cô khá lớn, với xương gò má rộng và cằm vuông rõ nét, tạo cảm giác cứng cáp, kiên định. Đôi mắt nâu, to và sâu, có đường nét sắc sảo, thường nhìn thẳng, ánh lên vẻ tập trung cao độ hoặc sự cương nghị. Vóc dáng cân đối (cao 172cm), không quá mảnh mai, toát lên sức mạnh tiềm ẩn.
 
 Độc chất: Hút thuốc, Nghiện rượu
 

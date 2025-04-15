@@ -23,7 +23,7 @@ Ngày sinh & Tuổi: 1 tháng 10 năm 1972
 
 Giới tính: Nữ.
 
-Chiều cao: 5’6.14” (168cm)
+Chiều cao: 5’11.7” (182cm)
 
 Tôn giáo: Phật giáo.
 
@@ -34,7 +34,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Margarete Iyoda có vẻ ngoài nổi bật với sức mạnh thể chất rõ rệt dù chiều cao ở mức trung bình (168cm / 5’6.14”). Cô có bờ vai hơi rộng và vóc dáng cực kỳ lực lưỡng, săn chắc. Mái tóc đen, dày, được để dài ngang vai hoặc hơn một chút, có thể thẳng hoặc hơi gợn sóng tự nhiên. Phần tóc mái thường dày, che phủ phần lớn trán và đôi khi che cả một bên mắt (như trong hình vẽ), tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt của cô có đường nét mạnh mẽ, mắt một mí và lông mày rậm ở phần đuôi. Hình vẽ cho thấy một khuôn mặt với cấu trúc khá rõ, có thể có gò má và đường hàm tương đối rõ nét, dù không quá góc cạnh. Ánh mắt trong hình vẽ khá trực diện và có phần thách thức hoặc thờ ơ.
+Mô tả ngoại hình: Margarete Iyoda có vẻ ngoài nổi bật với sức mạnh thể chất rõ rệt dù chiều cao ở mức trung bình 5’11.7” (182cm). Cô có bờ vai hơi rộng và vóc dáng cực kỳ lực lưỡng, săn chắc. Mái tóc đen, dày, được để dài ngang vai hoặc hơn một chút, có thể thẳng hoặc hơi gợn sóng tự nhiên. Phần tóc mái thường dày, che phủ phần lớn trán và đôi khi che cả một bên mắt (như trong hình vẽ), tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt của cô có đường nét mạnh mẽ, mắt một mí và lông mày rậm ở phần đuôi. Hình vẽ cho thấy một khuôn mặt với cấu trúc khá rõ, có thể có gò má và đường hàm tương đối rõ nét, dù không quá góc cạnh. Ánh mắt trong hình vẽ khá trực diện và có phần thách thức hoặc thờ ơ.
 
 Độc chất: Hút thuốc
 
@@ -48,7 +48,7 @@ Ghét: Sự yếu đuối (ở bản thân và người khác), bị coi thườ
 
 Khả năng đặc biệt: Hỏa Động Học
 
-Đặc điểm chiến đấu: Margarete nổi bật với vóc dáng cực kỳ lực lưỡng và bờ vai rộng, toát lên sức mạnh thể chất vượt trội dù chiều cao chỉ ở mức trung bình (168cm). Mái tóc đen, dày, thường để dài ngang vai hoặc hơn một chút, thẳng hoặc hơi gợn sóng, phần tóc mái thường che phủ phần lớn trán và đôi khi cả mắt, tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt có đường nét mạnh mẽ, mũi hơi bè (kiểu Nubian), mắt một mí và lông mày rậm ở phần đuôi. Vẻ ngoài của cô là sự kết hợp giữa sức mạnh cơ bắp rõ rệt và một chút gì đó nội tâm, khó đoán.
+Đặc điểm chiến đấu: Margarete nổi bật với vóc dáng cực kỳ lực lưỡng và bờ vai rộng, toát lên sức mạnh thể chất vượt trội dù với chiều cao (182cm). Mái tóc đen, dày, thường để dài ngang vai hoặc hơn một chút, thẳng hoặc hơi gợn sóng, phần tóc mái thường che phủ phần lớn trán và đôi khi cả mắt, tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt có đường nét mạnh mẽ, mũi hơi ngắn, mắt một mí và lông mày rậm ở phần đuôi. Vẻ ngoài của cô là sự kết hợp giữa sức mạnh cơ bắp rõ rệt và một chút gì đó nội tâm, khó đoán.
 
 Địa chỉ:
 

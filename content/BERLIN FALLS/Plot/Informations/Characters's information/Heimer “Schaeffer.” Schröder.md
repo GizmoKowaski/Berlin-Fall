@@ -21,7 +21,7 @@ Ngày sinh & Tuổi: 27 tháng 9 năm 1972
 
 Giới tính: Nam
 
-Chiều cao: 6’2.8” (190cm)
+Chiều cao: 6’4.8” (195cm)
 
 Tôn giáo: Thiên chúa giáo
 
