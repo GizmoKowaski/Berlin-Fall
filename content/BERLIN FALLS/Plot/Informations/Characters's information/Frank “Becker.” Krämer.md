@@ -51,4 +51,4 @@ Khả năng đặc biệt: Thạch Động Học
 
 - (Cũ) 1501 Congress Avenue, Austin, TX.
 - (Cũ) Kennedyallee 58, 53175 Bonn (Bad Godesberg)
-- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

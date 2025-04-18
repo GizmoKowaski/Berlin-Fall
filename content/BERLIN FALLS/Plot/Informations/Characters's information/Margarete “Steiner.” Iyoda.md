@@ -54,4 +54,4 @@ Khả năng đặc biệt: Hỏa Động Học
 
 - (Cũ) 2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo, Japan
 - (Cũ) Augustastraße 30, 53173 Bonn (Bad Godesberg)
-- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

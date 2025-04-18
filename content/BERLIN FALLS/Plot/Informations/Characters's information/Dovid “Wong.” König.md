@@ -55,4 +55,4 @@ Anh ưu tiên hành động theo bản năng hơn là các kế hoạch chiến 
 
 - (Cũ) Tung Choi Street 125, Mong Kok, Kowloon
 - (Cũ) Hauptstraße 105, 53604 Bad Honnef
-- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

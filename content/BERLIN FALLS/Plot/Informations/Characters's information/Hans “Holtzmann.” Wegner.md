@@ -56,4 +56,4 @@ Khả năng đặc biệt: Băng, nhiệt lạnh.
 
 - (Cũ) Hohenzollernstraße 45, 80801 München, Schwabing
 - (Cữ) Dollendorfer Straße 71, 53639 Königswinter (Niederdollendorf)
-- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

@@ -25,19 +25,19 @@ Người thân:
 
 Đã đảm nhiệm chức vụ: Đặc vụ tình báo hỗ trợ cho ‘Stefan’
 
-Mô tả ngoại hình: ?
+Mô tả ngoại hình: Một phụ nữ cao, có vóc dáng cân đối và thần thái kiên định. Mái tóc nâu rất sẫm, dày, bồng bềnh gợn sóng tự nhiên, dài ngang vai với phần mái rủ xuống trán, tạo vẻ trầm ngâm. Khuôn mặt trái xoan, đường nét mềm mại nhưng đôi mắt to, sâu lại ánh lên sự thông minh, quyết đoán và có lẽ là cả nỗi buồn tiềm ẩn. Phong thái toát lên sự kết hợp giữa mạnh mẽ và nhạy cảm.
 
 Độc chất: Không
 
-Tính cách: ?
+Tính cách: Thông minh, tháo vát và cực kỳ kiên cường. Katharina là người có trái tim ấm áp, giàu lòng trắc ẩn nhưng cũng rất thực tế và quyết đoán khi cần. Cô có khả năng quan sát tinh tế, giỏi đọc vị người khác và giữ bình tĩnh trong tình huống khó khăn. Lòng trung thành và tình yêu thương gia đình là động lực lớn nhất của cô. Dù phải đối mặt với nghịch cảnh, cô vẫn giữ vững niềm tin và nguyên tắc của mình. Có thể là người giỏi lắng nghe và đưa ra lời khuyên tinh tế.
 
 Bí danh được biết đến: ?
 
-Sở thích: ?
+Sở thích: Nhiếp ảnh, làm vườn, đan/may vá, đọc sách (văn học, tâm lý), có thể tham gia các nhóm thảo luận kín đáo.
 
-Ghét: ?
+Ghét: Chế độ FEKA/Dostler, sự tàn ác (đặc biệt với trẻ em), lừa dối, thao túng, bị tước đoạt tự do, nhìn thấy người thân đau khổ, cảm giác bị cô lập, bất lực.
 
-Đặc điểm chiến đấu: Theo bản năng.
+Đặc điểm chiến đấu: Với vai trò hỗ trợ tình báo, Katharina không tập trung vào chiến đấu trực diện. Sức mạnh của cô nằm ở khả năng thu thập và phân tích thông tin, liên lạc bí mật, xây dựng mạng lưới, và hỗ trợ lập kế hoạch. Cô có thể sử dụng sự nhanh trí, kỹ năng giao tiếp và khả năng ngụy trang để hoạt động hiệu quả phía sau hậu trường. Sự tháo vát và khả năng giữ bình tĩnh giúp cô đối phó với các tình huống nguy hiểm một cách thông minh thay vì dùng vũ lực.
 
 Địa chỉ:
 

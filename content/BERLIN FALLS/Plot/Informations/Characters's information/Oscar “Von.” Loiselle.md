@@ -53,4 +53,4 @@ Khả năng đặc biệt: Điều khiển máu, xương và thịt.
 
 - (Cũ) 55 Rue de Bretagne, 75003 Paris.
 - (Cũ) Petersbergstraße 8, 53639 Königswinter
-- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

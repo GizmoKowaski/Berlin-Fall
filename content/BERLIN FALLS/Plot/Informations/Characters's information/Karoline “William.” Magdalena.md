@@ -48,4 +48,4 @@ Khả năng đặc biệt: Điều khiến sắt thép
 
 - (Cũ) 235 Bedford Avenue, Brooklyn, NY.
 - (Cũ) Am Weiher 14, 53604 Bad Honnef (Rhöndorf)
-- (Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

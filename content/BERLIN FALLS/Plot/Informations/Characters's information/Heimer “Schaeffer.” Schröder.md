@@ -52,4 +52,4 @@ Khả năng đặc biệt: Dịch chuyển vật.
 Địa chỉ: 
 
 - (Cũ) Khu chung cư Sonnenblick, Schillerstraße 15, Tòa B, Phòng 708, 10627 Berlin, Charlottenburg.
-- (Mới/Nhà an toàn) Königswinterer Straße 250, 53227 Bonn, Beuel.
+- (Mới/Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].
