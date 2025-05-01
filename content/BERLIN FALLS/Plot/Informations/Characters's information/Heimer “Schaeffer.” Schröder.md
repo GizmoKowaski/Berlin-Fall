@@ -1,6 +1,13 @@
 #Heinkal #Character #Main-characters #Important 
 
-
+- **Mức cường hóa chung (tham chiếu):** ~x32
+- **Lực đấm tối đa:** **45,000 N**
+- **Tốc độ đấm tối đa:** ~350 m/s
+- **Tốc độ chạy nước rút (ngắn):** ~280 m/s (≈ x35)
+- **Sức nâng tối đa:** ~3000 kg
+- **Thời gian phản xạ:** **~0.006 giây**
+- **Sức bền/Chịu đựng/Độ bền:** ~x40 lần người thường.
+---
 Heimer Schröder thể hiện sự kết hợp chết người giữa khả năng thiện xạ và bản năng chiến đấu. Kiến thức chuyên môn của anh về vũ khí vượt xa sự thành thạo thông thường, bao gồm hiểu biết toàn diện về cơ chế và ứng dụng chiến thuật của chúng. Anh hoạt động như một "Súng thủ cận chiến", một danh hiệu đạt được thông qua thời gian phản ứng đặc biệt và khả năng chuyển đổi liền mạch giữa các phản ứng theo bản năng và chiến lược. Mặc dù có khả năng hành động được tính toán, phương thức giao tranh chính của anh được đặc trưng bởi các phản ứng nhanh, theo bản năng. Điều này thể hiện ở khả năng rút súng nhanh huyền thoại của anh và khả năng xuất sắc trong các cuộc đấu súng tầm gần năng động. Anh tận dụng kiến ​​thức sâu rộng về súng để đạt được lợi thế chiến thuật ngay lập tức, điều chỉnh vũ khí và kỹ thuật của mình theo kịch bản chiến đấu đang phát triển.
 
 Ngoài khả năng chiến đấu, Heimer còn là một nhà lãnh đạo quyết đoán và chỉ huy, khả năng giữ bình tĩnh dưới áp lực, đánh giá các tình huống rủi ro cao ngay lập tức và đưa ra quyết định trong tích tắc đã cứu đội của anh vô số lần. Anh không chỉ lãnh đạo bằng uy quyền mà còn bằng kinh nghiệm và sự hiện diện, giành được sự tôn trọng của đội mình thông qua khả năng tuyệt đối. Bản năng chiến đấu của anh ta là vô song, cho phép anh ta thích nghi với những tình huống khó lường và xoay chuyển cục diện trận chiến trong chớp mắt.

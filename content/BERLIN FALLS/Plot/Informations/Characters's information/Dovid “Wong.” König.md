@@ -1,5 +1,13 @@
 #Heinkal #Character #Main-characters
 
+- **Mức cường hóa chung (Được gán):** **x28**
+- **Lực đấm tối đa:** ~42,000 N
+- **Tốc độ đấm tối đa:** ~310 m/s
+- **Tốc độ chạy nước rút (ngắn):** ~230 m/s
+- **Sức nâng tối đa:** ~2800 kg
+- **Thời gian phản xạ:** ~0.015 giây
+- **Sức bền/Chịu đựng/Độ bền:** ~x35 lần người thường.
+---
 Khả năng chiến đấu của Dovid König được định nghĩa bằng sự kết hợp đặc biệt giữa tốc độ, độ chính xác và thao tác điện. Phản xạ của anh vượt xa khả năng thông thường của con người, cho phép anh phản ứng và thực hiện các động tác với tốc độ nhanh hơn. Điều này chuyển thành phản ứng gần như tức thời trong chiến đấu cận chiến, nơi anh xuất sắc. Sự thành thạo của anh về các kỹ thuật tay đôi và dao được đặc trưng bởi các đòn tấn công nhanh, có tác động mạnh được thiết kế để vô hiệu hóa đối thủ trong thời gian ngắn nhất.
 
 Khả năng tạo ra và kiểm soát năng lượng điện của anh mang lại lợi thế chiến thuật đáng kể. Anh có thể gây ra các cú sốc điện có mục tiêu, phá vỡ hệ thần kinh của đối thủ và gây tê liệt hoặc mất khả năng. Khả năng này khuếch đại hiệu quả tính sát thương của các đòn tấn công tầm gần của anh.

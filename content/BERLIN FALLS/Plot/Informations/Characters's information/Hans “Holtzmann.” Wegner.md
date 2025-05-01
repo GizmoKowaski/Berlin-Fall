@@ -1,5 +1,13 @@
 #Heinkal #Character #Main-characters
 
+- **Mức cường hóa chung (Được gán):** **x28**
+- **Lực đấm tối đa:** ~39,000 N
+- **Tốc độ đấm tối đa:** ~280 m/s
+- **Tốc độ chạy nước rút (ngắn):** ~200 m/s
+- **Sức nâng tối đa:** ~2600 kg
+- **Thời gian phản xạ:** ~0.022 giây
+- **Sức bền/Chịu đựng/Độ bền:** ~x30 lần người thường.
+---
 Hans Wegner là hiện thân của khả năng kiểm soát chiến thuật và tính toán chính xác trên chiến trường. Mặc dù thành thạo nhiều môn chiến đấu khác nhau, sức mạnh thực sự của anh nằm ở khả năng điều khiển băng. Anh tận dụng khả năng này không chỉ để tấn công mà còn để kiểm soát toàn bộ môi trường chiến đấu một cách chiến lược.
 
 Wegner là bậc thầy về điều khiển, sử dụng sức mạnh đông lạnh của mình để đóng băng đối thủ, tạo ra các rào cản và công sự băng giá, và thay đổi địa hình theo hướng có lợi cho mình. Anh điều khiển diễn biến của trận chiến, buộc kẻ thù vào thế bất lợi và phá vỡ chiến lược của chúng. Phong cách chiến đấu của anh ưu tiên việc đánh bại và đánh lừa đối thủ, thay vì dựa vào sức mạnh thô bạo hoặc tốc độ vượt trội.

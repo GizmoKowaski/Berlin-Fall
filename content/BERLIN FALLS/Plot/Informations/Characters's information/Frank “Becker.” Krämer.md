@@ -1,5 +1,13 @@
 #Heinkal #Character #Main-characters
 
+- **Mức cường hóa chung (Được gán):** **x35**
+- **Lực đấm tối đa:** ~43,500 N
+- **Tốc độ đấm tối đa:** ~230 m/s
+- **Tốc độ chạy nước rút (ngắn):** ~170 m/s
+- **Sức nâng tối đa:** ~3500 kg
+- **Thời gian phản xạ:** ~0.04 giây
+- **Sức bền/Chịu đựng/Độ bền:** **~x70 lần** người thường
+---
 Frank Krämer là thành trì kiên cường của nhóm, một thế lực phòng thủ mạnh mẽ với sức mạnh và khả năng phục hồi khiến anh trở thành một tài sản vô giá. Sức bền thể chất to lớn của anh cho phép anh chống lại các cuộc tấn công tàn khốc và duy trì sự hiện diện vững chắc trên chiến trường. Khả năng phục hồi này, cùng với khả năng thao túng trái đất, khiến anh trở thành một vật thể gần như bất động. Anh có thể định hình lại địa hình, tạo ra các rào cản, củng cố phòng thủ và thậm chí chế tạo bẫy chết người, biến môi trường thành phần mở rộng khả năng phòng thủ của anh. Lợi thế chiến thuật này cho phép anh kiểm soát luồng chiến đấu và ra lệnh cho các điều khoản giao tranh.
 
 Mặc dù Krämer xuất sắc trong phòng thủ và thao túng chiến trường, nhưng điểm mạnh của anh cũng làm nổi bật một số hạn chế nhất định. Việc anh tập trung vào khả năng phục hồi và sức bền phải trả giá bằng sự nhanh nhẹn và khả năng tấn công. Anh không phải là một kẻ tấn công tuyến đầu, thiếu tốc độ và độ chính xác của đồng đội. Phong cách chiến đấu của anh dựa vào việc hấp thụ các cuộc tấn công và phản công một cách chiến lược, thay vì bắt đầu gây hấn.

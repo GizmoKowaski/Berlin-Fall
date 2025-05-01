@@ -1,5 +1,13 @@
 #Heinkal #Character #Main-characters
 
+- **Mức cường hóa chung (Được gán):** **x25**
+- **Lực đấm tối đa:** ~37,500 N (x25)
+- **Tốc độ đấm tối đa:** ~340 m/s
+- **Tốc độ chạy nước rút (ngắn):** **~300+ m/s**
+- **Sức nâng tối đa:** ~2500 kg
+- **Thời gian phản xạ:** **~0.009 giây**
+- **Sức bền/Chịu đựng/Độ bền:** ~x30 lần người thường.
+---
 Oscar Loiselle là hiện thân của tốc độ khó nắm bắt và khả năng thích nghi. Sự nhanh nhẹn của anh vượt qua giới hạn thông thường của con người, cho phép anh băng qua chiến trường với tốc độ vô song. Khả năng di chuyển đặc biệt này, kết hợp với phản xạ cao và nhận thức tình huống nhạy bén, khiến anh trở thành mục tiêu gần như không thể bị bắn trúng. Anh có thể phân tích môi trường xung quanh ngay lập tức, xác định các tuyến đường tối ưu để tấn công, né tránh và thoát khỏi trước khi đối thủ kịp nhận ra sự hiện diện của anh.
 
 Khả năng điều khiển xác thịt của anh càng khuếch đại sự khó nắm bắt và khả năng sống sót của anh. Sức mạnh độc đáo này cho phép anh thay đổi hình dạng vật lý một cách linh hoạt, uốn cong cơ thể để né tránh các cuộc tấn công, tái tạo sau chấn thương và thậm chí thách thức những hạn chế của giải phẫu học bình thường của con người. Khả năng tái tạo này đảm bảo hiệu quả chiến đấu lâu dài, vì anh có thể nhanh chóng phục hồi sau những vết thương có thể khiến người khác mất khả năng.

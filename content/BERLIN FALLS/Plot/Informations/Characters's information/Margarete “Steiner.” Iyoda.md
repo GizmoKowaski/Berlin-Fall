@@ -1,5 +1,13 @@
 #Heinkal #Character #Main-characters
 
+- **Mức cường hóa Sức mạnh/Độ bền:** **x50**
+- **Lực đấm tối đa:** **~75,000 N**
+- **Tốc độ đấm tối đa:** ~200 m/s
+- **Tốc độ chạy nước rút (ngắn):** ~150 m/s
+- **Sức nâng tối đa:** **~5000 kg**
+- **Thời gian phản xạ:** ~0.03 giây
+- **Sức bền/Chịu đựng/Độ bền:** **~x50 lần** người thường.
+---
 Margarete Iyoda đóng vai trò là lực lượng chính của nhóm, được đặc trưng bởi sức mạnh thể chất và khả năng phục hồi đặc biệt. Các đặc điểm sinh lý của cô cho phép cô tạo ra tác động động học tàn phá, vô hiệu hóa hiệu quả đối thủ thông qua sức mạnh thô bạo. Độ bền của cô cho phép cô chịu được chấn thương đáng kể, duy trì khả năng hoạt động trong những điều kiện có thể làm mất khả năng chiến đấu của những người lính thông thường.
 
 Khả năng hỏa động học của Iyoda càng làm tăng hiệu quả chiến đấu của cô. cô chứng minh khả năng giải phóng năng lượng nhiệt có kiểm soát và không kiểm soát, biểu hiện dưới dạng cả vụ nổ gây cháy tập trung và hỏa hoạn diện rộng. Khả năng này mang lại khả năng tấn công mạnh mẽ, có khả năng tiêu diệt mục tiêu và phủ nhận chiến trường.
@@ -17,7 +25,7 @@ Trang thông tin:
 
 Tên đầy đủ: Margarete “Steiner.” Iyoda
 
-Quốc tịch: Nhật Bản
+Quốc tịch: Nhật Bản.
 
 Ngày sinh & Tuổi: 1 tháng 10 năm 1972
 
