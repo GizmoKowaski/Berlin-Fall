@@ -1,6 +1,6 @@
 #Heinkal #Character #Main-characters
 
-- **Mức cường hóa chung (Được gán):** **x35**
+- **Mức cường hóa chung (Được gán):** **x38**
 - **Lực đấm tối đa:** ~43,500 N
 - **Tốc độ đấm tối đa:** ~230 m/s
 - **Tốc độ chạy nước rút (ngắn):** ~170 m/s
