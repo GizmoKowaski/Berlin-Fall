@@ -1,12 +1,14 @@
 #Heinkal #Character #Main-characters
 
-- **Mức cường hóa chung:** **x27**
-- **Lực đấm tối đa:** ~40,500 N
-- **Tốc độ đấm tối đa:** ~270 m/s
-- **Tốc độ chạy nước rút (ngắn):** ~210 m/s
-- **Sức nâng tối đa:** ~2700 kg
-- **Thời gian phản xạ:** ~0.02 giây
-- **Sức bền/Chịu đựng/Độ bền:** ~x28 lần người thường.
+- **Mức cường hóa chung:** ~x27
+- **Lực đấm tối đa:** **~25,000 N** (Trung bình Thấp)
+- **Tốc độ đấm tối đa:** ~270 m/s (Trung bình)
+- **Tốc độ chạy nước rút:** **~18 - 22 m/s** (Khoảng 65 - 79 km/h) (Chậm)
+- **Sức nâng tối đa:** **~1700 kg** (Trung bình Thấp)
+- **Thời gian phản xạ:** ~0.02 giây (Chậm)
+- **Sức bền/Chịu đựng/Độ bền:** **~x22 lần** người thường (Thấp)
+- **Khả năng đặc biệt:** Điều Khiển Chất Lỏng (Hydrokinesis)
+- **Sự ổn định sức mạnh:** **Trung bình.** Jacob có thể điều khiển nước khá tốt, đặc biệt là trong việc tạo hình và kiểm soát dòng chảy ở quy mô vừa phải. Tuy nhiên, việc điều khiển lượng nước cực lớn hoặc tạo ra áp suất cực cao đòi hỏi **sự tập trung tinh thần rất lớn và có thể gây mệt mỏi nhanh chóng**. Mất tập trung có thể khiến việc kiểm soát bị yếu đi hoặc thất bại.
 ---
 Jacob Schmidt là chốt chặn chiến lược của nhóm, một kẻ chủ mưu có trí tuệ vượt trội hơn các biện pháp chiến đấu thông thường. Mặc dù sở hữu khả năng thể chất đáng nể, sức mạnh thực sự của anh nằm ở trí tuệ chiến lược vô song và khả năng điều khiển chất lỏng thành thạo. Anh là kiến ​​trúc sư của chiến thắng, là người điều khiển rối, người sắp đặt sự sụp đổ của kẻ thù thông qua tầm nhìn xa được tính toán và thao túng xảo quyệt.
 

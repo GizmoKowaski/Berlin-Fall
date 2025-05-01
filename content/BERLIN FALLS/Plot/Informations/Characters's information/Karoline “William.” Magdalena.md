@@ -1,12 +1,14 @@
 #Heinkal #Character #Main-characters
 
-- **Mức cường hóa chung (Được gán):** **x27**
-- **Lực đấm tối đa:** ~38,000 N
-- **Tốc độ đấm tối đa:** ~250 m/s
-- **Tốc độ chạy nước rút (ngắn):** ~190 m/s
-- **Sức nâng tối đa:** ~2700 kg
-- **Thời gian phản xạ:** ~0.018 giây
-- **Sức bền/Chịu đựng/Độ bền:** ~x27 lần người thường
+- **Mức cường hóa chung:** ~x27
+- **Lực đấm tối đa:** **~26,000 N** (Trung bình Thấp)
+- **Tốc độ đấm tối đa:** ~250 m/s (Trung bình)
+- **Tốc độ chạy nước rút:** **~20 - 25 m/s** (Khoảng 72 - 90 km/h) (Chậm)
+- **Sức nâng tối đa:** **~1750 kg** (Trung bình Thấp)
+- **Thời gian phản xạ:** ~0.018 giây (Trung bình Chậm)
+- **Sức bền/Chịu đựng/Độ bền:** **~x20 lần** người thường (Thấp)
+- **Khả năng đặc biệt:** Điều khiến sắt thép (Ferrokinesis / Magnetokinesis - Điều khiển kim loại)
+- **Sự ổn định sức mạnh:** **Khá Cao.** Tương tự như năng lực của Frank, khả năng điều khiển kim loại của Karoline thường **ổn định hơn** các năng lực liên quan đến năng lượng hoặc sinh học. Việc kiểm soát đòi hỏi sự **chính xác và tập trung cao độ**, đặc biệt khi điều khiển nhiều vật thể nhỏ hoặc tạo ra các hiệu ứng phức tạp. Giới hạn chính nằm ở khối lượng kim loại có thể điều khiển cùng lúc và khoảng cách hiệu quả.
 ---
 Karoline Magdalena nổi bật với tư cách là một xạ thủ có độ chính xác đặc biệt và là một chiến thuật gia có phương pháp nghiêm ngặt. Cách tiếp cận chiến đấu của cô trái ngược hẳn với Heimer Schröder. Trong khi Schröder nổi trội trong các cuộc giao tranh năng động, cận chiến, dựa vào phản xạ nhanh và phản ứng theo bản năng, Magdalena lại ưu tiên độ chính xác tầm xa và thực hiện có tính toán. Cô là "Xạ thủ chiến thuật" tầm xa, nhấn mạnh vào việc định vị mục tiêu bắn và thao túng môi trường.
 Sự thành thạo của Magdalena với vũ khí được đặc trưng bởi khả năng đạt được độ chính xác cực cao ở phạm vi xa. Cô sử dụng khả năng của mình để kiểm soát môi trường, tăng cường độ chính xác và tạo ra lợi thế chiến thuật trong các cuộc giao tranh đã lên kế hoạch. Không giống như Schröder, người có chuyên môn về vũ khí là bách khoa toàn thư, kiến ​​thức của Magdalena tập trung hơn, hướng đến việc tối đa hóa hiệu quả của cô với tư cách là một tay bắn tỉa.

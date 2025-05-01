@@ -1,18 +1,20 @@
 #Heinkal #Character #Main-characters
 
-- **Mức cường hóa chung (Được gán):** **x38**
-- **Lực đấm tối đa:** ~43,500 N
-- **Tốc độ đấm tối đa:** ~230 m/s
-- **Tốc độ chạy nước rút (ngắn):** ~170 m/s
-- **Sức nâng tối đa:** ~3500 kg
-- **Thời gian phản xạ:** ~0.04 giây
-- **Sức bền/Chịu đựng/Độ bền:** **~x70 lần** người thường
+- **Mức cường hóa chung:** ~x38
+- **Lực đấm tối đa:** **~55,000 N** (Rất Cao)
+- **Tốc độ đấm tối đa:** ~230 m/s (Trung bình thấp)
+- **Tốc độ chạy nước rút:** **~13 - 15 m/s** (Khoảng 47 - 54 km/h) (Rất Chậm)
+- **Sức nâng tối đa:** **~4500 kg** (Rất Cao)
+- **Thời gian phản xạ:** ~0.04 giây (Rất Chậm)
+- **Sức bền/Chịu đựng/Độ bền:** **~x80 lần** người thường (Cực Đại)
+- **Khả năng đặc biệt:** Thạch Động Học (Geokinesis/Terrakinesis - Điều khiển đất, đá)
+- **Sự ổn định sức mạnh:** **Khá Cao.** Năng lực của Frank tương đối ổn định và đáng tin cậy hơn so với một số người khác. Tuy nhiên, việc điều khiển khối lượng lớn đất đá đòi hỏi **sức lực thể chất và sự tập trung lớn**, có thể gây kiệt sức nếu sử dụng liên tục hoặc quy mô quá lớn. Ít có nguy cơ bùng nổ mất kiểm soát hơn.
 ---
 Frank Krämer là thành trì kiên cường của nhóm, một thế lực phòng thủ mạnh mẽ với sức mạnh và khả năng phục hồi khiến anh trở thành một tài sản vô giá. Sức bền thể chất to lớn của anh cho phép anh chống lại các cuộc tấn công tàn khốc và duy trì sự hiện diện vững chắc trên chiến trường. Khả năng phục hồi này, cùng với khả năng thao túng trái đất, khiến anh trở thành một vật thể gần như bất động. Anh có thể định hình lại địa hình, tạo ra các rào cản, củng cố phòng thủ và thậm chí chế tạo bẫy chết người, biến môi trường thành phần mở rộng khả năng phòng thủ của anh. Lợi thế chiến thuật này cho phép anh kiểm soát luồng chiến đấu và ra lệnh cho các điều khoản giao tranh.
 
 Mặc dù Krämer xuất sắc trong phòng thủ và thao túng chiến trường, nhưng điểm mạnh của anh cũng làm nổi bật một số hạn chế nhất định. Việc anh tập trung vào khả năng phục hồi và sức bền phải trả giá bằng sự nhanh nhẹn và khả năng tấn công. Anh không phải là một kẻ tấn công tuyến đầu, thiếu tốc độ và độ chính xác của đồng đội. Phong cách chiến đấu của anh dựa vào việc hấp thụ các cuộc tấn công và phản công một cách chiến lược, thay vì bắt đầu gây hấn.
 
-Hơn nữa, mặc dù khả năng thao túng trái đất của anh cung cấp các lựa chọn phòng thủ vô song, nhưng chúng đòi hỏi sự tập trung và chú ý. Điều này có thể khiến anh ta dễ bị tấn công phá vỡ khả năng kiểm soát hoặc khai thác các lỗ hổng khi anh ta đang chủ động định hình địa hình. Ngoài ra, việc anh ta dựa vào phong cách chiến đấu phản công, phản công có thể gây ra vấn đề khi đối đầu với những đối thủ có khả năng cơ động cao hoặc né tránh.
+Hơn nữa, mặc dù khả năng thao túng đất của anh cung cấp các lựa chọn phòng thủ vô song, nhưng chúng đòi hỏi sự tập trung và chú ý. Điều này có thể khiến anh ta dễ bị tấn công phá vỡ khả năng kiểm soát hoặc khai thác các lỗ hổng khi anh ta đang chủ động định hình địa hình. Ngoài ra, việc anh ta dựa vào phong cách chiến đấu phản công, phản công có thể gây ra vấn đề khi đối đầu với những đối thủ có khả năng cơ động cao hoặc né tránh.
 
 Bất chấp những hạn chế này, những lợi thế của Krämer là không thể phủ nhận. Độ bền không lay chuyển của anh ta khiến anh ta trở thành một điểm tựa quan trọng trong các trận chiến kéo dài, có khả năng chống lại các cuộc tấn công dữ dội có thể làm tê liệt những người khác. Khả năng định hình lại chiến trường của anh ta mang lại lợi thế chiến thuật, cho phép anh ta kiểm soát dòng chảy của trận chiến và bảo vệ đồng minh của mình. Anh ta là vật thể bất động, bức tường không thể phá vỡ mang lại cảm giác an toàn và ổn định giữa sự hỗn loạn. Khi những người khác chùn bước, Krämer vẫn kiên định, một minh chứng cho khả năng phục hồi không lay chuyển của anh ta và sức mạnh không thể khuất phục của trái đất bên dưới anh ta.
 

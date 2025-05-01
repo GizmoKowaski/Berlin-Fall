@@ -1,12 +1,14 @@
 #Heinkal #Character #Main-characters
 
-- **Mức cường hóa Sức mạnh/Độ bền:** **x38**
-- **Lực đấm tối đa:** **~75,000 N**
-- **Tốc độ đấm tối đa:** ~200 m/s
-- **Tốc độ chạy nước rút (ngắn):** ~150 m/s
-- **Sức nâng tối đa:** **~5000 kg**
-- **Thời gian phản xạ:** ~0.03 giây
-- **Sức bền/Chịu đựng/Độ bền:** **~x50 lần** người thường.
+- **Mức cường hóa chung:** ~x38
+- **Lực đấm tối đa:** **~85,000 N** (Cực Đại)
+- **Tốc độ đấm tối đa:** ~200 m/s (Trung bình thấp)
+- **Tốc độ chạy nước rút:** **~12.2 m/s** (Khoảng 44 km/h) (Chậm)
+- **Sức nâng tối đa:** **~6000 kg** (Cực Đại)
+- **Thời gian phản xạ:** ~0.03 giây (Chậm)
+- **Sức bền/Chịu đựng/Độ bền:** **~x55 lần** người thường (Cao)
+- **Khả năng đặc biệt:** Hỏa Động Học (Pyrokinesis - Điều khiển lửa)
+- **Sự ổn định sức mạnh:** **Trung bình.** Năng lực lửa của Margarete rất mạnh mẽ nhưng cũng khá **biến động và khó kiểm soát** khi cảm xúc dâng cao. Việc sử dụng quá mức hoặc mất bình tĩnh có thể dẫn đến bùng nổ không kiểm soát, gây nguy hiểm cho cả bản thân và đồng đội. Đòi hỏi sự tập trung cao độ và tự chủ về cảm xúc.
 ---
 Margarete Iyoda đóng vai trò là lực lượng chính của nhóm, được đặc trưng bởi sức mạnh thể chất và khả năng phục hồi đặc biệt. Các đặc điểm sinh lý của cô cho phép cô tạo ra tác động động học tàn phá, vô hiệu hóa hiệu quả đối thủ thông qua sức mạnh thô bạo. Độ bền của cô cho phép cô chịu được chấn thương đáng kể, duy trì khả năng hoạt động trong những điều kiện có thể làm mất khả năng chiến đấu của những người lính thông thường.
 

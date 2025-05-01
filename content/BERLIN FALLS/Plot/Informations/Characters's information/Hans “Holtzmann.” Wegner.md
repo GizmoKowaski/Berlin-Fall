@@ -1,12 +1,14 @@
 #Heinkal #Character #Main-characters
 
-- **Mức cường hóa chung (Được gán):** **x28**
-- **Lực đấm tối đa:** ~39,000 N
-- **Tốc độ đấm tối đa:** ~280 m/s
-- **Tốc độ chạy nước rút (ngắn):** ~200 m/s
-- **Sức nâng tối đa:** ~2600 kg
-- **Thời gian phản xạ:** ~0.022 giây
-- **Sức bền/Chịu đựng/Độ bền:** ~x30 lần người thường.
+- **Mức cường hóa chung:** ~x28
+- **Lực đấm tối đa:** **~30,000 N** (Trung bình)
+- **Tốc độ đấm tối đa:** ~280 m/s (Trung bình)
+- **Tốc độ chạy nước rút:** **~18 - 22 m/s** (Khoảng 65 - 79 km/h) (Chậm)
+- **Sức nâng tối đa:** **~2000 kg** (Trung bình)
+- **Thời gian phản xạ:** ~0.022 giây (Chậm)
+- **Sức bền/Chịu đựng/Độ bền:** **~x30 lần** người thường (Trung bình)
+- **Khả năng đặc biệt:** Băng, nhiệt lạnh (Cryokinesis)
+- **Sự ổn định sức mạnh:** **Rất Cao.** Như đã đề cập trong lore, Hans có khả năng **kiểm soát năng lực băng gần như hoàn hảo và ổn định nhất đội**. Anh có thể sử dụng sức mạnh một cách chính xác, hiệu quả mà **không gặp phải phản ứng phụ tiêu cực rõ rệt** nào. Đây là trường hợp ngoại lệ hiếm hoi trong số các nạn nhân [[Projekt Götterdämmerung]].
 ---
 Hans Wegner là hiện thân của khả năng kiểm soát chiến thuật và tính toán chính xác trên chiến trường. Mặc dù thành thạo nhiều môn chiến đấu khác nhau, sức mạnh thực sự của anh nằm ở khả năng điều khiển băng. Anh tận dụng khả năng này không chỉ để tấn công mà còn để kiểm soát toàn bộ môi trường chiến đấu một cách chiến lược.
 
@@ -58,7 +60,7 @@ Ghét: Sự hỗn loạn, mất kiểm soát, cảm xúc bộc phát (của mìn
 
 Khả năng đặc biệt: Băng, nhiệt lạnh.
 
-Đặc điểm chiến đấu: Wegner là bậc thầy trong việc biến chiến trường thành lợi thế cá nhân. Anh có thể đóng băng mặt đất để tạo ra địa hình trơn trượt, cản trở sự di chuyển của kẻ địch và buộc chúng di chuyển theo hướng anh mong muốn. Những bức tường băng sắc nhọn, cột băng chắn đường hoặc lớp sương lạnh mù mịt là công cụ quen thuộc mà anh sử dụng để chia cắt đội hình đối thủ, tạo ra khoảng trống hoặc bảo vệ đồng đội, trong giao tranh trực diện, Wegner kết hợp nhuần nhuyễn đòn tấn công vật lý với sức mạnh băng. Anh có thể bao phủ nắm đấm, khuỷu tay hoặc đầu gối bằng một lớp băng cứng, biến chúng thành vũ khí mạnh mẽ để hạ gục đối thủ. Các đòn đánh của anh không thiên về sức mạnh bạo lực mà tập trung vào việc tấn công các khớp, cơ quan trọng yếu hoặc đóng băng các chi để hạn chế chuyển động.
+Đặc điểm chiến đấu: Wegner là bậc thầy trong việc biến chiến trường thành lợi thế cá nhân. Anh có thể đóng băng mặt đất để tạo ra địa hình trơn trượt, cản trở sự di chuyển của kẻ địch và buộc chúng di chuyển theo hướng anh mong muốn. Những bức tường băng sắc nhọn, cột băng chắn đường hoặc lớp sương lạnh mù mịt là công cụ quen thuộc mà anh sử dụng để chia cắt đội hình đối thủ, tạo ra khoảng trống hoặc bảo vệ đồng đội, trong giao tranh trực diện, Wegner kết hợp nhuần nhuyễn đòn tấn công vật lý với sức mạnh băng. Anh có thể bao phủ nắm đấm, khuỷu tay hoặc đầu gối bằng một lớp băng cứng, biến chúng thành vũ khí mạnh mẽ để hạ gục đối thủ. Các đòn đánh của anh không thiên về sức mạnh bạo lực mà tập trung vào việc tấn công các khớp, cơ quan trọng yếu hoặc đóng băng các chi để hạn chế chuyển động, mặc dù sức mạnh thể chất không bằng một số thành viên khác, Hans bù lại bằng khả năng kiểm soát năng lực băng của mình ở mức độ tinh thông và ổn định nhất đội, có thể sử dụng sức mạnh mà không gặp phải tác dụng phụ tiêu cực nào.
 
 Địa chỉ:
 
