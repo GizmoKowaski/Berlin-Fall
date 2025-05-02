@@ -8,4 +8,4 @@ Nhánh nhỏ hơn:
 
 - Cảnh vệ Công nghiệp (Industriewache - InWa) – Bảo vệ nhà máy, cơ sở sản xuất trọng yếu.
 
-- Cảnh vệ Hậu cần (Versorgungswache - VerWa) – Quản lý chuỗi cung ứng và kiểm soát hàng hóa chiến lược.
+- Cảnh vệ Hậu cần (Versorgungswache - VersoWa) – Quản lý chuỗi cung ứng và kiểm soát hàng hóa chiến lược.
