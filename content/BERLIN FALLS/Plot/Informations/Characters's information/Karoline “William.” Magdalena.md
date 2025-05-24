@@ -38,7 +38,13 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên, tạo thành một khối tóc bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán và che đi một phần khuôn mặt, tăng thêm vẻ bí ẩn. Khuôn mặt cô khá lớn, với xương gò má rộng và cằm vuông rõ nét, tạo cảm giác cứng cáp, kiên định. Đôi mắt nâu, to và sâu, có đường nét sắc sảo, thường nhìn thẳng, ánh lên vẻ tập trung cao độ hoặc sự cương nghị. Vóc dáng cân đối (cao 172cm), không quá mảnh mai, toát lên sức mạnh tiềm ẩn.
+Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên. Mái tóc này tạo thành một khối bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán, đôi khi che đi một phần khuôn mặt, càng làm tăng thêm vẻ bí ẩn và tập trung cho ánh nhìn của cô.
+
+Khuôn mặt cô khá lớn, với xương gò má rộng và cằm vuông rõ nét, tạo cảm giác cứng cáp và kiên định.
+
+Điểm nhấn đặc biệt là đôi mắt màu xanh của cô. Đôi mắt này được mô tả là to và sâu, mang một đường nét sắc sảo. Màu xanh của mắt có thể tạo ra một sự tương phản thú vị với mái tóc nâu dày của cô, làm nổi bật vẻ cương nghị và có phần lạnh lùng, khó đoán trong tính cách của Karoline.
+
+Vóc dáng của Karoline cân đối, với chiều cao 5’7.7” (172cm), không quá mảnh mai nhưng toát lên một sức mạnh tiềm ẩn, phù hợp với vai trò một tay bắn tỉa và một người có khả năng kiểm soát kim loại.
 
 Độc chất: Hút thuốc, Nghiện rượu
 

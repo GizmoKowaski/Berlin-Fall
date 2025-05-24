@@ -45,6 +45,6 @@ Ghét: Thuốc lá, rượu bia và các chất kích thích, tiếng ồn ào, 
 
 Địa chỉ: 
 
-- (Cũ) Khu chung cư Sonnenblick, Schillerstraße 15, Tòa B, Phòng 705, 10627 Berlin, Charlottenburg.
+- (Cũ) Khu chung cư Sonnenblick, Schillerstraße 15, Tòa B, Phòng 705, 10627 Berlin, Charlottenburg. ([[Schillerstraße 15, 10627 Berlin, Charlottenburg]])
 - (Mới) Căn hộ an toàn tại Königstraße 112, 22767 Hamburg, Altona.
 - (Studio) Adalbertstraße 96 (Studio áp mái), 10999 Berlin, Kreuzberg.
