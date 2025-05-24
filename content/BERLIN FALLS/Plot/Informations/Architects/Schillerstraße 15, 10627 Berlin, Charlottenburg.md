@@ -2,7 +2,7 @@ Khu chung cư Sonnenblick, tọa lạc tại quận Charlottenburg của Tây Be
 
 **Tổng thể kiến trúc:**
 
-- **Bốn Tòa Nhà Giống Hệt Nhau (A, B, C, D):** Đúng như bạn nói, Sonnenblick gồm bốn khối nhà cao tầng giống hệt nhau, được đặt tên đơn giản là Tòa A, B, C và D. Chúng thường được bố trí xung quanh một khoảng sân trung tâm rộng lớn hoặc xếp thành hàng song song, tạo thành một quần thể kiến trúc có phần đơn điệu nhưng bề thế.
+- **Bốn Tòa Nhà Giống Hệt Nhau (A, B, C, D):** Sonnenblick gồm bốn khối nhà cao tầng giống hệt nhau, được đặt tên đơn giản là Tòa A, B, C và D.
 - **Mười Tầng Cao:** Mỗi tòa nhà vươn cao mười tầng, tạo nên một đường chân trời nhân tạo khá ấn tượng trong khu vực. Từ các tầng cao, cư dân có thể có tầm nhìn bao quát một phần thành phố, dù thường bị che chắn bởi các tòa nhà khác.
 - **Quy mô lớn với 100 căn hộ mỗi tầng:** Với **khoảng 100 căn hộ trên mỗi tầng**, mỗi tòa nhà mười tầng có thể chứa tới hàng nghìn người, và toàn bộ khu phức hợp này tạo thành một cộng đồng dân cư khổng lồ trong lòng thành phố.
 - **Phong cách Kiến trúc:** Chủ yếu là phong cách hiện đại chức năng hoặc có ảnh hưởng của Brutalism (Thô mộc). Mặt tiền chủ yếu bằng bê tông đúc sẵn (Plattenbau), với các dãy ban công dài, thẳng tắp, cửa sổ lặp đi lặp lại theo khuôn mẫu. Màu sắc chủ đạo thường là xám bê tông, trắng hoặc các màu nhạt đã phai theo thời gian (be, vàng nhạt). Có thể có những mảng màu trang trí (như ốp gạch màu ở ban công) nhưng thường đã cũ kỹ. Tổng thể tạo cảm giác về sự vững lãi, quy mô, nhưng cũng có phần lạnh lẽo và hơi thiếu cá tính.
@@ -20,7 +20,7 @@ Cách bố trí căn hộ điển hình ở Sonnenblick,
 
 1. **Lối vào (Eingangsbereich):** Bạn bước qua cánh cửa căn hộ (thường là cửa gỗ đặc, sơn màu trắng hoặc nâu, với tay nắm kim loại đơn giản và có thể có mắt thần) vào một khu vực tiền sảnh nhỏ hẹp hoặc trực tiếp vào phòng khách. Sàn khu vực này thường được lát gạch men. Ngay cạnh cửa có thể có một mắc treo áo khoác đơn giản bằng kim loại hoặc gỗ gắn tường.
 
-2. **Phòng khách (Wohnzimmer):** Đây thường là trung tâm sinh hoạt của căn hộ. Như bạn mô tả cho căn 708, một số phòng khách, đặc biệt là những căn nằm sâu bên trong, có thể **không có cửa sổ riêng** hoặc chỉ có ánh sáng gián tiếp từ các phòng khác, tạo cảm giác hơi tù túng.
+2. **Phòng khách (Wohnzimmer):** Đây thường là trung tâm sinh hoạt của căn hộ. Một số phòng khách, đặc biệt là những căn nằm sâu bên trong, có thể **không có cửa sổ riêng** hoặc chỉ có ánh sáng gián tiếp từ các phòng khác, tạo cảm giác hơi tù túng.
     
     - **Nội thất:** Thường có một bộ ghế sofa và ghế bành khá lớn, bọc vải nỉ hoặc da giả với màu sắc đặc trưng của thập niên 70 (cam cháy, nâu đất, xanh lá cây đậm), kiểu dáng hơi nặng nề. Một chiếc bàn cà phê thấp (mặt kính hoặc gỗ). Điểm nhấn quan trọng thường là một bức tường hệ thống tủ kệ (Schrankwand) lớn bằng gỗ ép (veneer sồi, óc chó) chiếm gần hết một bức tường, tích hợp kệ TV, tủ kính trưng bày đồ sứ hoặc ly tách, ngăn kéo và tủ chứa đồ.
     - **Trang trí:** Tường thường dán giấy dán tường với họa tiết hình học, hoa lá hoặc vân gỗ. Sàn có thể trải thảm len dày màu trung tính hoặc để nguyên sàn linoleum/PVC. Ánh sáng chủ yếu từ đèn trần hoặc đèn cây kiểu cũ (ví dụ: đèn có chao bằng nhựa màu hoặc kim loại).
