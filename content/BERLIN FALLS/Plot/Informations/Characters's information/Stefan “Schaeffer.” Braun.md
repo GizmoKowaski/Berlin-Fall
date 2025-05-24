@@ -32,7 +32,7 @@ Khuôn mặt ông thon dài, với những đường nét rõ ràng, cương ngh
 
 Độc chất: Nghiện rượu, Hút thuốc
 
-Tính cách: Thông minh, có khả năng phân tích và thích ứng tuyệt vời. Stefan là người quyết tâm, can đảm và cực kỳ bảo vệ gia đình. Anh thường trầm lặng, kín đáo, giỏi che giấu cảm xúc và có xu hướng quan sát, tính toán trước khi hành động. Có thể khá hoài nghi và thận trọng do hoàn cảnh sống và công việc tình báo. Sự căng thẳng dồn nén thường được giải tỏa qua rượu và thuốc lá. Dù kín đáo, anh có một ý chí mạnh mẽ và lòng trung thành không lay chuyển với lý tưởng và những người anh yêu thương.
+Tính cách: Thông minh, có khả năng phân tích và thích ứng tuyệt vời. Stefan là người quyết tâm, can đảm và cực kỳ bảo vệ gia đình. Anh thường trầm lặng, kín đáo, giỏi che giấu cảm xúc và có xu hướng quan sát, tính toán trước khi hành động. Khá hoài nghi và thận trọng do hoàn cảnh sống và công việc tình báo. Sự căng thẳng dồn nén thường được giải tỏa qua rượu và thuốc lá. Dù kín đáo, anh có một ý chí mạnh mẽ và lòng trung thành không lay chuyển với lý tưởng và những người anh yêu thương.
 
 Bí danh được biết đến: ?
 

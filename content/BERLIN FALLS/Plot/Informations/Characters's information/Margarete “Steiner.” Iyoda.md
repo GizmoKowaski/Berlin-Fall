@@ -44,7 +44,7 @@ Người thân:
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Margarete Iyoda có vẻ ngoài nổi bật với sức mạnh thể chất rõ rệt dù chiều cao ở mức trung bình 5’11.7” (182cm). Cô có bờ vai hơi rộng và vóc dáng cực kỳ lực lưỡng, săn chắc. Mái tóc đen, dày, được để dài ngang vai hoặc hơn một chút, có thể thẳng hoặc hơi gợn sóng tự nhiên. Phần tóc mái thường dày, che phủ phần lớn trán và đôi khi che cả một bên mắt (như trong hình vẽ), tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt của cô có đường nét mạnh mẽ, mắt một mí và lông mày rậm ở phần đuôi. Hình vẽ cho thấy một khuôn mặt với cấu trúc khá rõ, có thể có gò má và đường hàm tương đối rõ nét, dù không quá góc cạnh. Ánh mắt trong hình vẽ khá trực diện và có phần thách thức hoặc thờ ơ.
+Mô tả ngoại hình: Margarete Iyoda có vẻ ngoài nổi bật với sức mạnh thể chất rõ rệt dù chiều cao ở mức trung bình 5’11.7” (182cm). Cô có bờ vai hơi rộng và vóc dáng cực kỳ lực lưỡng, săn chắc. Mái tóc đen, dày, được để dài ngang vai hoặc hơn một chút, thẳng hoặc hơi gợn sóng tự nhiên. Phần tóc mái thường dày, che phủ phần lớn trán và đôi khi che cả một bên mắt (như trong hình vẽ), tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt của cô có đường nét mạnh mẽ, mắt một mí và lông mày rậm ở phần đuôi. Hình vẽ cho thấy một khuôn mặt với cấu trúc khá rõ, có gò má và đường hàm tương đối rõ nét, dù không quá góc cạnh. Ánh mắt trong hình vẽ khá trực diện và có phần thách thức hoặc thờ ơ.
 
 Độc chất: Hút thuốc
 
@@ -52,7 +52,7 @@ Tính cách: Margarete là một người ít nói, có phần cục mịch và 
 
 Bí danh đã biết: ?
 
-Thích: Rèn luyện thể chất (nâng tạ, các bài tập sức mạnh), chứng tỏ sức mạnh của bản thân, đồ ăn đơn giản nhưng nhiều năng lượng (thịt nướng, các món hầm), sự yên tĩnh (để suy nghĩ hoặc nghỉ ngơi sau khi gắng sức), nhạc Rock nặng hoặc Metal (phù hợp với sức mạnh nội tại), có thể là một số nghệ thuật hoặc truyền thống Nhật Bản (kiếm đạo, thư pháp - như một sự cân bằng nội tâm), sự trung thành.
+Thích: Rèn luyện thể chất (nâng tạ, các bài tập sức mạnh), chứng tỏ sức mạnh của bản thân, đồ ăn đơn giản nhưng nhiều năng lượng (thịt nướng, các món hầm), sự yên tĩnh (để suy nghĩ hoặc nghỉ ngơi sau khi gắng sức), nhạc Rock nặng hoặc Metal (phù hợp với sức mạnh nội tại), là một số nghệ thuật hoặc truyền thống Nhật Bản (kiếm đạo, thư pháp, như một sự cân bằng nội tâm), sự trung thành.
 
 Ghét: Sự yếu đuối (ở bản thân và người khác), bị coi thường hoặc bị kiểm soát, những chiến thuật phức tạp, lòng vòng, thời tiết lạnh giá (trớ trêu với khả năng lửa của mình), sự giả tạo, những lời nói sáo rỗng, bị làm phiền khi đang nghỉ ngơi.
 

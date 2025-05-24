@@ -52,7 +52,7 @@ Bí danh được biết đến: Heimer Schröder
 
 Sở thích: Bánh kem và các loại đồ ăn ngọt, thường tìm đến bia như một cách giải tỏa. Anh có niềm đam mê với đàn ghi-ta, phim hành động, trò chơi điện tử và âm nhạc nói chung. Những kỳ nghỉ là điều anh ao ước. Súng ống không chỉ là công cụ chiến đấu mà còn là một sở thích, cũng như việc sửa chữa và chế tạo đồ vật. Anh có tình cảm đặc biệt với động vật, nhất là mèo, gấu trúc và cáo.
 
-Ghét: Heimer có ác cảm mạnh mẽ với thuốc lá và mọi loại thuốc giảm đau, thuốc chống trầm cảm (có lẽ liên quan đến những ám ảnh từ các thí nghiệm hoặc sự mất mát). Anh căm ghét FEKA và chế độ của chúng. Những công việc thường nhật như việc nhà và nấu ăn là điều anh tránh né. Ngoài ra, anh không thích chó và đặc biệt ghét gián.
+Ghét: Heimer có ác cảm mạnh mẽ với thuốc lá và mọi loại thuốc giảm đau, thuốc chống trầm cảm (liên quan đến những ám ảnh từ các thí nghiệm hoặc sự mất mát). Anh căm ghét FEKA và chế độ của chúng. Những công việc thường nhật như việc nhà và nấu ăn là điều anh tránh né. Ngoài ra, anh không thích chó và đặc biệt ghét gián.
 
 Khả năng đặc biệt: Dịch chuyển vật.
 
