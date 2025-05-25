@@ -1,5 +1,10 @@
 #Heinkal #Character 
  
+---
+![[KatharinaSchröder.png]]
+
+---
+
 Trang thông tin:
 
 (Tình trạng: Đã mất)

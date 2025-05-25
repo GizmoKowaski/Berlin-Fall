@@ -1,5 +1,10 @@
 #Heinkal #Character #Main-characters
 
+---
+![[DovidKönig.png]]
+
+---
+
 - **Mức cường hóa chung:** ~x28
 - **Lực đấm tối đa:** **~38,000 N** (Trung bình Khá)
 - **Tốc độ đấm tối đa:** ~310 m/s (Nhanh)

@@ -1,5 +1,10 @@
 #Heinkal #Character #Main-characters #Important 
 
+---
+![[HeimerSchröder.png]]
+
+---
+
 - **Mức cường hóa chung:** ~x32
 - **Lực đấm tối đa:** **~45,000 N** (Khá Cao)
 - **Tốc độ đấm tối đa:** ~350 m/s (Rất Nhanh)

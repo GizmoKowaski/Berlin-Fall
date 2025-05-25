@@ -1,5 +1,10 @@
 #Heinkal #Character 
 
+---
+![[StefanBraun.png]]
+
+---
+
 Trang thông tin:
 
 (Tình trạng: Đã mất)

@@ -1,5 +1,10 @@
 #Heinkal #character
 
+---
+![[AmelieWinterstein.png]]
+
+---
+
 Amelie Winterstein là một cô gái mang phong cách mạnh mẽ và cá tính, với lối hành vi và cử chỉ có phần giống nam giới, là một họa sĩ tài năng, cô chuyên vẽ tranh cổ động cho Heinkal, dùng nghệ thuật như một vũ khí để truyền tải tinh thần và lý tưởng của tổ chức.
 
 Trang thông tin:

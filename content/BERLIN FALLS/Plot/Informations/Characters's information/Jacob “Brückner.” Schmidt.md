@@ -1,5 +1,9 @@
 #Heinkal #Character #Main-characters
 
+---
+![[JacobSchmidt.png]]
+
+---
 - **Mức cường hóa chung:** ~x27
 - **Lực đấm tối đa:** **~25,000 N** (Trung bình Thấp)
 - **Tốc độ đấm tối đa:** ~270 m/s (Trung bình)

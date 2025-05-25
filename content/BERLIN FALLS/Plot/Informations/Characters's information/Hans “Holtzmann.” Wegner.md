@@ -1,5 +1,10 @@
 #Heinkal #Character #Main-characters
 
+---
+![[HansWegner.png]]
+
+---
+
 - **Mức cường hóa chung:** ~x28
 - **Lực đấm tối đa:** **~30,000 N** (Trung bình)
 - **Tốc độ đấm tối đa:** ~280 m/s (Trung bình)

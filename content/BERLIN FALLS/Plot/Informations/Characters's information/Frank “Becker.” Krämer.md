@@ -1,5 +1,9 @@
 #Heinkal #Character #Main-characters
 
+---
+![[FrankKrämer.png]]
+
+---
 - **Mức cường hóa chung:** ~x38
 - **Lực đấm tối đa:** **~55,000 N** (Rất Cao)
 - **Tốc độ đấm tối đa:** ~230 m/s (Trung bình thấp)

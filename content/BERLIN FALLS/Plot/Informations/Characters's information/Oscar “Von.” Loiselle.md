@@ -1,5 +1,10 @@
 #Heinkal #Character #Main-characters
 
+---
+![[OscarLoiselle.png]]
+
+---
+
 - **Mức cường hóa chung:** ~x25
 - **Lực đấm tối đa:** **~28,000 N** (Trung bình)
 - **Tốc độ đấm tối đa:** ~340 m/s (Rất Nhanh)

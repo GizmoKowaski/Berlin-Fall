@@ -1,6 +1,9 @@
 #Main-plot
 
-Berlin Falls.
+---
+![[BerlinFallDemoTitle.png]]
+
+---
 
 Năm 1945, khi những đám cháy tàn khốc của Thế chiến II dần lụi tàn, thế giới chìm trong tro bụi của sự tàn phá, nước Đức hiện ra với một diện mạo hoang tàn, không chỉ về mặt vật chất mà còn cả về tinh thần. Quân Đồng minh tiến vào, chia cắt Berlin, trái tim của một quốc gia từng kiêu hãnh, thành những mảnh vụn như những vết thương sâu hoắm. Liên Xô, Hoa Kỳ, Anh và Pháp, mỗi cường quốc chiếm giữ một phần của thành phố, biến Berlin thành biểu tượng của sự thất bại và chia rẽ. Đối với nước Đức, sự chia cắt này là một cú sốc khủng khiếp, một bản án được tuyên mà không cần xét xử. Các lực lượng chiếm đóng tràn vào với quyết tâm không lay chuyển, không chỉ nhìn thấy tàn dư của một kẻ thù bại trận mà còn là cả một dân tộc mà họ tin rằng phải chịu trách nhiệm cho những đau khổ của thế giới. Trong mắt họ, mọi người Đức đều mang mác Đức Quốc xã, bị vấy bẩn và cần được giám sát chặt chẽ.
 

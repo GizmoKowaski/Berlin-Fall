@@ -1,5 +1,9 @@
 #Heinkal #Character #Main-characters
 
+---
+![[MargareteIyoda.png]]
+
+---
 - **Mức cường hóa chung:** ~x38
 - **Lực đấm tối đa:** **~85,000 N** (Cực Đại)
 - **Tốc độ đấm tối đa:** ~200 m/s (Trung bình thấp)

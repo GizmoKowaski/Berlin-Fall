@@ -1,5 +1,10 @@
 #Heinkal #Character #Main-characters
 
+---
+![[KarolineMagdalena.png]]
+
+---
+
 - **Mức cường hóa chung:** ~x27
 - **Lực đấm tối đa:** **~26,000 N** (Trung bình Thấp)
 - **Tốc độ đấm tối đa:** ~250 m/s (Trung bình)
