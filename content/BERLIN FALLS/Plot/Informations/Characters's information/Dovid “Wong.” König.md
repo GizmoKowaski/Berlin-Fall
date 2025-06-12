@@ -29,7 +29,11 @@ Trang thông tin:
 
 (Tình trạng: Còn sống)
 
-Tên đầy đủ: Dovid “Wong.” König
+Tên đầy đủ: Dovid “Wong.” König 
+
+	(Tên Tiếng Quảng: 王道維 ; Romanized: Wáng Dàowéi ) 
+	
+	(Tên Hán-Việt: Vương Đạo Duy)
 
 Quốc tịch: Hồng Kông
 
@@ -43,8 +47,8 @@ Tôn giáo: Phật giáo
 
 Người thân:
 
-- Anna Chiu “Wong.” Chuen (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
-- Peter “Kruefer.” König (Ở Đức); Lee “Hung.” Tak (Ở Hồng Kông) (Lê Hồng Đức) (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Anna Chiu “Wong.” Chuen]] (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Peter “Kruefer.” König]] (Cha, Chức vụ đã thực hiện: Không)
 
 Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 

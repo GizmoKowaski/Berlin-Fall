@@ -43,8 +43,8 @@ Tôn giáo: Phật giáo.
 
 Người thân:
 
-- Yukiko Iyoda. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
-- Torsten “Steiner.” Iyoda (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Yukiko Iyoda]]. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Torsten “Steiner.” Iyoda]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 

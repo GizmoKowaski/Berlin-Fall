@@ -38,8 +38,8 @@ Tôn giáo: Vô thần
 
 Người thân:
 
-- Anne “William.” Frank (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
-- Klaus Ostermann. (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Anne “William.” Frank]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Klaus Ostermann]]. (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 

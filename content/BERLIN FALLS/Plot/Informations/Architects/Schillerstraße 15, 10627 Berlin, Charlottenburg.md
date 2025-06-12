@@ -4,7 +4,7 @@ Khu chung cư Sonnenblick, tọa lạc tại quận Charlottenburg của Tây Be
 
 - **Bốn Tòa Nhà Giống Hệt Nhau (A, B, C, D):** Sonnenblick gồm bốn khối nhà cao tầng giống hệt nhau, được đặt tên đơn giản là Tòa A, B, C và D.
 - **Mười Tầng Cao:** Mỗi tòa nhà vươn cao mười tầng, tạo nên một đường chân trời nhân tạo khá ấn tượng trong khu vực. Từ các tầng cao, cư dân có thể có tầm nhìn bao quát một phần thành phố.
-- **Quy mô lớn với 100 căn hộ mỗi tầng:** Với **khoảng 100 căn hộ trên mỗi tầng**, mỗi tòa nhà mười tầng có thể chứa tới hàng nghìn người, và toàn bộ khu phức hợp này tạo thành một cộng đồng dân cư khổng lồ trong lòng thành phố.
+- **Quy mô lớn với 100 căn hộ mỗi tầng:** Với **khoảng 100 căn hộ trên mỗi tầng**, mỗi tòa nhà có 10 tầng (Các căn hộ sẽ được đánh số từ 100 (tức là tầng 1, căn hộ số 00, đơn vị đầu tiên) đến 199 (tầng 1, căn hộ số 99, đơn vị thứ 100). Và toàn bộ khu phức hợp này tạo thành một cộng đồng dân cư khổng lồ trong lòng thành phố.
 - **Phong cách Kiến trúc:** Chủ yếu là phong cách hiện đại chức năng hoặc có ảnh hưởng của Brutalism (Thô mộc). Mặt tiền chủ yếu bằng bê tông đúc sẵn (Plattenbau), với các dãy ban công dài, thẳng tắp, cửa sổ lặp đi lặp lại theo khuôn mẫu. Màu sắc chủ đạo thường là xám bê tông, trắng hoặc các màu nhạt đã phai theo thời gian (be, vàng nhạt). Có những mảng màu trang trí (như ốp gạch màu ở ban công) nhưng thường đã cũ kỹ. Tổng thể tạo cảm giác về sự vững lãi, quy mô, nhưng cũng có phần lạnh lẽo và hơi thiếu cá tính.
 
 **Tiện nghi và Không gian chung:**

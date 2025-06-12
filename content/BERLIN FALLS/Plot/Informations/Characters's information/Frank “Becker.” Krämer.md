@@ -40,8 +40,8 @@ Tôn giáo: ?
 
 Người thân:
 
-- Michelle “Meyer.” Burger (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
-- Douglas “Meyer.” Stephenson (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Michelle “Meyer.” Burger]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Douglas “Meyer.” Stephenson]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]],sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 

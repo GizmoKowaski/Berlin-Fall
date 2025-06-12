@@ -43,8 +43,8 @@ Tôn giáo: ?
 
 Người thân:
 
-- Bùi “Sơn.” Hùng (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
-- Madeleine Loiselle. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Bùi “Sơn.” Hùng]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Madeleine Loiselle]]. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]], *sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 

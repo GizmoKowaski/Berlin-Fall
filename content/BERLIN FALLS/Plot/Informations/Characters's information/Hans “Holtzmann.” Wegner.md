@@ -45,9 +45,9 @@ Tôn giáo: Vô thần
 
 Người thân:
 
-- Florian Holtzmann. (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Florian Holtzmann]]. (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-- Sarah Holtzmann. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Sarah Holtzmann]]. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 

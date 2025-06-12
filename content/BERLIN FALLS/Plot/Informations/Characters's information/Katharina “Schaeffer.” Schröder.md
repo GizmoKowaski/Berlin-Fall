@@ -21,6 +21,8 @@ Chiều cao: 5’10.08” (178cm)
 
 Tôn giáo: Thiên chúa giáo
 
+Công việc: Phiên dịch viên cấp cao cho một ủy ban thương mại.
+
 Người thân:
 
 - [[Stefan “Schaeffer.” Braun]] (Chồng, Chức vụ đã thực hiện: Đặc vụ tình báo) (Tình trạng: Đã mất)

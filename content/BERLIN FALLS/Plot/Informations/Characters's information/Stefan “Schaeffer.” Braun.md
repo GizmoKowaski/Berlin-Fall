@@ -21,6 +21,8 @@ Chiều cao: 6’10.68” (210cm)
 
 Tôn giáo: Thiên chúa giáo
 
+Công viêc: Chuyên gia Quy hoạch Đô thị.
+
 Người thân:
 
 - [[Katharina “Schaeffer.” Schröder]] (Vợ, Chức vụ đã thực hiện: Đặc vụ tình báo hỗ trợ cho ‘Stefan’) (Tình trạng: Đã mất)

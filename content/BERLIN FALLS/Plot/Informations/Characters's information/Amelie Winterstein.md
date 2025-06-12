@@ -25,9 +25,9 @@ Tôn giáo: Thiên chúa giáo
 
 Người thân:
 
-- Hertha Winterstein (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Còn sống)
+- [[Hertha Winterstein]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Còn sống)
 
-- Erich "Dieter." Winterstein (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Erich “Dieter.” Winterstein]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 - Alice Winterstein (Chị cả, Chức vụ đã thực hiện: Không) (Tình trạng: Còn sống)
 
