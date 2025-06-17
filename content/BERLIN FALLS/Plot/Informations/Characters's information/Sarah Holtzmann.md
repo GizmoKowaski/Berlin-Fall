@@ -9,4 +9,4 @@
 **Người thân:**
 
 - [[Florian Holtzmann]] (Chồng, Tình trạng: Đã mất)
-- [[Hans “Holtzmann.” Wegner]] (Con trai, Tình trạng: Còn sống)
+- [[Hans Holtzmann.]] (Con trai, Tình trạng: Còn sống)

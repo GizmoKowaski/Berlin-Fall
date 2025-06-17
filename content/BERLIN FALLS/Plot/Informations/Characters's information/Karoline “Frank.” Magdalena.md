@@ -24,7 +24,7 @@ Trang thông tin:
 
 (Tình trạng: Còn sống)
 
-Họ và tên đầy đủ: Karoline “William.” Magdalena
+Họ và tên đầy đủ: Karoline “Frank.” Magdalena
 
 Quốc tịch: Hoa Kỳ
 

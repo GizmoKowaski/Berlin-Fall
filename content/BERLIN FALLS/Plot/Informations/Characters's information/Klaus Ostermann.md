@@ -9,4 +9,4 @@
 **Người thân:**
 
 - [[Anne “William.” Frank]] (Vợ, Tình trạng: Đã mất)
-- [[Karoline “William.” Magdalena]] (Con gái, Tình trạng: Còn sống)
+- [[Karoline “Frank.” Magdalena]] (Con gái, Tình trạng: Còn sống)

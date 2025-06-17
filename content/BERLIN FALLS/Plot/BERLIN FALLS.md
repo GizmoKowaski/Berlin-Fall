@@ -99,14 +99,14 @@ Năm 1989 là giai đoạn huấn luyện và tập hợp lực lượng cườn
     - **[[Oscar “Von.” Loiselle]]**: Gia nhập đơn vị. Cậu là nạn nhân đặc biệt được giải cứu trong **[[Operation Schlüssel]]** (1987) khi còn rất nhỏ và được biên chế vào đội sau quá trình phục hồi/huấn luyện ban đầu.
 - **Tháng 6, 1989:**
     
-    - **[[Karoline “William.” Magdalena]]**: Được biên chế vào đơn vị. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).
+    - **[[Karoline “Frank.” Magdalena]]**: Được biên chế vào đơn vị. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).
 - **Tháng 7, 1989:**
     
     - **[[Margarete “Steiner.” Iyoda]]**: Được biên chế vào đơn vị. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).
 - **Tháng 8, 1989:**
     
     - **[[Jacob “Brückner.” Schmidt]]**: Được biên chế vào đơn vị. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).
-    - **[[Hans “Holtzmann.” Wegner]]**: Được biên chế vào đơn vị. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).
+    - **[[Hans Holtzmann.]]**: Được biên chế vào đơn vị. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).
 - **Tháng 9, 1989:**
     
     - **[[Frank “Becker.” Krämer]]**: Là thành viên cuối cùng được biên chế, hoàn thiện đội hình cốt lõi gồm 9 người. (Là một trong 7 người được giải cứu cùng Heimer năm 1987).

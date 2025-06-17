@@ -75,3 +75,25 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 **H: Sự phát triển cực nhanh của Đức có phi logic không?**
 
 **Đ:** Mặc dù được tăng tốc so với thực tế, nó được biện minh trong logic của câu chuyện. Sự trỗi dậy nhanh chóng này được thúc đẩy bởi sự kết hợp giữa tài năng chiến lược của Dostler, một nguồn viện trợ kinh tế bí mật khổng lồ từ phương Tây trong những năm đầu, và việc tuyển mộ những bộ óc khoa học giỏi nhất thế giới (từ Nhật Bản, Liên Xô, Anh, v.v.) cho [[Projekt Götterdämmerung]]. Là một tác phẩm hư cấu, dòng thời gian được tăng tốc này phục vụ mục đích nhanh chóng thiết lập VDR như một mối đe dọa đáng gờm.Chắc chắn rồi. Đây là toàn bộ tệp Q&A đã được dịch sang tiếng Việt để bạn sử dụng cho dự án "Berlin Falls" của mình.
+
+**H: Các thành viên của Höllenstein có sử dụng súng không và trình độ của họ ở mức nào?**
+
+**Đ:** Có. Tất cả các thành viên đều sử dụng súng rất thành thạo. Kỹ năng của họ được thiết lập theo hệ thống phân cấp:
+
+- **Trình độ cơ bản:** Mọi thành viên trong đội đều sở hữu kỹ năng bắn súng ở mức cơ bản tương đương với một người lính tinh nhuệ ngoài đời thực, chẳng hạn như lính Thủy quân Lục chiến Hoa Kỳ.
+- **Trình độ chuyên gia:** Các thành viên chuyên về súng ống, như **Heimer Schröder** (Súng thủ cận chiến) và **Karoline Magdalena** (Xạ thủ chiến thuật), có kỹ năng sánh ngang hoặc vượt qua các lực lượng đặc nhiệm hàng đầu như S.A.S.
+- **Kỹ năng tương đối:** Khi kỹ năng của một thành viên được ghi nhận là "kém hơn", chẳng hạn như **Dovid König**, điều đó chỉ là so với tiêu chuẩn cực kỳ cao của chính đồng đội anh ta, chứ không phải so với một người lính bình thường.
+
+**H: Hồ sơ của Frank Krämer ghi anh ta "Rất Chậm". Điều này có nghĩa là anh ta chậm hơn người bình thường không?**
+
+**Đ:** Không, hoàn toàn ngược lại. Nhãn "Rất Chậm" chỉ mang tính tương đối so với tiêu chuẩn siêu phàm của các đồng đội trong nhóm.
+
+- Tốc độ chạy nước rút thực tế của anh là **~47-54 km/h (13-15 m/s)**, nhanh hơn đáng kể so với bất kỳ vận động viên Olympic nào ngoài đời thực.
+- Anh chỉ bị coi là "chậm" khi so sánh với các thành viên như Oscar (180-216 km/h) hoặc Dovid (137-155 km/h).
+
+**H: Heimer Schröder chiến đấu trong bóng tối bằng cách nào? Anh ta có thực sự nhìn được không?**
+
+**Đ:** Heimer không nhìn rõ trong bóng tối bằng mắt thường. Hiệu quả của anh đến từ một giác quan đặc biệt, phi thị giác.
+
+- Biệt danh **"Bat" (Dơi)** của anh xuất phát từ khả năng sử dụng một dạng định vị bằng tiếng vang để cảm nhận môi trường xung quanh một cách hoàn hảo mà không cần ánh sáng.
+- Giác quan này cho phép anh theo dõi chuyển động và xác định mục tiêu với độ chính xác đáng sợ, khiến anh trở thành bậc thầy của mọi môi trường thiếu sáng hoặc không có tầm nhìn.
