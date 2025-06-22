@@ -6,10 +6,6 @@
 
 Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt truyện, logic và bối cảnh địa chính trị của vũ trụ "Berlin Falls".
 
----
-
-### **Mục 1: Nội chiến Đức & Địa chính trị**
-
 **H: Với việc quân Đồng minh hỗ trợ Heinkal, liệu đây đã được coi là một cuộc chiến tranh toàn cầu chưa?**
 
 **Đ:** Vẫn chưa. Giai đoạn này của cuộc xung đột là một **cuộc chiến ủy nhiệm (proxy war)**. Các cường quốc (Mỹ/NATO và Liên Xô) đang hỗ trợ các bên đối lập trong cuộc Nội chiến Đức nhưng tránh chiến tranh trực tiếp và công khai với nhau. Lực lượng chiến đấu chính vẫn là các phe phái của Đức. Cuộc chiến ủy nhiệm này là khúc dạo đầu nguy hiểm cho một cuộc chiến tranh toàn cầu tiềm tàng trong "Giai đoạn 3".
@@ -29,9 +25,6 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 | • Các thành viên NATO khác              |                                                 | • Trung Quốc (Trung lập thực dụng) |
 | • Nhật Bản, Úc                          |                                                 | • Nam Tư                           |
 
----
-
-### **Mục 2: Chế độ VDR & Đời sống công chúng**
 
 **H: Người dân có biết rõ về việc chính phủ bắt cóc trẻ em cho [[Projekt Götterdämmerung]] không?**
 
@@ -74,7 +67,7 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 
 **H: Sự phát triển cực nhanh của Đức có phi logic không?**
 
-**Đ:** Mặc dù được tăng tốc so với thực tế, nó được biện minh trong logic của câu chuyện. Sự trỗi dậy nhanh chóng này được thúc đẩy bởi sự kết hợp giữa tài năng chiến lược của Dostler, một nguồn viện trợ kinh tế bí mật khổng lồ từ phương Tây trong những năm đầu, và việc tuyển mộ những bộ óc khoa học giỏi nhất thế giới (từ Nhật Bản, Liên Xô, Anh, v.v.) cho [[Projekt Götterdämmerung]]. Là một tác phẩm hư cấu, dòng thời gian được tăng tốc này phục vụ mục đích nhanh chóng thiết lập VDR như một mối đe dọa đáng gờm.Chắc chắn rồi. Đây là toàn bộ tệp Q&A đã được dịch sang tiếng Việt để bạn sử dụng cho dự án "Berlin Falls" của mình.
+**Đ:** Mặc dù được tăng tốc so với thực tế, nó được biện minh trong logic của câu chuyện. Sự trỗi dậy nhanh chóng này được thúc đẩy bởi sự kết hợp giữa tài năng chiến lược của Dostler, một nguồn viện trợ kinh tế bí mật khổng lồ từ phương Tây trong những năm đầu, và việc tuyển mộ những bộ óc khoa học giỏi nhất thế giới (từ Nhật Bản, Liên Xô, Anh, v.v.) cho [[Projekt Götterdämmerung]]. Là một tác phẩm hư cấu, dòng thời gian được tăng tốc này phục vụ mục đích nhanh chóng thiết lập VDR như một mối đe dọa đáng gờm.
 
 **H: Các thành viên của Höllenstein có sử dụng súng không và trình độ của họ ở mức nào?**
 
@@ -97,3 +90,38 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 
 - Biệt danh **"Bat" (Dơi)** của anh xuất phát từ khả năng sử dụng một dạng định vị bằng tiếng vang để cảm nhận môi trường xung quanh một cách hoàn hảo mà không cần ánh sáng.
 - Giác quan này cho phép anh theo dõi chuyển động và xác định mục tiêu với độ chính xác đáng sợ, khiến anh trở thành bậc thầy của mọi môi trường thiếu sáng hoặc không có tầm nhìn.
+  
+**H: Các phe VDR và Heinkal sử dụng đơn vị tiền tệ nào?**
+
+**Đ:** Mỗi phe đã thiết lập hệ thống tiền tệ riêng để phản ánh hệ tư tưởng của mình:
+
+- **VDR (Vereinigtes Deutsches Reich):** Chế độ VDR sử dụng **Staatsmark (SM, ᛋ)**, có nghĩa là "Mác Nhà nước" hoặc gọi ngắn là "Mác Nhà".
+    - **Lý do:** Tên gọi này mang tính quan liêu, lạnh lùng, nhấn mạnh rằng giá trị của đồng tiền đến trực tiếp từ quyền lực của nhà nước. Điều này hoàn toàn phù hợp với nền kinh tế kế hoạch hóa tập trung do [[Wirtschaftsministerium]] quản lý và củng cố ý tưởng rằng nhà nước là trung tâm của mọi thứ.
+- **Heinkal (Freie Republik Heinkal):** Lực lượng Heinkal đã tái lập lại **Deutsche Mark (DM)** có nghĩa là "Mác Đức".
+    - **Lý do:** Deutsche Mark là biểu tượng mạnh mẽ của sự thịnh vượng kinh tế và các giá trị dân chủ của nước Đức thời hậu chiến. Việc sử dụng lại nó là một tuyên bố rõ ràng về mục tiêu của Heinkal: khôi phục một nước Đức tự do và dân chủ, đối lập hoàn toàn với đồng Staatsmark toàn trị của VDR. Trong giai đoạn đầu của cuộc nội chiến, có thể họ đã phải sử dụng các loại tiền tệ tạm thời hoặc thậm chí là tiền của VDR vì tình thế bắt buộc.
+
+**H: Luật pháp liên quan đến âm nhạc trong VDR như thế nào?**
+
+**Đ:** Pháp luật về âm nhạc được kiểm soát chặt chẽ như một công cụ tuyên truyền và duy trì sự thuần khiết về tư tưởng.
+
+- **Cơ quan quản lý:** Mọi hoạt động âm nhạc đều nằm dưới sự quản lý của **[[Ministerium für Volksbildung und Kultur]] (MVK)** và bộ phận đặc biệt của nó, **“Abteilung für ideologische Reinheit” (Vụ Thanh lọc Tư tưởng)**.
+- **Âm nhạc được phép:** Các thể loại được nhà nước phê duyệt bao gồm nhạc cổ điển mới (neoclassical), industrial quân đội (martial industrial), và nhạc dân gian đã được "thanh lọc". Tất cả phải thúc đẩy các giá trị của nhà nước như Sức mạnh, Trật tự và Sự hy sinh.
+- **Âm nhạc bị cấm:** Tuyệt đối cấm tất cả âm nhạc có nguồn gốc từ phương Tây (đặc biệt là rock & roll, jazz), và bất kỳ loại nhạc nào có chủ đề về chủ nghĩa cá nhân, chủ nghĩa hòa bình, hoặc bất đồng chính kiến.
+- **Hình phạt:** Việc sở hữu hoặc phổ biến âm nhạc bị cấm được coi là một tội ác chống lại nhà nước, một hành vi phá hoại tư tưởng. Những trường hợp này sẽ bị **[[Sicherheitspolizei (SiPo)]]** điều tra và xử lý.
+  
+**H: Luật chính thức về tôn giáo trong VDR là gì?**
+
+**Đ:** Chế độ VDR không chính thức "cấm" tôn giáo, mà thay vào đó là khuất phục và kiểm soát nó một cách toàn diện thông qua luật pháp.
+
+- **Nguyên tắc tối cao của Nhà nước:** Luật pháp cơ bản nhất quy định rằng lòng trung thành với Nhà nước và Reichskanzler là tuyệt đối, vượt trên mọi lòng trung thành với tôn giáo.
+- **Kiểm soát các tổ chức:** Mọi tổ chức tôn giáo phải đăng ký và chịu sự giám sát của nhà nước. Các chức sắc, linh mục phải được nhà nước chấp thuận. Các bài giảng và kinh sách đều bị **[[Ministerium für Volksbildung und Kultur]]** kiểm duyệt để loại bỏ bất kỳ giáo lý nào mâu thuẫn với hệ tư tưởng nhà nước (ví dụ: các thông điệp về hòa bình cho nhân loại, sự khiêm tốn).
+- **Các hoạt động bị cấm:** Bất kỳ cuộc tụ họp tôn giáo nào không được đăng ký đều bị coi là bất hợp pháp. Việc truyền bá bất kỳ tín ngưỡng nào không được nhà nước phê duyệt là một tội ác.
+- **Mục tiêu dài hạn:** Mục đích cuối cùng của các luật này là làm cho tôn giáo truyền thống trở nên lỗi thời, dần dần thay thế nó bằng một đức tin vào "Trật tự Đức Mới" và sự lãnh đạo của Reichskanzler.
+  
+**H: Điều gì đã xảy ra với các hạn chế văn hóa của VDR trong các vùng lãnh thổ do Heinkal kiểm soát?**
+
+**Đ:** Việc loại bỏ các hạn chế văn hóa của VDR là một trong những ưu tiên hàng đầu của chính quyền Heinkal, được thực hiện bởi **[[Ministerium für Bildung und Kultur]] (MBK)**.
+
+- **Khôi phục Tự do:** Ngay lập tức, tất cả các hình thức nghệ thuật và âm nhạc trước đây bị cấm đều được hợp pháp hóa và khuyến khích. Điều này bao gồm nhạc rock, jazz từ phương Tây và các dòng nhạc đa dạng khác. Đây là một biểu tượng mạnh mẽ cho sự trở lại của tự do.
+- **Hoàn trả các Ngày lễ:** Các ngày lễ tôn giáo và truyền thống đã được khôi phục. Lễ Giáng sinh được trả lại đúng với ý nghĩa tôn giáo của nó, thay thế cho lễ "Julfest" của nhà nước VDR.
+- **Ngoại lệ - Cấm Tuyên truyền của VDR:** Tự do không có nghĩa là cho phép sự tồn tại của tư tưởng thù địch. Theo chính sách "loại bỏ tư tưởng cực đoan" của MBK, tất cả các bài quốc ca, hành khúc quân đội và các bài hát tuyên truyền của VDR đều bị cấm. Việc phổ biến chúng bị coi là một hành vi vi phạm pháp luật, tương tự như các luật chống lại các biểu tượng của Đức Quốc xã ở thế giới thực.
