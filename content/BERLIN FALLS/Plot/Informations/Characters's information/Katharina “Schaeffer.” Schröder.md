@@ -30,7 +30,7 @@ Người thân:
 - [[Heimer “Schaeffer.” Schröder]] (Con trai, Chức vụ đã thực hiện: [[WGB-Truppführer]], Chỉ huy sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')) (Tình trạng: Còn sống)
 
 
-Đã đảm nhiệm chức vụ: Đặc vụ tình báo hỗ trợ cho ‘Stefan’
+Đã đảm nhiệm chức vụ: Đặc vụ tình báo hỗ trợ cho ‘Stefan’ (1984 - 1987)
 
 Mô tả ngoại hình: Một phụ nữ cao, có vóc dáng cân đối và thần thái kiên định. Mái tóc nâu rất sẫm, dày, bồng bềnh gợn sóng tự nhiên, dài ngang vai với phần mái rủ xuống trán, tạo vẻ trầm ngâm. Khuôn mặt trái xoan, đường nét mềm mại nhưng đôi mắt to, xanh nước biển sâu lại ánh lên sự thông minh, quyết đoán và có lẽ là cả nỗi buồn tiềm ẩn. Phong thái toát lên sự kết hợp giữa mạnh mẽ và nhạy cảm.
 

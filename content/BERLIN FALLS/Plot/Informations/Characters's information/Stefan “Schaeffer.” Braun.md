@@ -29,7 +29,7 @@ Người thân:
 
 - [[Heimer “Schaeffer.” Schröder]] (Con trai, Chức vụ đã thực hiện: [[WGB-Truppführer]], Chỉ huy sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')) (Tình trạng: Còn sống)
 
-Đã đảm nhiệm chức vụ: Đặc vụ tình báo.
+Đã đảm nhiệm chức vụ: Đặc vụ tình báo. (1984 - 1987)
 
 Mô tả ngoại hình: Stefan là một người đàn ông có tầm vóc cao lớn ấn tượng, ở mức 2 mét 10 (khoảng 6 feet 10.68 inches), với một thân hình gầy nhưng vẫn toát lên vẻ cường tráng, săn chắc. Mái tóc dày màu nâu của ông có những lọn gợn sóng tự nhiên, được cắt ngắn hơn một chút so với những kiểu tóc dài bồng bềnh thịnh hành trong thập niên 70 (Shag cut), tuy nhiên vẫn giữ được độ dày và độ che phủ đáng kể. Những lọn tóc này thường bao quanh lấy khuôn mặt, đặc biệt là phần tóc mái thường rủ xuống, che đi gần hết vầng trán và đôi khi là một phần đôi mắt, tạo nên một vẻ ngoài vừa bí ẩn vừa có chút gì đó trầm tư, u uất.
 

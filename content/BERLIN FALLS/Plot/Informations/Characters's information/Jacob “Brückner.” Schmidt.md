@@ -49,7 +49,7 @@ Người thân:
 
 Mô tả ngoại hình: Jacob Schmidt là một người đàn ông cao lớn và lực lưỡng, với chiều cao ấn tượng 6’8.7” (205cm). Anh có bờ vai rộng và vóc dáng săn chắc, toát lên vẻ mạnh mẽ, từng trải. Mái tóc nâu dài, được tỉa lớp và thường trông khá rối một cách tự nhiên, thường rẽ ngôi giữa và buông xõa hai bên, che phủ một phần trán.
 
-Điểm nổi bật trên khuôn mặt anh là bộ râu rậm rạp bao phủ gần hết phần dưới, nối liền với tóc mai, tạo nên vẻ ngoài có phần hoang dã và bí ẩn. Gương mặt ẩn sau lớp râu tóc có đường nét khá rõ ràng, với gò má cao và đôi mắt sâu, thường mang ánh nhìn mãnh liệt hoặc trầm tư, suy tính. Làn da của anh trắng nhợt nhạt, tạo sự tương phản với mái tóc và bộ râu sẫm màu.
+Điểm nổi bật trên khuôn mặt anh là bộ râu rậm rạp bao phủ gần hết phần dưới, nối liền với tóc mai, tạo nên vẻ ngoài có phần hoang dã và bí ẩn. Gương mặt ẩn sau lớp râu tóc có đường nét khá rõ ràng, với gò má cao và đôi mắt sâu, thường mang ánh nhìn mãnh liệt hoặc trầm tư, suy tính. Làn da của anh trắng nhợt nhạt, tạo sự tương phản với mái tóc và bộ râu sẫm màu. Phần ngực rộng và cơ bắp của anh phủ một lớp lông rậm, xoăn nhẹ, màu nâu đậm, hòa hợp với tóc và râu, khiến tổng thể trở nên càng thêm thô ráp, nam tính và đầy khí chất lãng tử kiểu cổ điển.
 
 Độc chất: Hút thuốc, Nghiện rượu, Nghiện ma túy.
 

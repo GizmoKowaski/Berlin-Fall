@@ -47,7 +47,7 @@ Người thân:
 
 Đang đảm nhiệm: [[WGB-Truppführer]], Chỉ huy sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
-Mô tả ngoại hình: Khuôn mặt Heimer có đường nét thanh thoát, sống mũi cao và cằm hơi nhọn. Mái tóc vàng dài, bồng bềnh và gợn sóng thường che đi gần hết một bên mắt, tạo điểm nhấn đặc trưng. Đôi mắt của cậu màu xanh, mí lót và khá nhỏ, nhưng con mắt có thể nhìn thấy thường ánh lên vẻ tập trung, sắc bén. Môi cậu thường mím chặt, góp phần tạo nên biểu cảm nghiêm nghị hoặc tập trung.
+Mô tả ngoại hình: Khuôn mặt Heimer có đường nét thanh thoát, sống mũi cao và cằm hơi nhọn. Mái tóc vàng dài, bồng bềnh và gợn sóng thường che đi gần hết một bên mắt, tạo điểm nhấn đặc trưng. Đôi mắt của cậu màu xanh, lông mi dài, mí lót và khá nhỏ, nhưng con mắt có thể nhìn thấy thường ánh lên vẻ tập trung, sắc bén. Môi cậu thường mím chặt, góp phần tạo nên biểu cảm nghiêm nghị hoặc tập trung. Trên phần ngực, một lớp lông mỏng, xoăn nhẹ và mọc thưa màu vàng sẫm.
 
 Độc chất: Nghiện rượu.
 
