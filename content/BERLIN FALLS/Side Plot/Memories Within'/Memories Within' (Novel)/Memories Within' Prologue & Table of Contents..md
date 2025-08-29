@@ -18,4 +18,4 @@ Tuy nhiên, định mệnh, như thường lệ, đã có những kế hoạch k
 
 Book 1:
 
-- [[Chapter 00 - First Note.]]
+- [[Chapter 0 - Letters]]

@@ -14,8 +14,8 @@ Chuyên theo dõi, truy lùng và triệt hạ những phần tử phản độn
 Gồm 3 nhánh chính:
 
 
-I. [[Ordnungspolizei (OrPo)]] – Cảnh sát Trật tự
+I. [[Ordnungswacht (OW)]] – Cảnh vệ Trật tự
 
-II. [[Schutzpolizei (SchuPo)]] – Cảnh sát Bảo vệ Nhà nước
+II. [[Reichswacht (RW)]] – Vệ binh Đế chế
 
-III. [[Sicherheitspolizei (SiPo)]] – Cảnh sát An ninh (Dưới quyền FEKAs)
+III. [[Staatssicherheitsamt (SSA)]] – Tổng cục An ninh Nhà nước

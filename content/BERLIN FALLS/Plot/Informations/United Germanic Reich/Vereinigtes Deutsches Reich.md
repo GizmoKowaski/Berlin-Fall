@@ -25,7 +25,7 @@ Bề ngoài, xã hội VDR có trật tự, kỷ cương và thịnh vượng. N
 
 - **[[Reichsjugendbund]]** là công cụ chính để nhồi sọ thế hệ trẻ, đảm bảo một lớp người kế thừa trung thành với chế độ.
 - Truyền thông, văn hóa và giáo dục đều nằm dưới sự kiểm soát của **[[Ministerium für Volksbildung und Kultur]]**, chỉ được phép lan truyền các nội dung ca ngợi chế độ.
-- Mọi hành vi bất đồng chính kiến đều bị dập tắt một cách tàn nhẫn bởi các lực lượng an ninh như **[[Sicherheitspolizei (SiPo)]]**. Người dân sống trong một môi trường vừa được hưởng lợi ích vật chất, vừa bị giám sát và phải tuân thủ tuyệt đối.
+- Mọi hành vi bất đồng chính kiến đều bị dập tắt một cách tàn nhẫn bởi các lực lượng an ninh như **[[Staatssicherheitsamt (SSA)]]**. Người dân sống trong một môi trường vừa được hưởng lợi ích vật chất, vừa bị giám sát và phải tuân thủ tuyệt đối.
 
 ### **Quan hệ Quốc tế**
 

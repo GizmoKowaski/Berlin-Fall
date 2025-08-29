@@ -97,8 +97,10 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 
 - **VDR (Vereinigtes Deutsches Reich):** Chế độ VDR sử dụng **Staatsmark (SM, ᛋ)**, có nghĩa là "Mác Nhà nước" hoặc gọi ngắn là "Mác Nhà".
     - **Lý do:** Tên gọi này mang tính quan liêu, lạnh lùng, nhấn mạnh rằng giá trị của đồng tiền đến trực tiếp từ quyền lực của nhà nước. Điều này hoàn toàn phù hợp với nền kinh tế kế hoạch hóa tập trung do [[Wirtschaftsministerium]] quản lý và củng cố ý tưởng rằng nhà nước là trung tâm của mọi thứ.
+    - **Giá trị:** Nhờ sức mạnh công nghệ vượt trội và nền kinh tế được quản lý hiệu quả, Staatsmark là một đồng tiền cực kỳ mạnh, với tỷ giá hối đoái vào những năm 1980 là khoảng **1 SM đổi 2.13 đô la Mỹ**. Điều này thể hiện rõ sự thành công kinh tế của chế độ Dostler.
 - **Heinkal (Freie Republik Heinkal):** Lực lượng Heinkal đã tái lập lại **Deutsche Mark (DM)** có nghĩa là "Mác Đức".
     - **Lý do:** Deutsche Mark là biểu tượng mạnh mẽ của sự thịnh vượng kinh tế và các giá trị dân chủ của nước Đức thời hậu chiến. Việc sử dụng lại nó là một tuyên bố rõ ràng về mục tiêu của Heinkal: khôi phục một nước Đức tự do và dân chủ, đối lập hoàn toàn với đồng Staatsmark toàn trị của VDR. Trong giai đoạn đầu của cuộc nội chiến, có thể họ đã phải sử dụng các loại tiền tệ tạm thời hoặc thậm chí là tiền của VDR vì tình thế bắt buộc.
+    - **Giá trị:** Trái ngược hoàn toàn với đồng Staatsmark hùng mạnh, đồng DM của Heinkal là một loại tiền tệ yếu hơn và biến động nhiều hơn. Nền kinh tế của họ là một nền kinh tế thời chiến, phụ thuộc nhiều vào viện trợ nước ngoài từ các đồng minh phương Tây và tập trung vào nhu cầu quân sự hơn là sản xuất công nghiệp. Do đó, giá trị của nó dựa nhiều vào lời hứa về một chiến thắng trong tương lai và sự hỗ trợ của Đồng minh hơn là sức mạnh kinh tế hiện tại. Trong cuộc nội chiến vào những năm 1980, một tỷ giá hối đoái hợp lý sẽ nằm trong khoảng **4.50 đến 5.50 DM cho 1 đô la Mỹ**.
 
 **H: Luật pháp liên quan đến âm nhạc trong VDR như thế nào?**
 
@@ -107,7 +109,7 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 - **Cơ quan quản lý:** Mọi hoạt động âm nhạc đều nằm dưới sự quản lý của **[[Ministerium für Volksbildung und Kultur]] (MVK)** và bộ phận đặc biệt của nó, **“Abteilung für ideologische Reinheit” (Vụ Thanh lọc Tư tưởng)**.
 - **Âm nhạc được phép:** Các thể loại được nhà nước phê duyệt bao gồm nhạc cổ điển mới (neoclassical), industrial quân đội (martial industrial), và nhạc dân gian đã được "thanh lọc". Tất cả phải thúc đẩy các giá trị của nhà nước như Sức mạnh, Trật tự và Sự hy sinh.
 - **Âm nhạc bị cấm:** Tuyệt đối cấm tất cả âm nhạc có nguồn gốc từ phương Tây (đặc biệt là rock & roll, jazz), và bất kỳ loại nhạc nào có chủ đề về chủ nghĩa cá nhân, chủ nghĩa hòa bình, hoặc bất đồng chính kiến.
-- **Hình phạt:** Việc sở hữu hoặc phổ biến âm nhạc bị cấm được coi là một tội ác chống lại nhà nước, một hành vi phá hoại tư tưởng. Những trường hợp này sẽ bị **[[Sicherheitspolizei (SiPo)]]** điều tra và xử lý.
+- **Hình phạt:** Việc sở hữu hoặc phổ biến âm nhạc bị cấm được coi là một tội ác chống lại nhà nước, một hành vi phá hoại tư tưởng. Những trường hợp này sẽ bị **[[Staatssicherheitsamt (SSA)]]** điều tra và xử lý.
   
 **H: Luật chính thức về tôn giáo trong VDR là gì?**
 
@@ -125,3 +127,23 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 - **Khôi phục Tự do:** Ngay lập tức, tất cả các hình thức nghệ thuật và âm nhạc trước đây bị cấm đều được hợp pháp hóa và khuyến khích. Điều này bao gồm nhạc rock, jazz từ phương Tây và các dòng nhạc đa dạng khác. Đây là một biểu tượng mạnh mẽ cho sự trở lại của tự do.
 - **Hoàn trả các Ngày lễ:** Các ngày lễ tôn giáo và truyền thống đã được khôi phục. Lễ Giáng sinh được trả lại đúng với ý nghĩa tôn giáo của nó, thay thế cho lễ "Julfest" của nhà nước VDR.
 - **Ngoại lệ - Cấm Tuyên truyền của VDR:** Tự do không có nghĩa là cho phép sự tồn tại của tư tưởng thù địch. Theo chính sách "loại bỏ tư tưởng cực đoan" của MBK, tất cả các bài quốc ca, hành khúc quân đội và các bài hát tuyên truyền của VDR đều bị cấm. Việc phổ biến chúng bị coi là một hành vi vi phạm pháp luật, tương tự như các luật chống lại các biểu tượng của Đức Quốc xã ở thế giới thực.
+
+**H: Đâu là logic đằng sau chiến lược ngoại giao của Dostler? Ông ta dường như đã hợp tác với cả hai phe trong Chiến tranh Lạnh.**
+
+**Đ:** Đây chính là bản chất của kế hoạch dài hạn và đầy mưu mẹo của Dostler. Ông ta không trung thành với bất kỳ hệ tư tưởng nào ngoài "Trật tự Đức Mới" của riêng mình. Chiến lược của ông ta có thể được tóm tắt là: **"Chất lượng + Số lượng = Lực lượng Áp đảo"**.
+
+1. **Giai đoạn 1: Xây dựng "Chất lượng" bằng tiền của phương Tây (1970-1980).** Dostler hiểu rằng để xây dựng một đội quân và nền kinh tế vượt trội, ông ta cần vốn và công nghệ. Ông ta đã lợi dụng nỗi sợ hãi của phương Tây đối với Liên Xô, bí mật cung cấp cho họ một số công nghệ tiên tiến từ _Projekt Götterdämmerung_ để đổi lấy sự hỗ trợ kinh tế. Về cơ bản, ông ta đã **dùng tiền của phương Tây để xây dựng thanh kiếm** mà một ngày nào đó ông ta sẽ dùng để chống lại họ.
+
+2. **Giai đoạn 2: Bổ sung "Số lượng" bằng cách liên minh với phương Đông (Từ năm 1980).** Khi đã có được "Chất lượng" (công nghệ vượt trội, kinh tế hùng mạnh), Dostler bắt đầu cần đến "Số lượng" (quy mô công nghiệp và quân đội khổng lồ) mà chỉ Liên Xô mới có thể cung cấp. Ông ta đã tiếp cận một Liên Xô đang suy yếu về công nghệ và đề nghị một liên minh, cung cấp cho họ chất lượng mà họ thiếu.
+
+3. **Mục tiêu cuối cùng: Dùng cả hai để thống trị.** Kế hoạch cuối cùng của Dostler là kết hợp **chất lượng công nghệ của VDR** với **số lượng khổng lồ của Liên Xô** để tạo ra một lực lượng quân sự không thể bị ngăn cản, đủ sức nghiền nát NATO. Sau khi phương Tây sụp đổ, một Liên Xô đã kiệt quệ và phụ thuộc vào công nghệ của VDR sẽ là mục tiêu cuối cùng, để lại Dostler là người thống trị tuyệt đối.
+
+**H: Làm thế nào Dostler có thể hợp tác với phương Tây trong suốt một thập kỷ mà không khiến Liên Xô và các nước trung lập nghi ngờ về một liên minh bí mật?**
+
+**Đ:** Dostler đã thành công nhờ một chiến lược ngoại giao hai mặt cực kỳ tinh vi và sự kiên nhẫn đáng sợ:
+
+1. **Lập trường Công khai Cứng rắn:** Về mặt công khai, bộ máy tuyên truyền của VDR không bao giờ tỏ ra thân thiện với phương Tây. Ngược lại, Dostler thường xuyên có những bài phát biểu lên án "sự suy đồi của chủ nghĩa tư bản" và "sự can thiệp của Mỹ vào các vấn đề châu Âu". Lập trường dân tộc chủ nghĩa cực đoan của ông ta khiến ông ta trông giống một "lực lượng thứ ba" khó đoán, chứ không phải là một đồng minh của NATO. Đối với các nhà quan sát bên ngoài, bao gồm cả Moscow, VDR dường như đang ghét cả hai phe như nhau.
+
+2. **Giao dịch được Ngụy trang:** Mọi hoạt động hợp tác với phương Tây đều được che đậy một cách hoàn hảo dưới vỏ bọc các "thỏa thuận thương mại công nghiệp". Công nghệ quân sự được chuyển giao dưới dạng "bằng sáng chế cho máy móc hạng nặng" hoặc "linh kiện điện tử tiên tiến". Dòng tiền hỗ trợ kinh tế được luân chuyển qua các ngân hàng Thụy Sĩ và các tập đoàn bình phong. Tình báo Liên Xô có thể nghi ngờ, nhưng họ không có bằng chứng rõ ràng về một liên minh quân sự, chính trị.
+
+3. **Lợi dụng Sự kiêu ngạo của Phương Tây:** Dostler biết rằng phương Tây, đặc biệt là Mỹ, có xu hướng tin rằng họ có thể kiểm soát và "thuần hóa" các chế độ độc tài hữu ích. Họ đã nhìn nhận Dostler như một "Hitler có thể kiểm soát được" một kẻ độc tài nhưng ít nhất là chống Cộng. Sự tự tin thái quá này đã khiến họ trở nên mù quáng trước kế hoạch thực sự của ông ta.
