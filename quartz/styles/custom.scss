@@ -12,3 +12,14 @@
 :root {
   --titleFont: Haettenschweiler, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
 }
+
+/*
+ * FIX FOR CONDENSED FONT:
+ * This adds a small amount of space between letters
+*/
+h1, h2, h3, h4, h5, h6,
+summary,
+[data-font="header"],
+.page-title {
+  letter-spacing: 0.05em;
+}
