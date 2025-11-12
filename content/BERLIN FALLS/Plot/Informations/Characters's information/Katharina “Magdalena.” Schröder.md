@@ -1,5 +1,5 @@
 #Heinkal #Character 
- 
+
 ---
 ![[KatharinaSchröder.png]]
 
@@ -9,7 +9,7 @@ Trang thông tin:
 
 (Tình trạng: Đã mất)
 
-Tên đầy đủ: Katharina “Schaeffer.” Schröder
+Tên đầy đủ: Katharina “Magdalena.” Schröder
 
 Quốc tịch: Cộng hòa liên bang Đức
 

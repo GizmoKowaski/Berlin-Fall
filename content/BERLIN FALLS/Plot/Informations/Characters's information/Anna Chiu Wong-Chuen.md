@@ -1,6 +1,6 @@
 (Tình trạng: Đã mất)
 
-**Họ và tên:** Anna Chiu “Wong.” Chuen (Triệu Vương Tuyền)
+**Họ và tên:** Anna Chiu Wong Chuen (Triệu Vương Tuyền)
 
 **Quốc tịch:** Hồng Kông
 
@@ -8,6 +8,6 @@
 
 **Người thân:**
 
-- [[Lee “Hung.” Tak]] (Chồng cũ, Tình trạng: Đã mất)
+- [[Lee Hung-Tak]] (Chồng cũ, Tình trạng: Đã mất)
 - [[Peter “Kruefer.” König]] (Chồng, Tình trạng: Đã mất)
 - [[Dovid “Wong.” König]] (Con trai, Tình trạng: Còn sống)

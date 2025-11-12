@@ -29,7 +29,7 @@ Trang thông tin:
 
 (Tình trạng: Còn sống)
 
-Tên đầy đủ: Oscar “Von.” Loiselle
+Tên đầy đủ: Oscar Loiselle
 
 Quốc tịch: Pháp
 
@@ -43,8 +43,8 @@ Tôn giáo: ?
 
 Người thân:
 
-- [[Bùi “Sơn.” Hùng]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
-- [[Madeleine Loiselle]]. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Bùi Sơn Hùng]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Madeleine “Alarie.” Loiselle]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]], *sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
@@ -54,7 +54,7 @@ Mô tả ngoại hình: Cậu sở hữu mái tóc tối màu, khá dày và có
 
 Tính cách: Oscar là thành viên trẻ tuổi nhất và nhỏ con nhất đội, và cậu ta bù đắp điều đó bằng một thái độ kiêu căng, lỗ mãng và có phần tự mãn về tốc độ phi thường của mình. Cậu thường tỏ ra ồn ào, thích thể hiện và không ngại va chạm bằng lời nói, đặc biệt với những ai cậu cho là chậm chạp hoặc kém cỏi. Tuy nhiên, đằng sau vẻ ngoài xấc xược đó là một chàng trai hòa đồng và trung thành tuyệt đối với những người cậu coi là gia đình trong đội, đặc biệt là Heimer và Dovid. Sự lỗ mãng của cậu xuất phát từ sự bất an về vóc dáng hoặc quá khứ (mồ côi, gốc gác Pháp-Việt). Cậu hành động nhanh chóng, đôi khi hơi bốc đồng, dựa nhiều vào tốc độ và khả năng thích ứng hơn là kế hoạch chi tiết.
 
-Bí danh đã biết: Pellegrini
+Bí danh đã biết: ?
 
 Thích: Tốc độ (dưới mọi hình thức), thể hiện kỹ năng của mình, trêu chọc người khác (đặc biệt là những người chậm hơn), đồ ăn mặn và ngọt, có thể là một số món ăn Pháp hoặc Việt Nam gợi nhớ quê nhà, phim hoạt hình hoặc truyện tranh, âm nhạc sôi động (punk, new wave).
 

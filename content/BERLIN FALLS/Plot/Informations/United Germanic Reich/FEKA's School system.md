@@ -117,6 +117,10 @@ Các Nhóm Học Sinh Đặc Biệt (Chỉ cho phép Wehrstufe II)
 
 Trang Phục
 
+Việc tuân thủ không có nghĩa là đồng nhất tuyệt đối. Hệ thống trường học VDR cho phép chủ nghĩa cá nhân được phép (permitted individualism) như một dấu hiệu của sự thịnh vượng của nhà nước.
+
+Học sinh (đặc biệt là 'Spezialisten' hoặc giới tinh hoa) được phép để các kiểu tóc thời thượng ("mullets", ...) miễn là nó sạch sẽ, gọn gàng và không bị coi là "suy đồi" (ví dụ: phong cách punk, nhuộm màu phi tự nhiên, hoặc luộm thuộm). Điều này củng cố ý thức hệ rằng sự thịnh vượng và phong cách cá nhân là phần thưởng cho lòng trung thành và năng suất.
+
 
 | Cấp học              | Áo sơ mi                           | Quần / Váy                                                                      | Áo khoác                                                               | Giày / Phụ kiện                                                                                                             |
 | -------------------- | ---------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |

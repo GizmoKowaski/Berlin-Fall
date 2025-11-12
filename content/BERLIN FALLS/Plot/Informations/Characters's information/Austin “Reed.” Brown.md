@@ -1,6 +1,6 @@
 (Tình trạng: Đã mất)
 
-**Họ và tên:** Austin “Brückner.” Brown
+**Họ và tên:** Austin “Reed.” Brown
 
 **Quốc tịch:** Hoa Kỳ
 

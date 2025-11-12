@@ -8,5 +8,5 @@
 
 **Người thân:**
 
-- [[Austin “Brückner.” Brown]] (Chồng, Tình trạng: Đã mất)
+- [[Austin “Reed.” Brown]] (Chồng, Tình trạng: Đã mất)
 - [[Jacob “Brückner.” Schmidt]] (Con trai, Tình trạng: Còn sống)

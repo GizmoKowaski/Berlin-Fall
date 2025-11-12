@@ -8,5 +8,5 @@
 
 **Người thân:**
 
-- [[Klaus Ostermann]] (Chồng, Tình trạng: Đã mất)
-- [[Karoline “Frank.” Magdalena]] (Con gái, Tình trạng: Còn sống)
+- [[Klaus Frank]] (Chồng, Tình trạng: Đã mất)
+- [[Karoline “Magdalena.” Frank]] (Con gái, Tình trạng: Còn sống)

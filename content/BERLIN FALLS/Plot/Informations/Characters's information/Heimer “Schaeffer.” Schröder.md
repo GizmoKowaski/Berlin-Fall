@@ -41,7 +41,7 @@ Tôn giáo: Thiên chúa giáo
 
 Người thân:
 
-- [[Katharina “Schaeffer.” Schröder]] (Mẹ, Chức vụ đã thực hiện: Đặc vụ tình báo hỗ trợ cho ‘Stefan’) (Tình trạng: Đã mất)
+- [[Katharina “Magdalena.” Schröder]] (Mẹ, Chức vụ đã thực hiện: Đặc vụ tình báo hỗ trợ cho ‘Stefan’) (Tình trạng: Đã mất)
 
 - [[Stefan “Schaeffer.” Braun]] (Cha, Chức vụ đã thực hiện: Đặc vụ tình báo) (Tình trạng: Đã mất)
 

@@ -8,5 +8,5 @@
 
 **Người thân:**
 
-- [[Anna Chiu “Wong.” Chuen]] (Vợ, Tình trạng: Đã mất)
+- [[Anna Chiu Wong-Chuen]] (Vợ, Tình trạng: Đã mất)
 - [[Dovid “Wong.” König]] (Con trai, Tình trạng: Còn sống)

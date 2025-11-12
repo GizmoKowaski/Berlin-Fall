@@ -1,6 +1,6 @@
 (Tình trạng: Đã mất)
 
-**Họ và tên:** Klaus Ostermann
+**Họ và tên:** Klaus Frank
 
 **Quốc tịch:** Hoa Kỳ
 
@@ -9,4 +9,4 @@
 **Người thân:**
 
 - [[Anne “William.” Frank]] (Vợ, Tình trạng: Đã mất)
-- [[Karoline “Frank.” Magdalena]] (Con gái, Tình trạng: Còn sống)
+- [[Karoline “Magdalena.” Frank]] (Con gái, Tình trạng: Còn sống)

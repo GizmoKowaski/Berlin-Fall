@@ -128,15 +128,19 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 - **Hoàn trả các Ngày lễ:** Các ngày lễ tôn giáo và truyền thống đã được khôi phục. Lễ Giáng sinh được trả lại đúng với ý nghĩa tôn giáo của nó, thay thế cho lễ "Julfest" của nhà nước VDR.
 - **Ngoại lệ - Cấm Tuyên truyền của VDR:** Tự do không có nghĩa là cho phép sự tồn tại của tư tưởng thù địch. Theo chính sách "loại bỏ tư tưởng cực đoan" của MBK, tất cả các bài quốc ca, hành khúc quân đội và các bài hát tuyên truyền của VDR đều bị cấm. Việc phổ biến chúng bị coi là một hành vi vi phạm pháp luật, tương tự như các luật chống lại các biểu tượng của Đức Quốc xã ở thế giới thực.
 
+
 **H: Đâu là logic đằng sau chiến lược ngoại giao của Dostler? Ông ta dường như đã hợp tác với cả hai phe trong Chiến tranh Lạnh.**
 
 **Đ:** Đây chính là bản chất của kế hoạch dài hạn và đầy mưu mẹo của Dostler. Ông ta không trung thành với bất kỳ hệ tư tưởng nào ngoài "Trật tự Đức Mới" của riêng mình. Chiến lược của ông ta có thể được tóm tắt là: **"Chất lượng + Số lượng = Lực lượng Áp đảo"**.
 
 1. **Giai đoạn 1: Xây dựng "Chất lượng" bằng tiền của phương Tây (1970-1980).** Dostler hiểu rằng để xây dựng một đội quân và nền kinh tế vượt trội, ông ta cần vốn và công nghệ. Ông ta đã lợi dụng nỗi sợ hãi của phương Tây đối với Liên Xô, bí mật cung cấp cho họ một số công nghệ tiên tiến từ _Projekt Götterdämmerung_ để đổi lấy sự hỗ trợ kinh tế. Về cơ bản, ông ta đã **dùng tiền của phương Tây để xây dựng thanh kiếm** mà một ngày nào đó ông ta sẽ dùng để chống lại họ.
 
-2. **Giai đoạn 2: Bổ sung "Số lượng" bằng cách liên minh với phương Đông (Từ năm 1980).** Khi đã có được "Chất lượng" (công nghệ vượt trội, kinh tế hùng mạnh), Dostler bắt đầu cần đến "Số lượng" (quy mô công nghiệp và quân đội khổng lồ) mà chỉ Liên Xô mới có thể cung cấp. Ông ta đã tiếp cận một Liên Xô đang suy yếu về công nghệ và đề nghị một liên minh, cung cấp cho họ chất lượng mà họ thiếu.
+2. **Giai đoạn 2: Bổ sung "Số lượng" bằng cách liên minh với phương Đông (Từ năm 1980).** Khi đã có được "Chất lượng", Dostler bắt đầu cần đến "Số lượng" (quy mô công nghiệp và quân đội khổng lồ) mà chỉ Liên Xô mới có thể cung cấp. Ông ta đã tiếp cận một Liên Xô đang suy yếu về công nghệ và đề nghị một liên minh.
+    - **Chiến lược "Ký sinh":** Đây không phải là một liên minh bình đẳng. Dostler đề nghị "hiện đại hóa" các nhà máy của Liên Xô bằng công nghệ vượt trội của VDR (từ [[Wissenschaftlich-Technische Abteilung (WTA)]]). Đổi lại, VDR yêu cầu quyền sở hữu một phần các nhà máy này (thông qua các thỏa thuận "nợ đổi lấy cổ phần") và cài cắm các kỹ sư, phần mềm độc quyền của mình vào.
+    - **Tạo ra sự Phụ thuộc:** Theo thời gian, các nhà máy của Liên Xô không thể hoạt động nếu thiếu các bộ phận thay thế, phần mềm, và kỹ thuật viên của VDR. VDR từ từ giành lấy quyền kiểm soát hoạt động của nền công nghiệp Liên Xô từ bên trong.
 
-3. **Mục tiêu cuối cùng: Dùng cả hai để thống trị.** Kế hoạch cuối cùng của Dostler là kết hợp **chất lượng công nghệ của VDR** với **số lượng khổng lồ của Liên Xô** để tạo ra một lực lượng quân sự không thể bị ngăn cản, đủ sức nghiền nát NATO. Sau khi phương Tây sụp đổ, một Liên Xô đã kiệt quệ và phụ thuộc vào công nghệ của VDR sẽ là mục tiêu cuối cùng, để lại Dostler là người thống trị tuyệt đối.
+3. **Mục tiêu cuối cùng: Dùng cả hai để thống trị.** Kế hoạch cuối cùng của Dostler là kết hợp **chất lượng công nghệ của VDR** với **số lượng khổng lồ của Liên Xô (mà ông ta đang dần kiểm soát)** để tạo ra một lực lượng quân sự không thể bị ngăn cản, đủ sức nghiền nát NATO. Sau khi phương Tây sụp đổ, một Liên Xô đã kiệt quệ và **phụ thuộc hoàn toàn vào công nghệ** của VDR sẽ là mục tiêu cuối cùng, để lại Dostler là người thống trị tuyệt đối.
+
 
 **H: Làm thế nào Dostler có thể hợp tác với phương Tây trong suốt một thập kỷ mà không khiến Liên Xô và các nước trung lập nghi ngờ về một liên minh bí mật?**
 
@@ -147,3 +151,4 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 2. **Giao dịch được Ngụy trang:** Mọi hoạt động hợp tác với phương Tây đều được che đậy một cách hoàn hảo dưới vỏ bọc các "thỏa thuận thương mại công nghiệp". Công nghệ quân sự được chuyển giao dưới dạng "bằng sáng chế cho máy móc hạng nặng" hoặc "linh kiện điện tử tiên tiến". Dòng tiền hỗ trợ kinh tế được luân chuyển qua các ngân hàng Thụy Sĩ và các tập đoàn bình phong. Tình báo Liên Xô có thể nghi ngờ, nhưng họ không có bằng chứng rõ ràng về một liên minh quân sự, chính trị.
 
 3. **Lợi dụng Sự kiêu ngạo của Phương Tây:** Dostler biết rằng phương Tây, đặc biệt là Mỹ, có xu hướng tin rằng họ có thể kiểm soát và "thuần hóa" các chế độ độc tài hữu ích. Họ đã nhìn nhận Dostler như một "Hitler có thể kiểm soát được" một kẻ độc tài nhưng ít nhất là chống Cộng. Sự tự tin thái quá này đã khiến họ trở nên mù quáng trước kế hoạch thực sự của ông ta.
+   

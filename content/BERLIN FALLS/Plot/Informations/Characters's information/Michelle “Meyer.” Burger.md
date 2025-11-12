@@ -8,5 +8,5 @@
 
 **Người thân:**
 
-- [[Douglas “Meyer.” Stephenson]] (Chồng, Tình trạng: Đã mất)
-- [[Frank “Becker.” Krämer]] (Con trai, Tình trạng: Còn sống)
+- [[Douglas “Scott.” Stephenson]] (Chồng, Tình trạng: Đã mất)
+- [[Frank “Meyer.” Stephenson]] (Con trai, Tình trạng: Còn sống)

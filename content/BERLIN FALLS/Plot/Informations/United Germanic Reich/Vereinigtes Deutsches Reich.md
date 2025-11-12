@@ -23,6 +23,14 @@ VDR là một nhà nước có quyền lực tập trung cao độ, với Thomas
 
 Bề ngoài, xã hội VDR có trật tự, kỷ cương và thịnh vượng. Nạn thất nghiệp bị xóa bỏ và kinh tế phát triển vượt bậc. Tuy nhiên, đằng sau đó là một xã hội bị kiểm soát chặt chẽ.
 
+Khác biệt với chủ nghĩa phát xít thế kỷ 20, "Trật tự Đức Mới" là một hệ tư tưởng **"thực dụng bao trùm" (pragmatic inclusion)** và **"ủng hộ ái quốc" (pro-patriotism)**. Dostler đã học hỏi từ những thất bại của Hitler, hệ tư tưởng của VDR không dựa trên "chủng tộc" mà dựa trên _lòng trung thành_ và _năng suất_.
+
+- **Bao trùm Chủng tộc và Giới tính:** VDR chào đón mọi chủng tộc. Nó cũng tích cực nâng cao giá trị của phụ nữ, cung cấp các công việc được bảo đảm và mức lương ổn định, đồng thời tuyên truyền về sự bình đẳng về giá trị giữa nam và nữ. Bằng cách này, Dostler đã tối đa hóa lực lượng lao động của mình, coi phân biệt chủng tộc và giới tính là "suy nghĩ nhỏ" và không hiệu quả. Lòng trung thành tuyệt đối với Nhà nước là yêu cầu duy nhất, thay thế mọi lòng trung thành về tôn giáo hoặc chủng tộc.
+
+- **Chủ nghĩa cá nhân được phép:** Sự kiểm soát của VDR rất tinh vi. Công dân không phải là những robot giống hệt nhau, họ sống cuộc sống cá nhân và được "cho phép thể hiện chủ nghĩa cá nhân" (permitted individualism) miễn là nó phù hợp với các giá trị của nhà nước. Những kiểu tóc thời thượng (như "mullets") và quần áo chất lượng cao được xem là biểu tượng của "Sự thịnh vượng có kỷ luật" (Disciplined Prosperity) và sự vượt trội của VDR so với phương Tây "suy đồi".
+
+- **Văn hóa Kiêu ngạo và Bạo lực Tiềm ẩn:** Kết quả là một dân số gồm những tín đồ kiêu ngạo, mang chủ nghĩa cá nhân. Họ không đi vòng quanh hô khẩu hiệu. Thay vào đó, họ thực sự tin vào sự ưu việt của hệ thống VDR. Lòng ái quốc này rất dễ bùng nổ, họ sẽ bảo vệ văn hóa dân tộc chủ nghĩa của mình một cách cá nhân và bạo lực nếu cảm thấy bị người ngoài xúc phạm, mà không cần mệnh lệnh từ sĩ quan.
+
 - **[[Reichsjugendbund]]** là công cụ chính để nhồi sọ thế hệ trẻ, đảm bảo một lớp người kế thừa trung thành với chế độ.
 - Truyền thông, văn hóa và giáo dục đều nằm dưới sự kiểm soát của **[[Ministerium für Volksbildung und Kultur]]**, chỉ được phép lan truyền các nội dung ca ngợi chế độ.
 - Mọi hành vi bất đồng chính kiến đều bị dập tắt một cách tàn nhẫn bởi các lực lượng an ninh như **[[Staatssicherheitsamt (SSA)]]**. Người dân sống trong một môi trường vừa được hưởng lợi ích vật chất, vừa bị giám sát và phải tuân thủ tuyệt đối.

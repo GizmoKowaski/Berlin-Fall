@@ -47,7 +47,7 @@ Tôn giáo: Phật giáo
 
 Người thân:
 
-- [[Anna Chiu “Wong.” Chuen]] (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Anna Chiu Wong-Chuen]] (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Peter “Kruefer.” König]] (Cha, Chức vụ đã thực hiện: Không)
 
 Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*

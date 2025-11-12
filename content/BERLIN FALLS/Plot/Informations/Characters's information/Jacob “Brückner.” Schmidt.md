@@ -42,7 +42,7 @@ Tôn giáo: Vô thần
 
 Người thân:
 
-- [[Austin “Brückner.” Brown]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Austin “Reed.” Brown]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Jessica “Brückner.” Schmidt]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
 Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*

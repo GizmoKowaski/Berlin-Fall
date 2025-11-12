@@ -1,0 +1,76 @@
+#Heinkal #Character #Main-characters
+
+---
+![[KarolineMagdalena.png]]
+
+---
+
+- **Mức cường hóa chung:** ~x27
+- **Lực đấm tối đa:** **~26,000 N** (Trung bình Thấp)
+- **Tốc độ đấm tối đa:** ~250 m/s (Trung bình)
+- **Tốc độ chạy nước rút:** **~20 - 25 m/s** (Khoảng 72 - 90 km/h) (Chậm)
+- **Sức nâng tối đa:** **~1750 kg** (Trung bình Thấp)
+- **Thời gian phản xạ:** ~0.018 giây (Trung bình Chậm)
+- **Sức bền/Chịu đựng/Độ bền:** **~x20 lần** người thường (Thấp)
+- **Khả năng đặc biệt:** Điều khiến sắt thép (Ferrokinesis / Magnetokinesis - Điều khiển kim loại)
+- **Sự ổn định sức mạnh:** **Khá Cao.** Tương tự như năng lực của Frank, khả năng điều khiển kim loại của Karoline thường **ổn định hơn** các năng lực liên quan đến năng lượng hoặc sinh học. Việc kiểm soát đòi hỏi sự **chính xác và tập trung cao độ**, đặc biệt khi điều khiển nhiều vật thể nhỏ hoặc tạo ra các hiệu ứng phức tạp. Giới hạn chính nằm ở khối lượng kim loại có thể điều khiển cùng lúc và khoảng cách hiệu quả.
+---
+Karoline Frank nổi bật với tư cách là một xạ thủ có độ chính xác đặc biệt và là một chiến thuật gia có phương pháp nghiêm ngặt. Cách tiếp cận chiến đấu của cô trái ngược hẳn với Heimer Schröder. Trong khi Schröder nổi trội trong các cuộc giao tranh năng động, cận chiến, dựa vào phản xạ nhanh và phản ứng theo bản năng, Frank lại ưu tiên độ chính xác tầm xa và thực hiện có tính toán. Cô là "Xạ thủ chiến thuật" tầm xa, nhấn mạnh vào việc định vị mục tiêu bắn và thao túng môi trường.
+Sự thành thạo của Frank với vũ khí được đặc trưng bởi khả năng đạt được độ chính xác cực cao ở phạm vi xa. Cô sử dụng khả năng của mình để kiểm soát môi trường, tăng cường độ chính xác và tạo ra lợi thế chiến thuật trong các cuộc giao tranh đã lên kế hoạch. Không giống như Schröder, người có chuyên môn về vũ khí là bách khoa toàn thư, kiến ​​thức của Frank tập trung hơn, hướng đến việc tối đa hóa hiệu quả của cô với tư cách là một tay bắn tỉa.
+
+Mặc dù thời gian phản ứng của cô chậm hơn Schröder, nhưng tư duy chiến lược và khả năng thao túng sắt đá của cô bù đắp hiệu quả. Cô duy trì năng lực trong chiến đấu cận chiến, sử dụng độ chính xác được đo lường thay vì tốc độ hoặc sức mạnh thô. Khả năng điều khiển sắt của cô, tài sản quan trọng nhất của cô, mang lại cho cô khả năng kiểm soát chiến trường vô song. Cô có thể điều khiển các vật thể bằng kim loại, chuyển hướng đạn, thay đổi quỹ đạo vũ khí và tăng cường khả năng phòng thủ của chính mình. Khả năng biến chiến trường thành một môi trường có thể kiểm soát này phân biệt cô với Schröder, người có khả năng di chuyển đồ vật bằng ý nghĩ ít rõ ràng hơn và chủ yếu dùng để tăng cường hiệu quả chiến đấu cận chiến của mình.
+
+Trang thông tin:
+
+(Tình trạng: Còn sống)
+
+Họ và tên đầy đủ: Karoline “Magdalena.” Frank
+
+Quốc tịch: Hoa Kỳ
+
+Ngày sinh & Tuổi: 12 tháng 6 năm 1971
+
+Giới tính: Nữ
+
+Chiều cao: 5’7.7” (172cm)
+
+Tôn giáo: Vô thần
+
+Người thân:
+
+- [[Anne “William.” Frank]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+- [[Klaus Frank]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
+
+Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+
+Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên. Mái tóc này tạo thành một khối bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán, đôi khi che đi một phần khuôn mặt.
+
+Khuôn mặt cô khá lớn, với xương gò má rộng và cằm vuông rõ nét, tạo cảm giác cứng cáp và kiên định.
+
+Điểm nhấn đặc biệt là đôi mắt màu xanh của cô. Đôi mắt này được mô tả là to và sâu, mang một đường nét sắc sảo. Màu xanh của mắt có thể tạo ra một sự tương phản thú vị với mái tóc nâu dày của cô.
+
+Vóc dáng của Karoline cân đối, với chiều cao 5’7.7” (172cm), không quá mảnh mai nhưng toát lên một sức mạnh tiềm ẩn, phù hợp với vai trò một tay bắn tỉa và một người có khả năng kiểm soát kim loại.
+
+Độc chất: Hút thuốc, Nghiện rượu
+
+Tính cách: Karoline thể hiện hai mặt tính cách gần như đối lập nhau. Trong cuộc sống hàng ngày, cô thường khá tinh nghịch và rất hay tán tỉnh, luôn tỏ ra thoải mái và cởi mở.
+
+Tuy nhiên, khi bước vào chiến đấu, con người đó hoàn toàn biến mất. Karoline trở thành hiện thân của sự tập trung, kiên nhẫn và chính xác. Cô trở nên cực kỳ hướng nội, ít nói, và giữ một vẻ mặt lạnh lùng, khó đoán. Cô suy nghĩ một cách có phương pháp, logic và ghét sự tùy hứng hay hỗn loạn. Trong công việc, cô tin vào sự chuẩn bị kỹ lưỡng và tính toán cẩn thận. Dù nghiện rượu và thuốc lá, cô vẫn duy trì sự kiểm soát đáng kinh ngạc khi thực thi nhiệm vụ.
+
+Cô không dễ dàng tin tưởng người khác và (khi làm việc) có thể khá cô độc, tìm thấy sự thoải mái trong sự tĩnh lặng của công việc hơn là giao tiếp xã hội. Ẩn dưới vẻ ngoài lạnh lùng khi chiến đấu có thể là một sự quan tâm thầm lặng đối với đồng đội, thể hiện qua hành động bảo vệ từ xa hơn là lời nói.
+
+Bí danh được biết đến: ?
+
+Thích: Sự chính xác (trong bắn súng, trong mọi việc), luyện tập bắn tỉa, bảo dưỡng vũ khí của mình, sự yên tĩnh, cô độc, đọc sách (có thể là sách chiến thuật, kỹ thuật hoặc trinh thám), nhạc Jazz hoặc Blues (phù hợp không khí trầm tư), cà phê đen đặc hoặc rượu mạnh (whiskey), các trò chơi chiến thuật (cờ vua).
+
+Ghét: Sự hỗn loạn, ồn ào, đám đông, sự cẩu thả, thiếu chính xác, những kế hoạch thay đổi vào phút chót, bị hối thúc, những người nói quá nhiều hoặc quá tình cảm, sự thất bại do thiếu chuẩn bị.
+
+Khả năng đặc biệt: Điều khiến sắt thép
+
+Đặc điểm chiến đấu: Karoline Frank là một chiến thuật gia kiên nhẫn, ưu tiên việc quan sát và tính toán kỹ lưỡng trước khi hành động. Phong cách chiến đấu của cô kết hợp giữa kỹ năng bắn tỉa chính xác và khả năng thao túng kim loại để tạo lợi thế chiến thuật. Frank luôn duy trì khoảng cách với mục tiêu, tận dụng lợi thế về tầm nhìn rộng và khả năng điều khiển đạn đạo để tấn công từ những vị trí không ngờ tới. Cô thường biến môi trường thành một công cụ chiến đấu bằng cách đặt các mảnh kim loại nhỏ trên mặt đất, trong tường hoặc trần nhà, sau đó điều khiển chúng để phục kích hoặc tạo lưới chặn kẻ thù. Tuy nhiên, Frank không mạnh trong các cuộc đọ sức kéo dài, tầm gần hoặc các trận chiến hỗn loạn đòi hỏi di chuyển liên tục. Thay vào đó, cô dựa vào tính toán chính xác và khai thác sai lầm của đối thủ để giành lợi thế.
+
+Địa chỉ:
+
+- (Cũ) 235 Bedford Avenue, Brooklyn, NY.
+- (Cũ) Am Weiher 14, 53604 Bad Honnef (Rhöndorf)
+- (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

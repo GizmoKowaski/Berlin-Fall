@@ -25,7 +25,7 @@ Công viêc: Chuyên gia Quy hoạch Đô thị.
 
 Người thân:
 
-- [[Katharina “Schaeffer.” Schröder]] (Vợ, Chức vụ đã thực hiện: Đặc vụ tình báo hỗ trợ cho ‘Stefan’) (Tình trạng: Đã mất)
+- [[Katharina “Magdalena.” Schröder]] (Vợ, Chức vụ đã thực hiện: Đặc vụ tình báo hỗ trợ cho ‘Stefan’) (Tình trạng: Đã mất)
 
 - [[Heimer “Schaeffer.” Schröder]] (Con trai, Chức vụ đã thực hiện: [[WGB-Truppführer]], Chỉ huy sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')) (Tình trạng: Còn sống)
 
