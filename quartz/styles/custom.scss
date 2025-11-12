@@ -1,3 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@font-face {
+  font-family: "Haettenschweiler";
+  src: url("/static/Haettenschweiler.woff2") format("woff2"); 
+  font-weight: normal;  
+  font-style: normal;  
+}
+
+// This makes sure the main site title ("Berlin Falls") uses it
+:root {
+  --titleFont: Haettenschweiler, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}

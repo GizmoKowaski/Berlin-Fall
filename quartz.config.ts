@@ -20,13 +20,21 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+    fontOrigin: "local", // 👈 Make sure this is "local"
+    cdnCaching: true,
+    typography: {
+      header: { 
+        name: "Haettenschweiler", // 👈 Change this name
+        weights: [400, 700],
+        includeItalic: false,
       },
+      body: { 
+        name: "Courier Prime", // Or whatever your body font is
+        weights: [400, 700],
+        includeItalic: false,
+      },
+      code: "IBM Plex Mono",
+    },
       colors: {
         lightMode: {
           light: "#faf8f8",
