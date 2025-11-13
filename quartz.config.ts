@@ -24,7 +24,7 @@ const config: QuartzConfig = {
     cdnCaching: true,
     typography: {
       header: { 
-        name: "Haettenschweiler", // 👈 Change this name
+        name: "SVN-Erika Ormig", // 👈 Change this name
         weights: [400, 700],
         includeItalic: false,
       },
@@ -42,7 +42,7 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
+          secondary: "#BE5B50",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
