@@ -32,7 +32,7 @@ Tên đầy đủ: Jacob “Brückner.” Schmidt
 
 Quốc tịch: Hoa Kỳ.
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1967
+Ngày sinh & Tuổi: 23 tháng 5 năm 1967
 
 Giới tính: Nam
 
@@ -45,7 +45,7 @@ Người thân:
 - [[Austin “Reed.” Brown]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Jessica “Brückner.” Schmidt]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Đang phục vụ: [[WGB-Legionär]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Jacob Schmidt là một người đàn ông cao lớn và lực lưỡng, với chiều cao ấn tượng 6’8.7” (205cm). Anh có bờ vai rộng và vóc dáng săn chắc, toát lên vẻ mạnh mẽ, từng trải. Mái tóc nâu dài, được tỉa lớp và thường trông khá rối một cách tự nhiên, thường rẽ ngôi giữa và buông xõa hai bên, che phủ một phần trán.
 
@@ -76,5 +76,5 @@ Bất chấp những hạn chế tiềm ẩn này, sức mạnh của Jacob Schm
 Địa chỉ:
 
 - (Cũ) 8500 Sunset Boulevard, Los Angeles, CA.
-- (Cũ) Rheinallee 9, 53173 Bonn (Bad Godesberg)
+- (Cũ) Mainzer Landstraße 11, 60329 Frankfurt am Main.
 - (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

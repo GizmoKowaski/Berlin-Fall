@@ -33,7 +33,7 @@ Tên đầy đủ: Oscar Loiselle
 
 Quốc tịch: Pháp
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1977
+Ngày sinh & Tuổi: 16 tháng 6 năm 1977
 
 Giới tính: Nam
 
@@ -46,7 +46,7 @@ Người thân:
 - [[Bùi Sơn Hùng]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Madeleine “Alarie.” Loiselle]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], *sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Đang phục vụ: [[WGB-Legionär]], *sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Cậu sở hữu mái tóc tối màu, khá dày và có vẻ bồng bềnh, gợn sóng tự nhiên. Kiểu tóc của cậu khá đặc trưng với độ dài trung bình, phần mái dày rẽ ngôi giữa và buông lơi, che phủ một phần trán và thái dương, tạo cảm giác hơi lộn xộn nhưng cá tính.
 
@@ -67,5 +67,5 @@ Khả năng đặc biệt: Điều khiển máu, xương và thịt.
 Địa chỉ:
 
 - (Cũ) 55 Rue de Bretagne, 75003 Paris.
-- (Cũ) Petersbergstraße 8, 53639 Königswinter
+- (Cũ) Venloer Straße 214, 50823 Köln.
 - (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

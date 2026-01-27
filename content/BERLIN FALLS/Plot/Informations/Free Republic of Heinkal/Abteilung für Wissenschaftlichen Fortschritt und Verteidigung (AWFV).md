@@ -78,7 +78,7 @@ AWFV được chia thành các đơn vị chuyên môn để thực hiện sứ 
 ### **III. Lãnh đạo và Điều phối:**
 
 - **Giám đốc Khoa học (Wissenschaftlicher Direktor):** Là người đứng đầu AWFV, chịu trách nhiệm điều phối tổng thể mọi hoạt động nghiên cứu và phát triển, đảm bảo các dự án đi đúng định hướng chiến lược của Heinkal và **tuân thủ nghiêm ngặt các nguyên tắc đạo đức đã đề ra**. Người này có thể là một nhà khoa học có lương tâm đã đào thoát khỏi FEKA, hoặc một trí thức hàng đầu hoàn toàn tin tưởng vào lý tưởng nhân đạo của Cộng hòa Tự do Heinkal.
-- **Báo cáo và Phối hợp:** Giám đốc Khoa học báo cáo trực tiếp cho **Tổng Giám đốc Heinkal** và/hoặc lãnh đạo cấp cao của **[[Heinkalische Reichsregierung (HRG)]]**. Đồng thời, phối hợp chặt chẽ với các bộ ngành liên quan của chính phủ lâm thời (như Bộ Kinh tế & Tái thiết, Bộ Nội vụ & An ninh Nội địa, Bộ Quốc phòng) và các nhánh khác của Heinkal (đặc biệt là [[Kommando für Übermenschen und Bestien|KÜB]] trong việc hỗ trợ WGB và triển khai AKT).
+- **Báo cáo và Phối hợp:** Giám đốc Khoa học báo cáo trực tiếp cho **Tổng Giám đốc Heinkal** và/hoặc lãnh đạo cấp cao của **[[Heinkalische Reichsregierung (HRG)]]**. Đồng thời, phối hợp chặt chẽ với các bộ ngành liên quan của chính phủ lâm thời (như Bộ Kinh tế & Tái thiết, Bộ Nội vụ & An ninh Nội địa, Bộ Quốc phòng) và các nhánh khác của Heinkal (đặc biệt là [[Sonderamt für Humanitäre Resonanz|SHR]] trong việc hỗ trợ WGB và triển khai AKT).
 
 ---
 

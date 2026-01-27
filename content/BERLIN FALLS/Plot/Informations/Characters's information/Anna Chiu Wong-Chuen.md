@@ -1,6 +1,6 @@
 (Tình trạng: Đã mất)
 
-**Họ và tên:** Anna Chiu Wong Chuen (Triệu Vương Tuyền)
+**Họ và tên:** Anna Chiu Wong Chuen (Chiêu Vương Tuyền)
 
 **Quốc tịch:** Hồng Kông
 

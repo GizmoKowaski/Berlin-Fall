@@ -27,7 +27,7 @@ Người thân:
 
 - [[Katharina “Magdalena.” Schröder]] (Vợ, Chức vụ đã thực hiện: Đặc vụ tình báo hỗ trợ cho ‘Stefan’) (Tình trạng: Đã mất)
 
-- [[Heimer “Schaeffer.” Schröder]] (Con trai, Chức vụ đã thực hiện: [[WGB-Truppführer]], Chỉ huy sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')) (Tình trạng: Còn sống)
+- [[Heimer “Schaeffer.” Schröder]] (Con trai, Chức vụ đã thực hiện: [[WGB-Feldwebel]], Chỉ huy sư đoàn ([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')) (Tình trạng: Còn sống)
 
 Đã đảm nhiệm chức vụ: Đặc vụ tình báo. (1984 - 1987)
 

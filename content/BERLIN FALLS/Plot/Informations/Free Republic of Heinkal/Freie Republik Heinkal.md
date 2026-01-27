@@ -22,7 +22,7 @@ Cấu trúc chính phủ bao gồm các bộ quan trọng nhằm duy trì hoạt
 - **[[Ministerium für Auswärtige Angelegenheiten]]**: Chịu trách nhiệm vận động ngoại giao, duy trì quan hệ với các đồng minh phương Tây.
 - **[[Ministerium für Wirtschaft und Wiederaufbau]]**: Quản lý kinh tế ở các vùng do Heinkal kiểm soát và lên kế hoạch tái thiết hậu chiến.
 - **[[Ministerium für Recht und Verfassung]]**: Soạn thảo hiến pháp tương lai cho một nước Đức thống nhất và dân chủ.
-- **[[Kommando für Übermenschen und Bestien]]**: Bộ chỉ huy đặc biệt, chịu trách nhiệm quản lý và điều hành các đơn vị siêu năng lực như **[[Wolfsgeborene - WGB]]**.
+- **[[Sonderamt für Humanitäre Resonanz]]**: Bộ chỉ huy đặc biệt, chịu trách nhiệm quản lý và điều hành các đơn vị siêu năng lực như **[[Wolfsgeborene - WGB]]**.
 
 ### **Xã hội và Đời sống**
 

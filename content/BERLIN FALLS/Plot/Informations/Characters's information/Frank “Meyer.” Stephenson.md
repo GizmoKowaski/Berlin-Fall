@@ -1,7 +1,7 @@
 #Heinkal #Character #Main-characters
 
 ---
-![[FrankStephenson.png]]
+![[FrankKrämer.png]]
 
 ---
 - **Mức cường hóa chung:** ~x38
@@ -26,11 +26,11 @@ Trang thông tin:
 
 (Tình trạng: Còn sống)
 
-Tên đầy đủ: Frank “Becker.” Stephenson
+Tên đầy đủ: Frank “Meyer.” Stephenson
 
 Quốc tịch: Hoa Kỳ
 
-Ngày sinh & Tuổi: 16 tháng 4 năm 1970
+Ngày sinh & Tuổi: 10 tháng 4 năm 1970
 
 Giới tính: Nam
 
@@ -43,7 +43,7 @@ Người thân:
 - [[Michelle “Meyer.” Burger]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Douglas “Scott.” Stephenson]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Đang phục vụ: [[WGB-Legionär]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Frank có vẻ ngoài khá thân thiện và vững chãi. Mái tóc nâu sẫm, xoăn tự nhiên và được cắt theo kiểu hơi ngắn (có thể là kiểu shag phổ biến), các lọn tóc ôm lấy khuôn mặt và che phủ tai. Vầng trán cao, khuôn mặt cân đối với quai hàm hơi vuông, tạo cảm giác đáng tin cậy. Đôi mắt tròn, sâu, ánh nhìn thường hiền hòa hoặc trung tính. Vai rộng và thân hình săn chắc (cao 188cm) cho thấy sức bền và sự rắn rỏi. Tổng thể, anh mang lại cảm giác về một người trầm ổn, kiên định và có phần dễ gần.
 
@@ -64,5 +64,5 @@ Khả năng đặc biệt: Thạch Động Học
 Địa chỉ:
 
 - (Cũ) 1501 Congress Avenue, Austin, TX.
-- (Cũ) Kennedyallee 58, 53175 Bonn (Bad Godesberg)
+- (Cũ) Hauptstätter Straße 102, 70178 Stuttgart.
 - (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

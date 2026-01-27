@@ -44,8 +44,8 @@ Heinkals được chia thành ba nhánh chính:
 
 I. [[Abteilung für Aufklärung und Abwehr|Đơn vị Tình báo & Tấn công Bí mật]]
 
-II. [[Wolfssturm-Kommando (WSK)|Lực lượng Đột kích Tinh nhuệ]]
+II. [[Heinkalische Sturmgarde (HSG)|Lực lượng Đột kích Tinh nhuệ]]
 
-III. [[Kommando für Übermenschen und Bestien|Lực lượng Biến đổi Cải tạo & Đơn vị Tác chiến Dị Biến]]
+III. [[Sonderamt für Humanitäre Resonanz|Lực lượng Biến đổi Cải tạo & Đơn vị Tác chiến Dị Biến]]
 
 IV. [[Abteilung für Wissenschaftlichen Fortschritt und Verteidigung (AWFV)|Ban Khoa học Tiến bộ và Quốc phòng]]

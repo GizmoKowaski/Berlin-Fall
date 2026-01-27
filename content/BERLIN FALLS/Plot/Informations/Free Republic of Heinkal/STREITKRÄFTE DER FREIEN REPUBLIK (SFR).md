@@ -19,7 +19,7 @@ Cơ cấu của SFR linh hoạt hơn so với VKRe, được thiết kế để 
 - **Heimatschutztruppen (Lực lượng Vệ quốc):** Đây là lực lượng nòng cốt của SFR, bao gồm các lữ đoàn bộ binh và thiết giáp quy ước. Nhiệm vụ chính của họ là bảo vệ các vùng lãnh thổ do Heinkal kiểm soát và thực hiện các cuộc phản công quy mô lớn khi có cơ hội.
 - **Spezialeinsatzkräfte (Lực lượng Tác chiến Đặc biệt):** Đây là nơi tập hợp những đơn vị tinh nhuệ nhất của SFR.
     - **[[Wolfsgeborene - WGB]]**: Là tài sản quý giá nhất của Heinkal. Các siêu chiến binh WGB là lực lượng duy nhất có thể đối đầu trực diện với các đơn vị **AKG** của FEKA. Họ được triển khai trong các nhiệm vụ tối quan trọng như chống lại các mối đe dọa siêu nhiên, xâm nhập sâu và ám sát.
-    - **[[Wolfssturm-Kommando (WSK)]]**: Là các đơn vị biệt kích con người, được huấn luyện chuyên sâu để hỗ trợ cho WGB hoặc thực hiện các cuộc đột kích và giải cứu, như trong **[[Operation Schlüssel]]**.
+    - **[[Heinkalische Sturmgarde (HSG)]]**: Là các đơn vị biệt kích con người, được huấn luyện chuyên sâu để hỗ trợ cho WGB hoặc thực hiện các cuộc đột kích và giải cứu, như trong **[[Operation Schlüssel]]**.
 - **[[Automatisierte Kampftruppe - AKT]]**: Heinkal cũng sử dụng các đơn vị robot chiến đấu, phần lớn là công nghệ do phương Tây cung cấp. Các đơn vị AKT thường được dùng cho các nhiệmb vụ phòng thủ, trinh sát hoặc yểm trợ hỏa lực để giảm thiểu thương vong cho binh sĩ.
 
 ### **Công nghệ và Trang bị**

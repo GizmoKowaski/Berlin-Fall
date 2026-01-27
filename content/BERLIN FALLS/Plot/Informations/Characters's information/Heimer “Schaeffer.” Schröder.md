@@ -45,19 +45,15 @@ Người thân:
 
 - [[Stefan “Schaeffer.” Braun]] (Cha, Chức vụ đã thực hiện: Đặc vụ tình báo) (Tình trạng: Đã mất)
 
-Đang đảm nhiệm: [[WGB-Truppführer]], Chỉ huy sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Đang đảm nhiệm: [[WGB-Feldwebel]], Chỉ huy sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Khuôn mặt Heimer có đường nét thanh thoát, sống mũi cao và cằm hơi nhọn. Mái tóc vàng dài, bồng bềnh và gợn sóng thường che đi gần hết một bên mắt, tạo điểm nhấn đặc trưng. Đôi mắt của cậu màu xanh, lông mi dài, mí lót và khá nhỏ, nhưng con mắt có thể nhìn thấy thường ánh lên vẻ tập trung, sắc bén. Môi cậu thường mím chặt, góp phần tạo nên biểu cảm nghiêm nghị hoặc tập trung. Trên phần ngực, một lớp lông mỏng, xoăn nhẹ và mọc thưa màu vàng sẫm.
 
 Độc chất: Nghiện rượu.
 
-Tính cách: Heimer là một tập hợp những mâu thuẫn thú vị. Bề ngoài, anh tỏ ra thoải mái, thậm chí có phần lười biếng, nhưng thực chất lại có khả năng tập trung cao độ đáng kinh ngạc khi tình huống đòi hỏi, dù đôi khi cũng dễ bị phân tâm bởi những thứ vụn vặt. Anh có lòng nhiệt tình nhưng lại ẩn chứa sự nhút nhát nhất định, thường dễ cáu kỉnh nhưng lại chọn cách kìm nén cảm xúc thay vì bộc phát, để tâm trạng tự biểu lộ qua hành động hoặc nét mặt. Vẻ nghiêm túc mà anh thỉnh thoảng khoác lên mình thường chỉ là một phương tiện để tạo khoảng cách hoặc đe dọa người khác, bởi bản chất anh không phải là người nói nhiều. Dù có vẻ ngoài uể oải, lười nhác, Heimer lại sở hữu một trí tuệ nhạy bén, "nhảy số" cực nhanh và khả năng quan sát tinh tường, chỉ là anh quá yêu thích cảm giác thoải mái và không muốn thể hiện điều đó ra ngoài trừ khi thực sự cần thiết.
+Tâm lý & Tính cách: [[PSY - Heimer “Schaeffer.” Schröder]]
 
 Bí danh được biết đến: Heimer Schröder
-
-Sở thích: Bánh kem và các loại đồ ăn ngọt, thường tìm đến bia như một cách giải tỏa. Anh có niềm đam mê với đàn ghi-ta, phim hành động, trò chơi điện tử và âm nhạc nói chung. Những kỳ nghỉ là điều anh ao ước. Súng ống không chỉ là công cụ chiến đấu mà còn là một sở thích, cũng như việc sửa chữa và chế tạo đồ vật. Anh có tình cảm đặc biệt với động vật, nhất là mèo, gấu trúc và cáo.
-
-Ghét: Heimer có ác cảm mạnh mẽ với thuốc lá và mọi loại thuốc giảm đau, thuốc chống trầm cảm (liên quan đến những ám ảnh từ các thí nghiệm hoặc sự mất mát). Anh căm ghét FEKA và chế độ của chúng. Những công việc thường nhật như việc nhà và nấu ăn là điều anh tránh né. Ngoài ra, anh không thích chó và đặc biệt ghét gián.
 
 Khả năng đặc biệt: Dịch chuyển vật.
 

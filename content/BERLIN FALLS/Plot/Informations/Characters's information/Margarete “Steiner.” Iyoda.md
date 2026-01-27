@@ -46,7 +46,7 @@ Người thân:
 - [[Yukiko Iyoda]]. (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Torsten “Steiner.” Iyoda]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Đang phục vụ: [[WGB-Legionär]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Margarete Iyoda có vẻ ngoài nổi bật với sức mạnh thể chất rõ rệt dù chiều cao ở mức trung bình 5’11.7” (182cm). Cô có bờ vai hơi rộng và vóc dáng cực kỳ lực lưỡng, săn chắc. Mái tóc đen, dày, được để dài ngang vai hoặc hơn một chút, thẳng hoặc hơi gợn sóng tự nhiên. Phần tóc mái thường dày, che phủ phần lớn trán và đôi khi che cả một bên mắt (như trong hình vẽ), tạo vẻ ngoài có phần kín đáo hoặc u uất. Khuôn mặt của cô có đường nét mạnh mẽ, mắt một mí và lông mày rậm ở phần đuôi. Hình vẽ cho thấy một khuôn mặt với cấu trúc khá rõ, có gò má và đường hàm tương đối rõ nét, dù không quá góc cạnh. Ánh mắt trong hình vẽ khá trực diện và có phần thách thức hoặc thờ ơ.
 
@@ -66,6 +66,6 @@ Khả năng đặc biệt: Hỏa Động Học
 
 Địa chỉ:
 
-- (Cũ) 2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo, Japan
-- (Cũ) Augustastraße 30, 53173 Bonn (Bad Godesberg)
+- (Cũ) 2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo, Japan.
+- (Cũ) Immermannstraße 32, 40210 Düsseldorf.
 - (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

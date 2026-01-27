@@ -50,7 +50,7 @@ Người thân:
 - [[Anna Chiu Wong-Chuen]] (Triệu Vương Tuyền) (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Peter “Kruefer.” König]] (Cha, Chức vụ đã thực hiện: Không)
 
-Hiện đang đảm nhiệm: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Hiện đang đảm nhiệm: [[WGB-Legionär]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Dovid sở hữu mái tóc đen, ngắn nhưng luôn trong tình trạng bù xù, với nhiều sợi tóc chỉa ra các hướng một cách tự nhiên, tạo cảm giác năng động và bất cần. Phần tóc mái cắt không đều, vài lọn lòa xòa trước trán. Gương mặt anh có đường nét khá góc cạnh, đặc biệt là xương hàm rõ ràng nhưng không quá sắc. Sống mũi cao và thẳng. Đôi mắt một mí đặc trưng, nhỏ và hơi sâu, thường ánh lên vẻ nghiêm nghị hoặc thờ ơ. Dáng người cân đối (cao 175cm), không quá lực lưỡng nhưng săn chắc.
 
@@ -72,6 +72,6 @@ Anh ưu tiên hành động theo bản năng hơn là các kế hoạch chiến 
 
 Địa chỉ:
 
-- (Cũ) Tung Choi Street 125, Mong Kok, Kowloon
-- (Cũ) Hauptstraße 105, 53604 Bad Honnef
+- (Cũ) Tung Choi Street 125, Mong Kok, Kowloon.
+- (Cũ) Lange Reihe 45, 20099 Hamburg.
 - (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].

@@ -28,7 +28,7 @@ Họ và tên đầy đủ: Karoline “Magdalena.” Frank
 
 Quốc tịch: Hoa Kỳ
 
-Ngày sinh & Tuổi: 12 tháng 6 năm 1971
+Ngày sinh & Tuổi: 10 tháng 8 năm 1971
 
 Giới tính: Nữ
 
@@ -41,7 +41,7 @@ Người thân:
 - [[Anne “William.” Frank]] (Mẹ, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 - [[Klaus Frank]] (Cha, Chức vụ đã thực hiện: Không) (Tình trạng: Đã mất)
 
-Đang phục vụ: [[WGB-Kämpfer]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
+Đang phục vụ: [[WGB-Legionär]], sư đoàn *([[22. Sonderkampfgruppe 'Höllenstein']] - Đơn vị Chiến đấu Đặc biệt số 22 'Hellstone')*
 
 Mô tả ngoại hình: Karoline gây ấn tượng mạnh mẽ với mái tóc nâu dài, cực kỳ dày và xoăn tự nhiên. Mái tóc này tạo thành một khối bồng bềnh, có phần nặng nề và hơi rối, ít được chăm chút. Phần tóc mái dày thường phủ xuống trán, đôi khi che đi một phần khuôn mặt.
 
@@ -72,5 +72,5 @@ Khả năng đặc biệt: Điều khiến sắt thép
 Địa chỉ:
 
 - (Cũ) 235 Bedford Avenue, Brooklyn, NY.
-- (Cũ) Am Weiher 14, 53604 Bad Honnef (Rhöndorf)
+- (Cũ) Prinzregentenstraße 24, 80538 München.
 - (Nhà an toàn) [[Königswinterer Straße 250, 53227 Bonn, Beuel]].
