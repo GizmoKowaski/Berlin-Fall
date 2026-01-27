@@ -1,6 +1,3 @@
-
----
-
 # **Hỏi & Đáp: Thế giới Berlin Falls**
 
 Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt truyện, logic và bối cảnh địa chính trị của vũ trụ "Berlin Falls".
