@@ -16,20 +16,23 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    // CHANGE 1: Updated to your actual URL so the image link works
+    baseUrl: "gizmokowaski.github.io/Berlin-Fall",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    // CHANGE 2: Added your image here
+    ogImage: "og-image.png",
     theme: {
-    fontOrigin: "local", // 👈 Make sure this is "local"
+    fontOrigin: "local", 
     cdnCaching: true,
     typography: {
       header: { 
-        name: "SVN-Erika Ormig", // 👈 Change this name
+        name: "SVN-Erika Ormig", 
         weights: [400, 700],
         includeItalic: false,
       },
       body: { 
-        name: "Courier Prime", // Or whatever your body font is
+        name: "Courier Prime", 
         weights: [400, 700],
         includeItalic: false,
       },
@@ -96,8 +99,9 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // CHANGE 3: Commented this out so it uses your manual 'og-image.png' 
+      // instead of generating a generic one for every page.
+      // Plugin.CustomOgImages(),
     ],
   },
 }
