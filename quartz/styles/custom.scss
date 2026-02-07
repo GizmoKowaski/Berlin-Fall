@@ -3,14 +3,16 @@
 // put your custom CSS here!
 @font-face {
   font-family: "SVN-Erika Ormig";
-  src: url("/static/SVN-Erika Ormig.woff2") format("woff2"); 
-  font-weight: normal;  
-  font-style: normal;  
+  src: url("/Berlin-Fall/static/fonts/SVN-Erika Ormig.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
 }
 
 // This makes sure the main site title ("Berlin Falls") uses it
 :root {
-  --titleFont: SVN-Erika Ormig, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  --titleFont: "SVN-Erika Ormig", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  /* OPTIONAL: Uncomment the line below if you want ALL Headers (H1-H6) to use this font too */
+  /* --headerFont: "SVN-Erika Ormig", system-ui, sans-serif !important; */
 }
 
 /*
