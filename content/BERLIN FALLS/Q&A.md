@@ -58,30 +58,47 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 
 **Đ:** Công chúng đã thực hiện một sự đánh đổi bi thảm. Dostler đã thực hiện lời hứa của mình: ông ta khôi phục kinh tế và niềm tự hào dân tộc. Người dân bình thường thấy cuộc sống của họ được cải thiện rõ rệt. Sự kinh hoàng của [[Projekt Götterdämmerung]] là một bí mật nhà nước được che giấu kỹ lưỡng. Sự ủng hộ của dân chúng dựa trên thành công hữu hình của chế độ, trong khi nỗi sợ hãi của họ là một sự lo lắng mơ hồ, không nói thành lời về ý định cuối cùng và tương lai của chế độ.
 
-**H: Luật pháp liên quan đến âm nhạc trong VDR như thế nào?**
+**H: Luật pháp của VDR đối với truyền thông và văn hóa phương Tây (Âm nhạc, Phim ảnh, Tạp chí) hoạt động như thế nào?**
 
-**Đ:** Pháp luật về âm nhạc được kiểm soát chặt chẽ như một công cụ tuyên truyền và duy trì sự thuần khiết về tư tưởng.
+**Đ:** Thay vì cấm hoàn toàn (điều sẽ tạo ra thị trường chợ đen không thể kiểm soát), VDR áp dụng chính sách **"Thẩm định và Bản địa hóa" (Review and Localization)**.
 
-- **Cơ quan quản lý:** Mọi hoạt động âm nhạc đều nằm dưới sự quản lý của **[[Ministerium für Volksbildung und Kultur]] (MVK)** và bộ phận đặc biệt của nó, **“Abteilung für ideologische Reinheit” (Vụ Thanh lọc Tư tưởng)**.
+- **Nguyên tắc "Tự do trong Khuôn khổ":** Người dân được phép tiếp cận văn hóa đại chúng toàn cầu, NHƯNG chỉ thông qua các phiên bản đã được **[[Ministerium für Volksbildung und Kultur]] (MVK)** phê duyệt.
 
-- **Âm nhạc được phép:** Các thể loại được nhà nước phê duyệt bao gồm nhạc cổ điển mới (neoclassical), industrial quân đội (martial industrial), và nhạc dân gian đã được "thanh lọc". Tất cả phải thúc đẩy các giá trị của nhà nước như Sức mạnh, Trật tự và Sự hy sinh.
+- **Tiêu chuẩn Kiểm duyệt (The 3-Strike Rule):** Một sản phẩm văn hóa sẽ bị cấm hoặc chỉnh sửa nếu vi phạm 3 điều cấm kỵ:
+    
+    1. **Chống Nhà nước:** Bất kỳ lời chỉ trích nào đối với chính phủ, Lãnh đạo, hoặc quân đội.
+    
+    2. **Gây chia rẽ (Luật chống Phân biệt đối xử):** Vì VDR theo đuổi "Chủ nghĩa Thực dụng Bao trùm", mọi nội dung cổ xúy phân biệt chủng tộc, thù hằn sắc tộc hoặc tôn giáo cực đoan đều bị cấm. Nhà nước coi sự phân biệt đối xử là "lãng phí nguồn lực con người" và "gây mất trật tự công cộng".
+     
+    3. **Sự suy đồi (Decadence):** Hình ảnh khiêu dâm, lôi thôi, hoặc lối sống "hippy" vô kỷ luật bị coi là hạ cấp.
+    
+- **"Ấn bản Thị trường Đức" (German Market Editions):** Các hãng đĩa và hãng phim quốc tế muốn bán hàng vào thị trường giàu có của VDR phải tạo ra các phiên bản riêng.
+    
+    - _Ví dụ:_ Một bài hát Rock Mỹ có thể được giữ nguyên giai điệu, nhưng lời bài hát về "nổi loạn chống cảnh sát" sẽ bị buộc phải đổi thành ca từ về "sức mạnh nội tại".
+    
+    - _Bìa Album:_ Bìa album gốc nếu có hình ảnh bạo lực hoặc gợi dục sẽ bị thay thế bằng thiết kế tối giản, mang tính hình học hoặc công nghiệp (Bauhaus style) để phù hợp thẩm mỹ của VDR.
+    
 
-- **Âm nhạc bị cấm:** Tuyệt đối cấm tất cả âm nhạc có nguồn gốc từ phương Tây (đặc biệt là rock & roll, jazz), và bất kỳ loại nhạc nào có chủ đề về chủ nghĩa cá nhân, chủ nghĩa hòa bình, hoặc bất đồng chính kiến.
+**H: Tôn giáo tồn tại như thế nào dưới chế độ VDR?**
 
-- **Hình phạt:** Việc sở hữu hoặc phổ biến âm nhạc bị cấm được coi là một tội ác chống lại nhà nước, một hành vi phá hoại tư tưởng. Những trường hợp này sẽ bị **[[Staatssicherheitsamt (SSA)]]** điều tra và xử lý.
+**Đ:** Tôn giáo không bị cấm, mà được **Quốc hữu hóa**. Dostler hiểu rằng tử vì đạo tạo ra kẻ thù, nên ông chọn cách biến Nhà thờ thành một công cụ của Nhà nước.
+
+- **Giấy phép Hành đạo:** Các Linh mục, Mục sư, và Giáo sĩ phải có "Giấy phép Giảng dạy Nhà nước". Để có giấy phép này, họ phải tham gia các khóa học về "Trật tự Đức Mới".
+
+- **Giám sát Trực tiếp:** Trong các buổi lễ lớn (Giáng sinh, Phục sinh), thường xuyên có các đặc vụ của **[[Staatssicherheitsamt (SSA)]]** ngồi ở hàng ghế sau cùng, công khai ghi chép. Điều này tạo ra áp lực tâm lý khiến các chức sắc tôn giáo tự kiểm duyệt bài giảng của mình.
+
+- **Nội dung Bài giảng:** Tôn giáo được định hướng để nhấn mạnh vào các giá trị trùng khớp với VDR: Kỷ luật, Sự phục tùng quyền lực, và Sự hy sinh vì đại nghĩa. Những đoạn kinh thánh nói về "hòa bình bằng mọi giá" thường bị lược bỏ hoặc giải thích lại.
+
+- **Sự tồn tại song song:** Người dân vẫn đi nhà thờ, vẫn tổ chức lễ rửa tội, nhưng Chúa của họ giờ đây được khắc họa như một vị thần của Trật tự và Luật pháp, chứ không phải của sự Thương xót vô điều kiện.
 
 
-**H: Luật chính thức về tôn giáo trong VDR là gì?**
+**H: Chính sách "Không phân biệt đối xử" được thực thi như thế nào trong đời sống hàng ngày?**
 
-**Đ:** Chế độ VDR không chính thức "cấm" tôn giáo, mà thay vào đó là khuất phục và kiểm soát nó một cách toàn diện thông qua luật pháp.
+**Đ:** Đây là điểm khác biệt lớn nhất của VDR so với các chế độ phát xít cũ.
 
-- **Nguyên tắc tối cao của Nhà nước:** Luật pháp cơ bản nhất quy định rằng lòng trung thành với Nhà nước và Reichskanzler là tuyệt đối, vượt trên mọi lòng trung thành với tôn giáo.
+- **Luật Bảo vệ Nguồn lực:** Phân biệt đối xử nơi công sở hoặc nơi công cộng bị coi là hành vi "phá hoại kinh tế". Một người quản lý từ chối thuê một người tài năng chỉ vì màu da của họ có thể bị SSA điều tra vì tội "cản trở sự phát triển của Đế chế".
 
-- **Kiểm soát các tổ chức:** Mọi tổ chức tôn giáo phải đăng ký và chịu sự giám sát của nhà nước. Các chức sắc, linh mục phải được nhà nước chấp thuận. Các bài giảng và kinh sách đều bị **[[Ministerium für Volksbildung und Kultur]]** kiểm duyệt để loại bỏ bất kỳ giáo lý nào mâu thuẫn với hệ tư tưởng nhà nước (ví dụ: các thông điệp về hòa bình cho nhân loại, sự khiêm tốn).
-
-- **Các hoạt động bị cấm:** Bất kỳ cuộc tụ họp tôn giáo nào không được đăng ký đều bị coi là bất hợp pháp. Việc truyền bá bất kỳ tín ngưỡng nào không được nhà nước phê duyệt là một tội ác.
-
-- **Mục tiêu dài hạn:** Mục đích cuối cùng của các luật này là làm cho tôn giáo truyền thống trở nên lỗi thời, dần dần thay thế nó bằng một đức tin vào "Trật tự Đức Mới" và sự lãnh đạo của Reichskanzler.
+- **Mục đích Thực dụng:** Chính sách này không xuất phát từ lòng nhân đạo, mà từ sự lạnh lùng của Dostler. Ông ta muốn khai thác 100% năng suất của dân số. Do đó, các bộ phim, quảng cáo và truyền thông luôn thể hiện hình ảnh một xã hội đa dạng nhưng thống nhất dưới một lá cờ. Điều này khiến phương Tây bối rối trong việc tuyên truyền chống lại VDR, vì bề ngoài xã hội VDR trông có vẻ "tiến bộ" và hiện đại.
 
 
 ### **2. Phe Kháng Chiến Heinkal**
@@ -108,15 +125,15 @@ Tài liệu này giải đáp các câu hỏi chính liên quan đến cốt tru
 3. **Giá trị của Tự do:** Họ đang chiến đấu cho nguyên tắc cơ bản rằng một cái lồng thịnh vượng vẫn chỉ là một cái lồng. Họ tin rằng không sự ổn định nào có thể biện minh cho việc mất đi nhân phẩm và tự do của con người.
 
 
-**H: Điều gì đã xảy ra với các hạn chế văn hóa của VDR trong các vùng lãnh thổ do Heinkal kiểm soát?**
+**H: Điều gì đã xảy ra với các chính sách kiểm soát văn hóa của VDR trong các vùng lãnh thổ do Heinkal kiểm soát?**
 
-**Đ:** Việc loại bỏ các hạn chế văn hóa của VDR là một trong những ưu tiên hàng đầu của chính quyền Heinkal, được thực hiện bởi **[[Ministerium für Bildung und Kultur]] (MBK)**.
+**Đ:** Việc loại bỏ sự kiểm duyệt và tuyên truyền của VDR là ưu tiên hàng đầu của chính quyền Heinkal, được thực hiện bởi **[[Ministerium für Bildung und Kultur]] (MBK)**.
 
-- **Khôi phục Tự do:** Ngay lập tức, tất cả các hình thức nghệ thuật và âm nhạc trước đây bị cấm đều được hợp pháp hóa và khuyến khích. Điều này bao gồm nhạc rock, jazz từ phương Tây và các dòng nhạc đa dạng khác. Đây là một biểu tượng mạnh mẽ cho sự trở lại của tự do.
+- **Khôi phục Nguyên bản (De-Localization):** Heinkal bãi bỏ chính sách "Ấn bản Thị trường Đức". Người dân giờ đây được phép tiếp cận các tác phẩm nghệ thuật, phim ảnh và âm nhạc phương Tây (như Rock, Jazz) ở **dạng nguyên bản**, không bị chỉnh sửa lời bài hát hay thay đổi bìa đĩa. Sự "trong sạch hóa" và định hướng tư tưởng của VDR bị loại bỏ hoàn toàn.
 
-- **Hoàn trả các Ngày lễ:** Các ngày lễ tôn giáo và truyền thống đã được khôi phục. Lễ Giáng sinh được trả lại đúng với ý nghĩa tôn giáo của nó, thay thế cho lễ "Julfest" của nhà nước VDR.
+- **Tự do Tôn giáo Thực sự:** Các ngày lễ truyền thống như Giáng sinh vẫn được duy trì, nhưng được trả lại ý nghĩa tôn giáo và nhân văn thuần túy của nó. Heinkal loại bỏ sự giám sát của mật vụ trong nhà thờ và chấm dứt việc bắt buộc các giáo sĩ phải giảng dạy theo định hướng "Trật tự Mới". Chúa trời không còn là công cụ chính trị của nhà nước.
 
-- **Ngoại lệ - Cấm Tuyên truyền của VDR:** Tự do không có nghĩa là cho phép sự tồn tại của tư tưởng thù địch. Theo chính sách "loại bỏ tư tưởng cực đoan" của MBK, tất cả các bài quốc ca, hành khúc quân đội và các bài hát tuyên truyền của VDR đều bị cấm. Việc phổ biến chúng bị coi là một hành vi vi phạm pháp luật, tương tự như các luật chống lại các biểu tượng của Đức Quốc xã ở thế giới thực.
+- **Ngoại lệ - Cấm Tuyên truyền của VDR:** Tự do không có nghĩa là cho phép sự tồn tại của tư tưởng thù địch. Theo chính sách "loại bỏ tư tưởng cực đoan" của MBK, tất cả các bài quốc ca, hành khúc quân đội và các bài hát tuyên truyền cổ xúy cho chế độ Dostler đều bị cấm. Việc phổ biến chúng bị coi là một hành vi vi phạm pháp luật, tương tự như các luật chống lại các biểu tượng của Đức Quốc xã ở thế giới thực.
 
 
 ### **3. Tiền Tệ & Kinh Tế**
